@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **Luk4x/Luk4x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![luk4x GitHub stats](https://github-readme-stats.vercel.app/api?username=Luk4x&show_icons=true&theme=tokyonight)
+
+[![luk4x Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4x&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/Luk4x)
