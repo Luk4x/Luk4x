@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 [![luk4x GitHub stats](https://github-readme-stats.vercel.app/api?username=Luk4x&show_icons=true&theme=tokyonight)](https://github.com/Luk4x)
 
-[![luk4x Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4x&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/Luk4x)
+[![luk4x Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4x&langs_count=8&theme=tokyonight)](https://github.com/Luk4x)
 
-[v0.1.1]
+[v0.1.2]
