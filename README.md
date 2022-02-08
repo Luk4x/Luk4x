@@ -33,7 +33,7 @@
     <img height="30" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </p>
 </p>
-
+<br>
 <h2 align="center">Contact</h2>
 <p align="center">
   <a href="mailto:luk4xm4ci3l@gmail.com" alt="Gmail" target="_blank">
@@ -90,7 +90,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=dev-contabil&theme=tokyonight">
   </a>
 </p>
-
+<br>
 <h2 align="center">Github Analytics</h2>
 <p align="center">
   <a href="https://github.com/Luk4x">
