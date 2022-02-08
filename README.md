@@ -8,9 +8,8 @@
 <ul align="left">
     <li>I love <strong>Programming</strong> and <strong>Animes</strong>.</li>
     <li>I studied at <a href="https://estudonauta.com">Estudonauta</a>.</li>
-    <li>I'm currently a <strong>Front-End</strong> Developer.</li>
-    <li>I'm currently studying <strong>Full-Stack</strong> web development at <a href="https://devclub.rodolfomori.com.br/">&lt;DevClub/&gt;</a>.</li>
-    <li>I'm constantly acquiring new skills and <strong>developing projects</strong>.</li>
+    <li>I'm currently studying <strong>Full-Stack</strong> Web Development at <a href="https://devclub.rodolfomori.com.br/">&lt;DevClub/&gt;</a> with Professor <a href="https://www.linkedin.com/in/rodolfomori/" target="_blank">Rodolfo Mori<a>.</li>
+    <li>I'm currently a <strong>Front-End</strong> Developer, constantly acquiring new skills and <strong>developing projects</strong>.</li>
 </ul>
 
 <h2 align="left">Languages and Tools</h2>
