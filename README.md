@@ -88,7 +88,7 @@
   </a>
 </p>
 
-<h2 align="center">Github Statistics</h2>
+<h2 align="center">Github Analytics</h2>
 <p align="center">
   <a href="https://github.com/Luk4x">
     <img src="https://github-readme-stats.vercel.app/api?username=Luk4x&show_icons=true&theme=tokyonight">
