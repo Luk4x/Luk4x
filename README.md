@@ -6,9 +6,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="purple computer">
 
 <ul align="left">
-    <li>I studied at <a href"https://estudonauta.com">Estudonauta</a>.</li>
-    <li>I'm currently studying Full-Stack web development at <a href="https://devclub.rodolfomori.com.br/">&lt;DevClub/&gt;</a>.</li>
-    <li>Constantly acquiring new skills and developing projects.</li>
+    <li>I love <strong>Programming</strong> and <strong>Animes</strong>.</li>
+    <li>I studied at <a href="https://estudonauta.com">Estudonauta</a>.</li>
+    <li>I'm currently a <strong>Front-End</strong> Developer.</li>
+    <li>I'm currently studying <strong>Full-Stack</strong> web development at <a href="https://devclub.rodolfomori.com.br/">&lt;DevClub/&gt;</a>.</li>
+    <li>I'm constantly acquiring new skills and <strong>developing projects</strong>.</li>
 </ul>
 
 <h2 align="left">Languages and Tools</h2>
@@ -35,12 +37,12 @@
 
 <h2 align="center">Contact</h2>
 <p align="center">
-  <a href="mailto:luk4xm4ciel@gmail.com" alt="Gmail">
+  <a href="mailto:luk4xm4ci3l@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
-  <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  <a href="https://www.linkedin.com/in/lucasmacielf/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
   <a href="#" alt="Telegram">
@@ -51,15 +53,22 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 
-  <a href="#" alt="Facebook">
+  <a href="https://www.facebook.com/profile.php?id=100077342820651" alt="Facebook">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/this.time_29d/" alt="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+    
+  <a href="https://discord.gg/luk4x#5068" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
 
+<h4 align="center"/>
+<details>
+<summary>More...</summary>
 <h2 align="center">Github Statistics</h2>
 <p align="center">
   <a href="https://github.com/Luk4x">
@@ -71,10 +80,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4x&langs_count=8&theme=tokyonight">
   </a>
 </p>
-
-<h4 align="center"/>
-<details>
-<summary>More...</summary>
 </details>
 
 <!--
