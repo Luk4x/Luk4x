@@ -1,19 +1,30 @@
 <h1 align="center">Yo, Luk4x desu!</h1>
 
-<h2 align="center"><img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim</h2>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode">
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="purple computer">
 
 <p align="left"> 
-  Atualmente estudo Desenvolvimento Web no <DevClub/>, com foco em me tornar Full-stack.
+  Atualmente estudo Desenvolvimento Web no &lt;DevClub/&gt;, com foco em me tornar Full-stack.
+  Explorando novas tecnologias e desenvolvendo projetos.
+  Estudando **Desenvolvimento Web** no <a href="link da sua faculdade">&lt;DevClub/&gt;</a>.
+  Pretendo aprender mais sobre:
+  <code><img height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+  <code><img height="30" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+  <code><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 </p>
 
-<p align="left">
-  🦄 Linguagens: HTML5, CSS3, JavaScript
-</p>
-
-<p align="left">
-  💼 Ferramentas: VSCode, Figma.
-</p>
+## Languages and Tools
+<code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
+<code><img height="30" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"></code>
+<code><img height="30" src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <h2 align="center">Contact</h2>
 <p align="center">
