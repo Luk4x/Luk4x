@@ -64,18 +64,18 @@
 <h2 align="center">Featured Projects</h2>
 <p align="center">
   <a href="https://github.com/Luk4x/project-collor" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=project-collor&theme=tokyonight">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=project-collor&theme=tokyonight&hide_border=true">
   </a>
   <a href="https://github.com/Luk4x/playstation-store" target="_blank">
-    <img align="center" height="122px" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=playstation-store&theme=tokyonight">
+    <img align="center" height="122px" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=playstation-store&theme=tokyonight&hide_border=true">
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Luk4x/MissProg5d" target="_blank">
-    <img align="center" height="122px" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=MissProg5d&theme=tokyonight">
+    <img align="center" height="122px" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=MissProg5d&theme=tokyonight&hide_border=true">
   </a>
   <a href="https://github.com/Luk4x/projeto-calculadora" target="_blank">
-    <img align="center" height="122px" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=projeto-calculadora&theme=tokyonight">
+    <img align="center" height="122px" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=projeto-calculadora&theme=tokyonight&hide_border=true">
   </a>
 </p>
 <h4 align="center"/>
@@ -84,22 +84,23 @@
 <br>
 <p align="center">
   <a href="https://github.com/Luk4x/Estudonauta-DesenvolvimentoWeb--HTML5-CSS3-" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=Estudonauta-DesenvolvimentoWeb--HTML5-CSS3-&theme=tokyonight">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=Estudonauta-DesenvolvimentoWeb--HTML5-CSS3-&theme=tokyonight&hide_border=true">
   </a>
   <a href="https://github.com/Luk4x/dev-contabil" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=dev-contabil&theme=tokyonight">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=dev-contabil&theme=tokyonight&hide_border=true">
   </a>
 </p>
 <br>
 <h2 align="center">Github Analytics</h2>
 <p align="center">
   <a href="https://github.com/Luk4x">
-    <img src="https://github-readme-stats.vercel.app/api?username=Luk4x&show_icons=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=Luk4x&show_icons=true&custom_title=Luk4x's%20Github%20Stats&theme=tokyonight&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luk4x&theme=tokyonight&hide_border=true">
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Luk4x">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4x&langs_count=8&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true">
   </a>
 </p>
 </details>
