@@ -74,8 +74,8 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Luk4x/MissProg5d" target="_blank">
-    <img align="center" height="122px" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=MissProg5d&theme=tokyonight&hide_border=true">
+  <a href="https://github.com/Luk4x/devClub-convert-money" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=devClub-convert-money&theme=tokyonight&hide_border=true">
   </a>
   <a href="https://github.com/Luk4x/projeto-calculadora" target="_blank">
     <img align="center" height="122px" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=projeto-calculadora&theme=tokyonight&hide_border=true">
@@ -86,8 +86,8 @@
 <summary>More...</summary>
 <br>
 <p align="center">
-  <a href="https://github.com/Luk4x/Estudonauta-DesenvolvimentoWeb--HTML5-CSS3-" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=Estudonauta-DesenvolvimentoWeb--HTML5-CSS3-&theme=tokyonight&hide_border=true">
+  <a href="https://github.com/Luk4x/MissProg5d" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=MissProg5d&theme=tokyonight&hide_border=true">
   </a>
   <a href="https://github.com/Luk4x/dev-contabil" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=dev-contabil&theme=tokyonight&hide_border=true">
