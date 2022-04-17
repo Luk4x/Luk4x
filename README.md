@@ -14,15 +14,15 @@
 
 <h2 align="left">Languages and Tools</h2>
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=007ACC">
   <img height="30" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC">
   <img height="30" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
   <img height="30" src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=007ACC">
+  <img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img height="30" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <br>
