@@ -1,5 +1,5 @@
 <h1 align="center">
-<img width="40" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Yo, Luk4x desu!
+<img width="40" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Yo, i'm Luk4x!
 </h1>
 
 <h2 align="left">About</h2>
