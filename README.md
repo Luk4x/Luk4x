@@ -5,7 +5,6 @@
 <img src="./anime-coding.gif" width="420px" align="right" alt="anime coding">
 
 <br>
-<br>
 <ul align="left">
     <li>❤️ Love <strong>Programming</strong> and <strong>Animes</strong>.</li>
     <li>📌 Already studied at <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>, <a href="https://grasshopper.app/" target="_blank">Grasshopper</a> and <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.</li>
@@ -13,7 +12,8 @@
     <li>🔭 I'm currently a <strong>Front-End</strong> Developer, constantly acquiring new skills and <strong>developing projects</strong>.</li>
 </ul>
 <br>
-<br>
+
+---
 
 <h2 align="center">📩 Contact</h2>
 <p align="center">
@@ -46,10 +46,14 @@ const tools = {
     workspace: {
         dualboot: ['Windows 10', 'Pop!_OS 21.10'],
         terminal: 'Oh my Zsh',
-        editor: 'Visual Studio Code'
+        editor: 'Visual Studio Code',
+        codeVersioning: 'Git/Github'
     },
     languages: ['HTML5', 'CSS3', 'Javascript'], // Basic of: C, C#, Python, Java.
-    tools: ['Git', 'Figma', 'Node.JS', 'Express.JS', 'Insomnia']
+    tools: {
+        frontEnd: 'Figma',
+        backEnd: ['Node.JS', 'Express.JS', 'Insomnia']
+    }
         
     /*
         Soon: TypeScript, React, React Native, Styled-Components, Docker...
