@@ -2,7 +2,7 @@
 <img width="40" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Yo, i'm Luk4x!
 </h1>
 
-<img src="./anime-coding.gif" width="430px" align="right" alt="anime coding">
+<img src="./anime-coding.gif" width="420px" align="right" alt="anime coding">
 
 <br>
 <br>
@@ -48,7 +48,7 @@ const tools = {
         terminal: 'Oh my Zsh',
         editor: 'Visual Studio Code'
     },
-    languages: ['HTML', 'CSS', 'Javascript'], // Basic of: C, C#, Python, Java.
+    languages: ['HTML5', 'CSS3', 'Javascript'], // Basic of: C, C#, Python, Java.
     tools: ['Git', 'Figma', 'Node.JS', 'Express.JS', 'Insomnia']
         
     /*
