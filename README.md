@@ -17,24 +17,28 @@
 
 <h2 align="center">📩 Contact</h2>
 <p align="center">
+  <a href="https://www.canva.com/design/DAE8KvK9Jtk/_6zffxMSGT9L8N-aqcC33w/view?utm_content=DAE8KvK9Jtk&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
+  </a>
+    
   <a href="mailto:luk4xm4ci3l@gmail.com" alt="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
   </a>
   
   <a href="https://www.linkedin.com/in/lucasmacielf/" alt="Linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
   
   <a href="https://t.me/lu_k4x" alt="Telegram" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
   </a>
 
   <a href="https://api.whatsapp.com/send?phone=5522998715442" alt="WhatsApp" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
   </a>
 
   <a href="https://www.instagram.com/lu_k4x/" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
   </a>
 </p>
 <br>
@@ -49,7 +53,7 @@ const tools = {
         editor: 'Visual Studio Code',
         codeVersioning: 'Git/Github'
     },
-    languages: ['HTML5', 'CSS3', 'Javascript'], // Basic of: C, C#, Python, Java.
+    code: ['HTML5', 'CSS3', 'Javascript'], // Basic of: C, C#, Python, Java.
     tools: {
         frontEnd: 'Figma',
         backEnd: ['Node.JS', 'Express.JS', 'Insomnia']
@@ -63,7 +67,9 @@ const tools = {
 
 <br>
 
-<h2 align="center">⚡ Featured Projects</h2>
+<h2 align="center">
+<details>
+<summary>🗄⚡ Featured Projects</summary>
 <p align="center">
   <a href="https://github.com/Luk4x/project-collor" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=project-collor&theme=tokyonight&hide_border=true">
@@ -80,9 +86,6 @@ const tools = {
     <img align="center" height="122px" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=projeto-calculadora&theme=tokyonight&hide_border=true">
   </a>
 </p>
-<h4 align="center"/>
-<details>
-<summary>More...</summary>
 <p align="center">
   <a href="https://github.com/Luk4x/MissProg5d" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=MissProg5d&theme=tokyonight&hide_border=true">
@@ -94,7 +97,9 @@ const tools = {
 </details>
 
 <br>
-<h2 align="center">📈 Github Analytics</h2>
+<h2 align="center">
+<details>
+<summary>📈 Analytics</summary>
 <p align="center">
   <a href="https://github.com/Luk4x">
     <img src="https://github-readme-stats.vercel.app/api?username=Luk4x&show_icons=true&custom_title=Luk4x's%20Github%20Stats&theme=tokyonight&hide_border=true">
@@ -106,6 +111,7 @@ const tools = {
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true">
   </a>
 </p>
+</details>
 
 <!--
 - 🔭 I’m currently working on ...
