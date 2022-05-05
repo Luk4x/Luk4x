@@ -16,7 +16,7 @@
 <img width="40" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Yo, i'm Luk4x.
 </h1>
 
-<img src="./anime-coding.gif" width="430px" align="right" alt="anime coding">
+<img src="./anime-coding.gif" width="420px" align="right" alt="anime coding">
 
 <br>
 <br>
