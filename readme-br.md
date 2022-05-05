@@ -19,6 +19,7 @@
 <img src="./anime-coding.gif" width="420px" align="right" alt="anime coding">
 
 <br>
+<br>
 <ul align="left">
     <li>❤️ Amo <strong>Programação</strong> e <strong>Animes</strong>.</li>
     <li>📌 Já estudei em <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>, <a href="https://grasshopper.app/" target="_blank">Grasshopper</a> e <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.</li>
