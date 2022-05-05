@@ -1,3 +1,17 @@
+<table align="left">
+  <tr>
+    <td>
+      <a href="readme-en.md">🇺🇸 English</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="README.md">🇧🇷 Português</a>
+    </td>
+  </tr>
+</table>
+<br>
+
 <h1 align="center">
 <img width="40" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Yo, i'm Luk4x!
 </h1>
@@ -69,7 +83,7 @@ const tools = {
 
 <h2 align="center">
 <details>
-<summary>🗄⚡ Featured Projects</summary>
+<summary>🗄 Featured Projects</summary>
 <p align="center">
   <a href="https://github.com/Luk4x/project-collor" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=project-collor&theme=tokyonight&hide_border=true">
