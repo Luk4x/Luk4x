@@ -1,4 +1,4 @@
-<table align="left">
+<table align="right">
   <tr>
     <td>
       <a href="readme-en.md">🇺🇸 English</a>
@@ -12,7 +12,7 @@
 </table>
 <br>
 
-<h1 align="center">
+<h1 align="left">
 <img width="40" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Yo, i'm Luk4x!
 </h1>
 
@@ -26,8 +26,6 @@
     <li>🔭 I'm currently a <strong>Front-End</strong> Developer, constantly acquiring new skills and <strong>developing projects</strong>.</li>
 </ul>
 <br>
-
----
 
 <h2 align="center">📩 Contact</h2>
 <p align="center">
