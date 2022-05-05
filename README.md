@@ -13,21 +13,21 @@
 <br>
 
 <h1 align="left">
-<img width="40" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Yo, i'm Luk4x!
+<img width="40" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Yo, sou o Luk4x.
 </h1>
 
 <img src="./anime-coding.gif" width="420px" align="right" alt="anime coding">
 
 <br>
 <ul align="left">
-    <li>❤️ Love <strong>Programming</strong> and <strong>Animes</strong>.</li>
-    <li>📌 Already studied at <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>, <a href="https://grasshopper.app/" target="_blank">Grasshopper</a> and <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.</li>
-    <li>💻 I'm currently studying <strong>Full-Stack</strong> Web Development at <a href="https://www.linkedin.com/school/code-club-devs/" target="_blank">&lt;DevClub/&gt;</a> with Professor <a href="https://www.linkedin.com/in/rodolfomori/" target="_blank">Rodolfo Mori<a>.</li>
-    <li>🔭 I'm currently a <strong>Front-End</strong> Developer, constantly acquiring new skills and <strong>developing projects</strong>.</li>
+    <li>❤️ Amo <strong>Programação</strong> e <strong>Animes</strong>.</li>
+    <li>📌 Já estudei em <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>, <a href="https://grasshopper.app/" target="_blank">Grasshopper</a> e <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.</li>
+    <li>💻 Atualmente estou estudando Desenvolvimento Web <strong>Full-Stack</strong> no <a href="https://www.linkedin.com/school/code-club-devs/" target="_blank">&lt;DevClub/&gt;</a> com o Professor <a href="https://www.linkedin.com/in/rodolfomori/" target="_blank">Rodolfo Mori<a>.</li>
+    <li>🔭 Sou atualmente um Desenvolvedor <strong>Front-End</strong>, constantemente adquerindo novas habilidades e <strong>desenvolvendo projetos</strong>.</li>
 </ul>
 <br>
 
-<h2 align="center">📩 Contact</h2>
+<h2 align="center">📩 Contato</h2>
 <p align="center">
   <a href="https://www.canva.com/design/DAE8KvK9Jtk/_6zffxMSGT9L8N-aqcC33w/view?utm_content=DAE8KvK9Jtk&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
@@ -55,7 +55,7 @@
 </p>
 <br>
 
-<h2 align="center">🛠️ Tools</h2>
+<h2 align="center">🛠️ Ferramentas</h2>
 
 ```javascript
 const tools = {
@@ -65,14 +65,14 @@ const tools = {
         editor: 'Visual Studio Code',
         codeVersioning: 'Git/Github'
     },
-    code: ['HTML5', 'CSS3', 'Javascript'], // Basic of: C, C#, Python, Java.
+    code: ['HTML5', 'CSS3', 'Javascript'], // Básico de: C, C#, Python, Java.
     tools: {
         frontEnd: 'Figma',
         backEnd: ['Node.JS', 'Express.JS', 'Insomnia']
     }
         
     /*
-        Soon: TypeScript, React, React Native, Styled-Components, Docker...
+        Em breve: TypeScript, React, React Native, Styled-Components, Docker...
     */
 }
 ```
@@ -81,7 +81,7 @@ const tools = {
 
 <h2 align="center">
 <details>
-<summary>🗄 Featured Projects</summary>
+<summary>🗄 Projetos Destacados</summary>
 <p align="center">
   <a href="https://github.com/Luk4x/project-collor" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=project-collor&theme=tokyonight&hide_border=true">
