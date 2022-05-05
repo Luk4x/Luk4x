@@ -30,7 +30,7 @@
 <h2 align="center">📩 Contato</h2>
 <p align="center">
   <a href="https://www.canva.com/design/DAE8KvK9Jtk/_6zffxMSGT9L8N-aqcC33w/view?utm_content=DAE8KvK9Jtk&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
+    <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
   </a>
     
   <a href="mailto:luk4xm4ci3l@gmail.com" alt="Gmail" target="_blank">
@@ -134,4 +134,8 @@ const tools = {
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" alt="portfolio">
+</a>
 -->
