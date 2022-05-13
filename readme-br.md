@@ -21,7 +21,7 @@
 <br>
 <ul align="left">
     <li>❤️ Amo <strong>Programação</strong> e <strong>Animes</strong>.</li>
-    <li>📌 Já estudei em <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>, <a href="https://grasshopper.app/" target="_blank">Grasshopper</a> e <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.</li>
+    <li>📌 Já estudei em <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>, <a href="https://www.dio.me" target="_blank">Digital Innovation One Inc<a/> e <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.</li>
     <li>💻 Atualmente estou estudando Desenvolvimento Web <strong>Full-Stack</strong> no <a href="https://www.linkedin.com/school/code-club-devs/" target="_blank">&lt;DevClub/&gt;</a> com o Professor <a href="https://www.linkedin.com/in/rodolfomori/" target="_blank">Rodolfo Mori<a>.</li>
     <li>🔭 Sou atualmente um Desenvolvedor <strong>Front-End</strong>, constantemente adquerindo novas habilidades e <strong>desenvolvendo projetos</strong>.</li>
 </ul>
