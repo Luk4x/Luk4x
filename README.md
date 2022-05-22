@@ -16,14 +16,14 @@
 <img width="40" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Yo, i'm Luk4x.
 </h1>
 
-<img src="./anime-coding.gif" width="420px" align="right" alt="anime coding">
+<p align="center">
+  <img src="./anime-coding.gif" alt="anime coding">
+</p>
 
-<br>
-<br>
 <ul align="left">
     <li>❤️ Love <strong>Programming</strong> and <strong>Animes</strong>.</li>
-    <li>📌 Already studied at <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>, <a href="https://www.dio.me/en" target="_blank">Digital Innovation One Inc</a> and <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.</li>
-    <li>💻 I'm currently studying <strong>Full-Stack</strong> Web Development at <a href="https://www.linkedin.com/school/code-club-devs/" target="_blank">&lt;DevClub/&gt;</a> with Professor <a href="https://www.linkedin.com/in/rodolfomori/" target="_blank">Rodolfo Mori<a>.</li>
+    <li>📌 Already studied at <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a> and <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.</li>
+    <li>💻 I'm currently studying <strong>Full-Stack</strong> Web Development at <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a> and at <a href="https://www.dio.me/en" target="_blank">Digital Innovation One Inc</a>.</li>
     <li>🔭 I'm currently a <strong>Front-End</strong> Developer, constantly acquiring new skills and <strong>developing projects</strong>.</li>
 </ul>
 <br>
@@ -59,7 +59,7 @@
 <h2 align="center">🛠️ Tools</h2>
 
 ```javascript
-const tools = {
+const stack = {
     workspace: {
         dualboot: ['Windows 10', 'Pop!_OS 21.10'],
         terminal: 'Oh my Zsh',
