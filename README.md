@@ -68,7 +68,7 @@ const stack = {
     },
     code: ['HTML5', 'CSS3', 'Javascript'], // Basic of: C, C#, Python, Java.
     tools: {
-        frontEnd: 'Figma',
+        frontEnd: ['Bootstrap', 'JQuery'],
         backEnd: ['Node.JS', 'Express.JS', 'Insomnia']
     }
         
