@@ -80,15 +80,13 @@ const stack = {
 
 <br>
 
-<h2 align="center">
-<details>
-<summary>🗄 Featured Projects</summary>
+<h2 align="center">🗄 Featured Projects</h2>
 <p align="center">
   <a href="https://github.com/Luk4x/project-collor" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=project-collor&theme=tokyonight&hide_border=true">
   </a>
-  <a href="https://github.com/Luk4x/playstation-store" target="_blank">
-    <img align="center" height="122px" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=playstation-store&theme=tokyonight&hide_border=true">
+  <a href="https://github.com/Luk4x/netflix-start-page-clone" target="_blank">
+    <img align="center" height="122px" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=netflix-start-page-clone&theme=tokyonight&hide_border=true">
   </a>
 </p>
 <p align="center">
@@ -100,14 +98,13 @@ const stack = {
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Luk4x/MissProg5d" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=MissProg5d&theme=tokyonight&hide_border=true">
+  <a href="https://github.com/Luk4x/viaCEP-API" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=viaCEP-API&theme=tokyonight&hide_border=true">
   </a>
-  <a href="https://github.com/Luk4x/dev-contabil" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=dev-contabil&theme=tokyonight&hide_border=true">
+  <a href="https://github.com/Luk4x/playstation-store" target="_blank">
+    <img align="center" height="122px" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=playstation-store&theme=tokyonight&hide_border=true">
   </a>
 </p>
-</details>
 
 <br>
 <h2 align="center">
