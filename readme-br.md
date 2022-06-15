@@ -69,7 +69,7 @@ const stack = {
     code: ['HTML5', 'CSS3', 'Javascript'], // Básico de: C, C#, Python, Java.
     tools: {
         frontEnd: ['Bootstrap', 'JQuery'],
-        backEnd: ['Node.JS', 'Express.JS', 'Insomnia']
+        backEnd: ['Node.JS', 'Express.JS']
     }
         
     /*
