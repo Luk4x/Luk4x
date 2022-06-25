@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
   </a>
 
-  <a href="https://wa.me/5522996112570?text=Yo,%20sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." alt="WhatsApp" target="_blank">
+  <a href="https://wa.me/5522996112570?text=Yo,%20feel%20free%20to%20contact%20me." alt="WhatsApp" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
   </a>
 
