@@ -57,27 +57,94 @@
 <br>
 
 <h2 align="center">🛠️ Tools</h2>
-
-```javascript
-const stack = {
-    workspace: {
-        dualboot: ['Windows 10', 'Pop!_OS 21.10'],
-        terminal: 'Oh my Zsh',
-        editor: 'Visual Studio Code',
-        codeVersioning: 'Git/Github'
-    },
-    code: ['HTML5', 'CSS3', 'Javascript'], // Basic of: C, C#, Python, Java.
-    tools: {
-        frontEnd: ['Bootstrap', 'JQuery'],
-        backEnd: ['Node.JS', 'Express.JS']
-    }
-        
-    /*
-        Soon: TypeScript, React, React Native, Styled-Components, Docker...
-    */
-}
-```
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45px;" alt="visual studio code icon"/><br>
+      <sub>
+        <b>VSCode</b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px;" alt="HTML5 icon"/><br>
+      <sub>
+        <b>HTML5</b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px;" alt="CSS3 icon"/><br>
+      <sub>
+        <b>CSS3</b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px;" alt="Javascript icon"/><br>
+      <sub>
+        <b>Javascript</b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100%;" alt="Git icon"/><br>
+      <sub>
+        <b>Git</b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45px;" alt="Github icon"/><br>
+      <sub>
+        <b>Github</b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100%;" alt="ReactJS icon"/><br>
+      <sub>
+        <b>ReactJS</b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://styled-components.com/logo.png" width="100%;" alt="styled-components icon"/><br>
+      <sub>
+        <b>styled-c</b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45px;" alt="Bootstrap icon"/><br>
+      <sub>
+        <b>Bootstrap</b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="45px;" alt="JQuery icon"/><br>
+      <sub>
+        <b>JQuery</b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="45px;" alt="Insomnia icon"/><br>
+      <sub>
+        <b>Insomnia</b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45px;" alt="NodeJS icon"/><br>
+      <sub>
+        <b>NodeJS</b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45px;" alt="ExpressJS icon"/><br>
+      <sub>
+        <b>ExpressJS</b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="45px;" alt="Axios icon"/><br>
+      <sub>
+        <b>Axios</b>
+      </sub>
+    </td>
+  </tr>
+</table>
 <br>
 
 <h2 align="center">🗄 Featured Projects</h2>
