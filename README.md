@@ -183,7 +183,7 @@
     <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="line">
   </a>
 </p>
-<br><br><br><br><br>
+<br><br><br><br>
 
 <h2 align="center">🗄 Featured Projects</h2>
 <p align="center">
