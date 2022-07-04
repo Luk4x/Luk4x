@@ -136,6 +136,12 @@
       </sub>
     </td>
     <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/177162603-b078ec0b-5097-4067-9e04-f2e260e298a8.png" width="45px;" alt="Yarn/npm icon"/><br>
+      <sub>
+        <b>Yarn/npm</b>
+      </sub>
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45px;" alt="ExpressJS icon"/><br>
       <sub>
         <b>ExpressJS</b>
