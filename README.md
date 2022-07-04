@@ -79,6 +79,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px;" alt="CSS3 icon"/><br>
       <sub>
         <b>CSS3</b>
+        &emsp;
       </sub>
     </td>
     <td align="center">
@@ -91,6 +92,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100%;" alt="Git icon"/><br>
       <sub>
         <b>Git</b>
+        &emsp;&emsp;
       </sub>
     </td>
     <td align="center">
