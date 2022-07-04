@@ -3,12 +3,12 @@
 <table align="right">
   <tr>
     <td>
-      <a href="readme-br.md">🇧🇷 Português</a>
+      <a href="README.md">🇺🇸 English</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="README.md">🇺🇸 English</a>
+      <a href="readme-br.md">🇧🇷 Português</a>
     </td>
   </tr>
 </table>
