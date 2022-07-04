@@ -1,4 +1,4 @@
-<img align="left" width="82%" alt="about" src="https://user-images.githubusercontent.com/86276393/177202959-7a71f8b5-bd35-46d8-a8bb-15ce95751191.png"/>
+<img align="left" width="85%" alt="about" src="https://user-images.githubusercontent.com/86276393/177202959-7a71f8b5-bd35-46d8-a8bb-15ce95751191.png"/>
 <br><br>
 <table align="right">
   <tr>
@@ -14,7 +14,7 @@
 </table>
 <br><br><br><br><br><br><br><br>
 
-<img align="right" src="./anime-coding.gif" width="420" alt="anime coding">
+<img align="right" src="./anime-coding.gif" width="450" alt="anime coding">
 <ul align="left">
     <li>❤️ Amo <strong>Programação</strong> e <strong>Animes</strong>.</li>
     <li>📌 Já estudei em <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a> e <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.</li>
@@ -151,7 +151,7 @@
 <br>
 
 <h2 align="center">📩 Contato</h2>
-<img align="left" width="200" src="./oh-ok.gif" alt="anime coding">
+<img align="left" width="240" src="./oh-ok.gif" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="https://www.canva.com/design/DAFDn4Y8-po/O08MWr0mP0q9-CyX0Rxm_w/view?utm_content=DAFDn4Y8-po&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
