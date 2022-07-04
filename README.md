@@ -18,7 +18,7 @@
 <ul align="left" width="50">
     <li>❤️ Love <strong>Programming</strong> and <strong>Animes</strong>.</li>
     <li>📌 Already studied at <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a> and <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.</li>
-    <li>💻 I'm currently studying <strong>Full-Stack</strong> Web Development at <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a> and at <a href="https://www.dio.me/en" target="_blank">Digital Innovation One Inc</a>.</li>
+    <li>💻 I'm currently studying at <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a> and at <a href="https://www.dio.me/en" target="_blank">Digital Innovation One Inc</a>.</li>
     <li>🔭 I'm currently a <strong>Front-End</strong> Developer, constantly acquiring new skills and <strong>developing projects</strong>.</li>
 </ul>
 <br><br><br>
