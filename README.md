@@ -53,6 +53,10 @@
   <a href="https://www.instagram.com/lu_k4x/" alt="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
   </a>
+  
+  <a href="https://line.me/ti/p/9DbuEDA6O7" alt="line" target="_blank">
+    <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="line">
+  </a>
 </p>
 <br>
 
