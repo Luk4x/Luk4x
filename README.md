@@ -66,93 +66,121 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="100px;" alt="visual studio code icon"/><br>
       <sub>
-        <b>VSCode</b>
+        <b>
+          <pre>VSCode</pre>
+        </b>
       </sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100px;" alt="HTML5 icon"/><br>
       <sub>
-        <b>HTML5</b>
+        <b>
+          <pre>HTML5</pre>
+        </b>
       </sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100px;" alt="CSS3 icon"/><br>
       <sub>
-        <b>CSS3</b>
-        &emsp;
+        <b>
+          <pre>&ensp;CSS3&ensp;</pre>
+        </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100px;" alt="Javascript icon"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80px;" alt="Javascript icon"/><br>
       <sub>
-        <b>Javascript</b>
+        <b>
+          <pre>Javascript</pre>
+        </b>
       </sub>
     </td>
     <td align="center" width="100px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100px;" alt="Git icon"/><br>
       <sub>
-        <b>Git</b>
-        &emsp;&emsp;
+        <b>
+          <pre>&emsp;Git&emsp;</pre>
+        </b>
       </sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100px;" alt="Github icon"/><br>
       <sub>
-        <b>Github</b>
+        <b>
+          <pre>Github</pre>
+        </b>
       </sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100px;" alt="ReactJS icon"/><br>
       <sub>
-        <b>ReactJS</b>
+        <b>
+          <pre>ReactJS</pre>
+        </b>
       </sub>
     </td>
     <td align="center">
       <img src="https://styled-components.com/logo.png" width="100px;" alt="styled-components icon"/><br>
       <sub>
-        <b>styled-c</b>
+        <b>
+          <pre>styled-c</pre>
+        </b>
       </sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="100px;" alt="Bootstrap icon"/><br>
       <sub>
-        <b>Bootstrap</b>
+        <b>
+          <pre>Bootstrap</pre>
+        </b>
       </sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="100px;" alt="JQuery icon"/><br>
       <sub>
-        <b>JQuery</b>
+        <b>
+          <pre>JQuery</pre>
+        </b>
       </sub>
     </td>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="100px;" alt="Insomnia icon"/><br>
       <sub>
-        <b>Insomnia</b>
+        <b>
+          <pre>Insomnia</pre>
+        </b>
       </sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100px;" alt="NodeJS icon"/><br>
       <sub>
-        <b>NodeJS</b>
+        <b>
+          <pre>NodeJS</pre>
+        </b>
       </sub>
     </td>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/177162603-b078ec0b-5097-4067-9e04-f2e260e298a8.png" width="100px;" alt="Yarn/npm icon"/><br>
       <sub>
-        <b>Yarn/npm</b>
+        <b>
+          <pre>Yarn/npm</pre>
+        </b>
       </sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="100px;" alt="ExpressJS icon"/><br>
       <sub>
-        <b>ExpressJS</b>
+        <b>
+          <pre>ExpressJS</pre>
+        </b>
       </sub>
     </td>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="100px;" alt="Axios icon"/><br>
       <sub>
-        <b>Axios</b>
+        <b>
+          <pre>&ensp;Axios&ensp;</pre>
+        </b>
       </sub>
     </td>
   </tr>
