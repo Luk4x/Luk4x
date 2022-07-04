@@ -14,7 +14,7 @@
 </table>
 <br><br><br><br><br><br><br><br>
 
-<img align="right" src="./anime-coding.gif" width="500" alt="anime coding">
+<img align="right" src="./anime-coding.gif" width="420" alt="anime coding">
 <ul align="left" width="50">
     <li>❤️ Love <strong>Programming</strong> and <strong>Animes</strong>.</li>
     <li>📌 Already studied at <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a> and <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.</li>
@@ -150,8 +150,10 @@
 </table>
 <br>
 
-<img align="left" width="220" src="./oh-ok.gif" alt="anime coding">
 <h2 align="center">📩 Contact</h2>
+
+<img align="left" width="200" src="./oh-ok.gif" alt="anime coding">
+<br><br>
 <p align="center">
   <a href="https://www.canva.com/design/DAFDn4Y8-po/O08MWr0mP0q9-CyX0Rxm_w/view?utm_content=DAFDn4Y8-po&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
@@ -181,7 +183,7 @@
     <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="line">
   </a>
 </p>
-<br><br><br>
+<br><br><br><br><br>
 
 <h2 align="center">🗄 Featured Projects</h2>
 <p align="center">
