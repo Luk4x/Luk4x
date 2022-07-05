@@ -5,10 +5,12 @@
 <table align="center">
   <tr>
     <td>
-      <a href="readme-br.md">🇧🇷 Português</a>
+      <a href="README.md">🇺🇸 English</a>
     </td>
     <td>
-      <a href="README.md">🇺🇸 English</a>
+      <b>
+        <a href="readme-br.md">🇧🇷 Português</a>
+      </b>
     </td>
   </tr>
 </table>
