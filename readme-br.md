@@ -1,5 +1,6 @@
-<img align="left" width="85%" alt="about" src="https://user-images.githubusercontent.com/86276393/177202959-7a71f8b5-bd35-46d8-a8bb-15ce95751191.png"/>
+<img align="left" width="85%" alt="about" src="https://user-images.githubusercontent.com/86276393/177387369-041b57c3-8762-43b4-830f-cbf58a52c480.png"/>
 <br><br>
+
 <table align="right">
   <tr>
     <td>
