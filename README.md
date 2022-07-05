@@ -140,7 +140,7 @@
 <br>
 
 <h2 align="center">📩 Contact</h2>
-<img align="left" width="20%" src="./oh-ok.gif" alt="anime coding">
+<img align="left" width="25%" src="./oh-ok.gif" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="https://www.canva.com/design/DAFDn4Y8-po/O08MWr0mP0q9-CyX0Rxm_w/view?utm_content=DAFDn4Y8-po&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
