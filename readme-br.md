@@ -1,28 +1,24 @@
-<img align="left" width="85%" alt="about" src="https://user-images.githubusercontent.com/86276393/177387369-041b57c3-8762-43b4-830f-cbf58a52c480.png"/>
-<br><br>
+<img align="left" width="100%" alt="about" src="https://user-images.githubusercontent.com/86276393/177387369-041b57c3-8762-43b4-830f-cbf58a52c480.png"/>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
-<table align="right">
+<img align="right" src="./anime-coding.gif" width="52%" alt="anime coding">
+<table align="center">
   <tr>
     <td>
       <a href="readme-br.md">🇧🇷 Português</a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="README.md">🇺🇸 English</a>
     </td>
   </tr>
 </table>
-<br><br><br><br><br><br><br><br>
-
-<img align="right" src="./anime-coding.gif" width="52%" alt="anime coding">
 <ul align="left">
     <li>❤️ Amo <strong>Programação</strong> e <strong>Animes</strong>.</li>
     <li>📌 Já estudei em <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a> e <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.</li>
     <li>💻 Atualmente estou estudando no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a> e na <a href="https://www.dio.me" target="_blank">Digital Innovation One Inc<a/>.</li>
     <li>🔭 Sou atualmente um Desenvolvedor <strong>Front-End</strong>, constantemente adquerindo novas habilidades e <strong>desenvolvendo projetos</strong>.</li>
 </ul>
-<br><br><br>
+<br>
 
 <h2 align="center">🛠️ Ferramentas</h2>
 <table>
@@ -144,7 +140,7 @@
 <br>
 
 <h2 align="center">📩 Contato</h2>
-<img align="left" width="240" src="./oh-ok.gif" alt="anime coding">
+<img align="left" width="25%" src="./oh-ok.gif" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="https://www.canva.com/design/DAFDn4Y8-po/O08MWr0mP0q9-CyX0Rxm_w/view?utm_content=DAFDn4Y8-po&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
