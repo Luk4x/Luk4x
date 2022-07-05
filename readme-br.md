@@ -51,7 +51,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80px;" alt="Javascript icon"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px;" alt="Javascript icon"/><br>
       <sub>
         <b>
           <pre>Javascript</pre>
@@ -67,14 +67,6 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100px;" alt="Github icon"/><br>
-      <sub>
-        <b>
-          <pre>Github</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100px;" alt="ReactJS icon"/><br>
       <sub>
         <b>
@@ -83,7 +75,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://styled-components.com/logo.png" width="100px;" alt="styled-components icon"/><br>
+      <img src="https://styled-components.com/logo.png" width="70px;" alt="styled-components icon"/><br>
       <sub>
         <b>
           <pre>styled-c</pre>
@@ -139,7 +131,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="100px;" alt="Axios icon"/><br>
+      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="90px;" alt="Axios icon"/><br>
       <sub>
         <b>
           <pre>&ensp;Axios&ensp;</pre>
