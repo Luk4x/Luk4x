@@ -1,28 +1,24 @@
-<img align="left" width="82%" alt="about" src="https://user-images.githubusercontent.com/86276393/177386580-01564c58-29ce-4634-9b8b-83c2d9754ee6.png"/>
-<br><br>
+<img align="left" width="100%" alt="about" src="https://user-images.githubusercontent.com/86276393/177386580-01564c58-29ce-4634-9b8b-83c2d9754ee6.png"/>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
-<table align="right">
+<img align="right" src="./anime-coding.gif" width="50%" alt="anime coding">
+<table align="center">
   <tr>
     <td>
       <a href="README.md">🇺🇸 English</a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="readme-br.md">🇧🇷 Português</a>
     </td>
   </tr>
 </table>
-<br><br><br><br><br><br><br><br>
-
-<img align="right" src="./anime-coding.gif" width="50%" alt="anime coding">
-<ul align="left" width="50">
+<ul align="left">
     <li>❤️ Love <strong>Programming</strong> and <strong>Animes</strong>.</li>
     <li>📌 Already studied at <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a> and <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.</li>
     <li>💻 I'm currently studying at <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a> and at <a href="https://www.dio.me/en" target="_blank">Digital Innovation One Inc</a>.</li>
     <li>🔭 I'm currently a <strong>Front-End</strong> Developer, constantly acquiring new skills and <strong>developing projects</strong>.</li>
 </ul>
-<br><br><br>
+<br>
 
 <h2 align="center">🛠️ Tools</h2>
 <table>
@@ -144,8 +140,7 @@
 <br>
 
 <h2 align="center">📩 Contact</h2>
-
-<img align="left" width="200" src="./oh-ok.gif" alt="anime coding">
+<img align="left" width="20%" src="./oh-ok.gif" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="https://www.canva.com/design/DAFDn4Y8-po/O08MWr0mP0q9-CyX0Rxm_w/view?utm_content=DAFDn4Y8-po&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
