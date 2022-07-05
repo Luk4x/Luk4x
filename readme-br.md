@@ -14,7 +14,7 @@
 </table>
 <br><br><br><br><br><br><br><br>
 
-<img align="right" src="./anime-coding.gif" width="450" alt="anime coding">
+<img align="right" src="./anime-coding.gif" width="52%" alt="anime coding">
 <ul align="left">
     <li>❤️ Amo <strong>Programação</strong> e <strong>Animes</strong>.</li>
     <li>📌 Já estudei em <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a> e <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.</li>
