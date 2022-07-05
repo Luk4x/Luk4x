@@ -51,7 +51,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80px;" alt="Javascript icon"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px;" alt="Javascript icon"/><br>
       <sub>
         <b>
           <pre>Javascript</pre>
@@ -63,14 +63,6 @@
       <sub>
         <b>
           <pre>&emsp;Git&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100px;" alt="Github icon"/><br>
-      <sub>
-        <b>
-          <pre>Github</pre>
         </b>
       </sub>
     </td>
