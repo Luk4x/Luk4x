@@ -166,6 +166,7 @@
   <a href="https://line.me/ti/p/9DbuEDA6O7" alt="line" target="_blank">
     <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="line">
   </a>
+  <img src="https://user-images.githubusercontent.com/86276393/177438405-e828976c-3773-4b4e-a3f3-dc888c759003.png" alt="discord">
 </p>
 <br><br><br><br>
 
