@@ -1,7 +1,7 @@
 <img align="left" width="100%" alt="about" src="https://user-images.githubusercontent.com/86276393/177387369-041b57c3-8762-43b4-830f-cbf58a52c480.png"/>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-<img align="right" src="./anime-coding.gif" width="52%" alt="anime coding">
+<img align="right" src="./anime-coding.gif" width="410px" alt="anime coding">
 <table align="center">
   <tr>
     <td>
@@ -15,7 +15,7 @@
   </tr>
 </table>
 <ul align="left">
-    <li>❤️ Amo <strong>Programação</strong> e <strong>Animes</strong>.</li>
+    <li>🤩️ Amo <strong>Programação</strong> e <i>Animes</i>.</li>
     <li>📌 Já estudei em <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a> e <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.</li>
     <li>💻 Atualmente estou estudando no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a> e na <a href="https://www.dio.me" target="_blank">Digital Innovation One Inc<a/>.</li>
     <li>🔭 Sou atualmente um Desenvolvedor <strong>Front-End</strong>, constantemente adquerindo novas habilidades e <strong>desenvolvendo projetos</strong>.</li>
@@ -142,7 +142,7 @@
 <br>
 
 <h2 align="center">📩 Contato</h2>
-<img align="left" width="25%" src="./oh-ok.gif" alt="anime coding">
+<img align="left" width="180px" src="./oh-ok.gif" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="https://www.canva.com/design/DAFDn4Y8-po/O08MWr0mP0q9-CyX0Rxm_w/view?utm_content=DAFDn4Y8-po&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
@@ -174,9 +174,9 @@
 <img align="right" src="./bugs.gif" height="551px" alt="bugs gif">
 <ul type="none">
   <li>
-    <a href="https://github.com/Luk4x/project-collor" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=project-collor&theme=tokyonight&hide_border=true">
-  </a>
+    <a href="https://github.com/Luk4x/user-register-interface" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=user-register-interface&theme=tokyonight&hide_border=true">
+    </a>
   </li>
   <li>
     <a href="https://github.com/Luk4x/devClub-convert-money" target="_blank">
@@ -189,9 +189,9 @@
     </a>
   </li>
   <li>
-    <a href="https://github.com/Luk4x/netflix-start-page-clone" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=netflix-start-page-clone&theme=tokyonight&hide_border=true">
-    </a>
+    <a href="https://github.com/Luk4x/project-collor" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=project-collor&theme=tokyonight&hide_border=true">
+  </a>
   </li>
 </ul>
 
