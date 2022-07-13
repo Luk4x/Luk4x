@@ -6,11 +6,11 @@
   <tr>
     <td>
       <b>
-        <a href="readme-br.md">🇧🇷 Português</a>
+        <a href="README.md">🇧🇷 Português</a>
       </b>
     </td>
     <td>
-      <a href="README.md">🇺🇸 English</a>
+      <a href="readme-en.md">🇺🇸 English</a>
     </td>
   </tr>
 </table>
