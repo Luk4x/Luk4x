@@ -1,16 +1,16 @@
 <img align="left" width="100%" alt="about" src="https://user-images.githubusercontent.com/86276393/177386580-01564c58-29ce-4634-9b8b-83c2d9754ee6.png"/>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-<img align="right" src="./anime-coding.gif" width="410px" alt="anime coding">
+<img align="right" src="./anime-coding.gif" width="450px" alt="anime coding">
 <table align="center">
   <tr>
+    <td>
+      <a href="readme-br.md">🇧🇷 Português</a>
+    </td>
     <td>
       <b>
         <a href="README.md">🇺🇸 English</a>
       </b>
-    </td>
-    <td>
-      <a href="readme-br.md">🇧🇷 Português</a>
     </td>
   </tr>
 </table>
@@ -142,7 +142,7 @@
 <br>
 
 <h2 align="center">📩 Contact</h2>
-<img align="left" width="180px" src="./oh-ok.gif" alt="anime coding">
+<img align="left" width="240px" src="./oh-ok.gif" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="https://www.canva.com/design/DAFDn4Y8-po/O08MWr0mP0q9-CyX0Rxm_w/view?utm_content=DAFDn4Y8-po&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
@@ -174,9 +174,9 @@
 <img align="right" src="./bugs.gif" height="551px" alt="anime coding">
 <ul type="none">
   <li>
-    <a href="https://github.com/Luk4x/project-collor" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=project-collor&theme=tokyonight&hide_border=true">
-  </a>
+    <a href="https://github.com/Luk4x/user-register-interface" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=user-register-interface&theme=tokyonight&hide_border=true">
+    </a>
   </li>
   <li>
     <a href="https://github.com/Luk4x/devClub-convert-money" target="_blank">
@@ -189,16 +189,16 @@
     </a>
   </li>
   <li>
-    <a href="https://github.com/Luk4x/netflix-start-page-clone" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=netflix-start-page-clone&theme=tokyonight&hide_border=true">
-    </a>
+    <a href="https://github.com/Luk4x/project-collor" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=project-collor&theme=tokyonight&hide_border=true">
+  </a>
   </li>
 </ul>
 
 <br>
 <h2 align="center">
 <details>
-<summary>📈 Analytics</summary>
+<summary>📈 Github Analytics</summary>
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Luk4x&show_icons=true&custom_title=Luk4x's%20Github%20Stats&theme=tokyonight&hide_border=true">
