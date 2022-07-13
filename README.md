@@ -18,7 +18,7 @@
     <li>🤩️ Amo <strong>Programação</strong> e <i>Animes</i>.</li>
     <li>📌 Já estudei em <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a> e <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.</li>
     <li>💻 Atualmente estou estudando no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a> e na <a href="https://www.dio.me" target="_blank">Digital Innovation One Inc<a/>.</li>
-    <li>🔭 Sou atualmente um Desenvolvedor <strong>Front-End</strong>, constantemente adquerindo novas habilidades e <strong>desenvolvendo projetos</strong>.</li>
+    <li>🔭 Sou um Desenvolvedor <strong>Front-End</strong>, constantemente adquerindo novas habilidades e <strong>desenvolvendo projetos</strong>.</li>
 </ul>
 <br>
 
