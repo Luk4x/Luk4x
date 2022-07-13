@@ -1,7 +1,7 @@
 <img align="left" width="100%" alt="about" src="https://user-images.githubusercontent.com/86276393/177386580-01564c58-29ce-4634-9b8b-83c2d9754ee6.png"/>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-<img align="right" src="./anime-coding.gif" width="70%" alt="anime coding">
+<img align="right" src="./anime-coding.gif" width="420px" alt="anime coding">
 <table align="center">
   <tr>
     <td>
@@ -142,7 +142,7 @@
 <br>
 
 <h2 align="center">📩 Contact</h2>
-<img align="left" width="40%" src="./oh-ok.gif" alt="anime coding">
+<img align="left" width="200px" src="./oh-ok.gif" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="https://www.canva.com/design/DAFDn4Y8-po/O08MWr0mP0q9-CyX0Rxm_w/view?utm_content=DAFDn4Y8-po&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
