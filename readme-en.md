@@ -174,6 +174,11 @@
 <img align="right" src="./bugs.gif" height="551px" alt="anime coding">
 <ul type="none">
   <li>
+    <a href="https://github.com/Luk4x/dev-burger-order-log-interface" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=dev-burger-order-log-interface&theme=tokyonight&hide_border=true">
+  </a>
+  </li>
+  <li>
     <a href="https://github.com/Luk4x/user-register-interface" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=user-register-interface&theme=tokyonight&hide_border=true">
     </a>
@@ -187,11 +192,6 @@
      <a href="https://github.com/Luk4x/viaCEP-API" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=viaCEP-API&theme=tokyonight&hide_border=true">
     </a>
-  </li>
-  <li>
-    <a href="https://github.com/Luk4x/project-collor" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=project-collor&theme=tokyonight&hide_border=true">
-  </a>
   </li>
 </ul>
 
