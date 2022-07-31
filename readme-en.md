@@ -1,4 +1,4 @@
-<img align="left" width="100%" alt="about" src="https://user-images.githubusercontent.com/86276393/177386580-01564c58-29ce-4634-9b8b-83c2d9754ee6.png"/>
+<img align="left" width="100%" alt="about" src="https://user-images.githubusercontent.com/86276393/182046290-8252c455-26f3-4042-85d4-ec4f064a1c5c.png"/>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
 <img align="right" src="./anime-coding.gif" width="450px" alt="anime coding">
