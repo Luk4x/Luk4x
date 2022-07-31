@@ -77,7 +77,7 @@
       <img src="https://styled-components.com/logo.png" width="70px;" alt="styled-components icon"/><br>
       <sub>
         <b>
-          <pre>styled-c</pre>
+          <pre>Styled<br>Components</pre>
         </b>
       </sub>
     </td>
@@ -145,7 +145,7 @@
 <img align="left" width="180px" src="./oh-ok.gif" alt="anime coding">
 <br><br>
 <p align="center">
-  <a href="https://export-download.canva.com/Y8-po/DAFDn4Y8-po/99/0-31304002088.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20220722%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220722T020541Z&X-Amz-Expires=49703&X-Amz-Signature=dcf8c950a48cc83aa408a46c6cf0ca6ad900c23107ef16925892688ac908072a&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Lucas-Maciel-curr%25C3%25ADculo-frontend-v1.2.1.pdf&response-expires=Fri%2C%2022%20Jul%202022%2015%3A54%3A04%20GMT">
+  <a href="https://export-download.canva.com/LqWMs/DAFIBALqWMs/19/0-31890444452.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20220731%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220731T193743Z&X-Amz-Expires=11806&X-Amz-Signature=bbc51853c6befcb6010eb5c4454a447fb541e57e6dd14dd00886b6b316765aed&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Lucas-Maciel-curr%25C3%25ADculo-frontend-v1.3.pdf&response-expires=Sun%2C%2031%20Jul%202022%2022%3A54%3A29%20GMT">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
   </a>
   <a href="mailto:luk4xm4ci3l@gmail.com" alt="Gmail" target="_blank">
