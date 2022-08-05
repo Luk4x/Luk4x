@@ -26,7 +26,23 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="100px;" alt="visual studio code icon"/><br>
+      <img src="https://skillicons.dev/icons?i=linux" width="100px;" alt="bash icon"/><br>
+      <sub>
+        <b>
+          <pre>Linux</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bash" width="70px;" alt="bash icon"/><br>
+      <sub>
+        <b>
+          <pre>Terminal</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="100px;" alt="visual studio code icon"/><br>
       <sub>
         <b>
           <pre>VSCode</pre>
@@ -34,7 +50,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100px;" alt="HTML5 icon"/><br>
+      <img src="https://skillicons.dev/icons?i=html" width="100px;" alt="HTML5 icon"/><br>
       <sub>
         <b>
           <pre>HTML5</pre>
@@ -42,7 +58,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100px;" alt="CSS3 icon"/><br>
+      <img src="https://skillicons.dev/icons?i=css" width="100px;" alt="CSS3 icon"/><br>
       <sub>
         <b>
           <pre>&ensp;CSS3&ensp;</pre>
@@ -50,7 +66,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px;" alt="Javascript icon"/><br>
+      <img src="https://skillicons.dev/icons?i=javascript" width="65px;" alt="Javascript icon"/><br>
       <sub>
         <b>
           <pre>Javascript</pre>
@@ -58,7 +74,7 @@
       </sub>
     </td>
     <td align="center" width="100px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100px;" alt="Git icon"/><br>
+      <img src="https://skillicons.dev/icons?i=git" width="100px;" alt="Git icon"/><br>
       <sub>
         <b>
           <pre>&emsp;Git&emsp;</pre>
@@ -66,7 +82,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100px;" alt="ReactJS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=react" width="80px;" alt="ReactJS icon"/><br>
       <sub>
         <b>
           <pre>ReactJS</pre>
@@ -74,7 +90,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://styled-components.com/logo.png" width="70px;" alt="styled-components icon"/><br>
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="70px;" alt="styled-components icon"/><br>
       <sub>
         <b>
           <pre>Styled<br>Components</pre>
@@ -82,7 +98,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="100px;" alt="Bootstrap icon"/><br>
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="70px;" alt="Bootstrap icon"/><br>
       <sub>
         <b>
           <pre>Bootstrap</pre>
@@ -90,7 +106,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="100px;" alt="JQuery icon"/><br>
+      <img src="https://skillicons.dev/icons?i=jquery" width="100px;" alt="JQuery icon"/><br>
       <sub>
         <b>
           <pre>JQuery</pre>
@@ -106,7 +122,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100px;" alt="NodeJS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="100px;" alt="NodeJS icon"/><br>
       <sub>
         <b>
           <pre>NodeJS</pre>
@@ -122,7 +138,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="100px;" alt="ExpressJS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=express" width="70px;" alt="ExpressJS icon"/><br>
       <sub>
         <b>
           <pre>ExpressJS</pre>
@@ -130,7 +146,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="90px;" alt="Axios icon"/><br>
+      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="70px;" alt="Axios icon"/><br>
       <sub>
         <b>
           <pre>&ensp;Axios&ensp;</pre>
