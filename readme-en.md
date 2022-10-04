@@ -186,7 +186,7 @@
 </p>
 <br><br><br><br>
 
-<h2 align="center">🗄 Featured Projects</h2>
+<h2 align="center">🗄 Some Projects</h2>
 <img align="right" src="./bugs.gif" height="551px" alt="anime coding">
 <ul type="none">
   <li>
