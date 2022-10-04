@@ -186,7 +186,7 @@
 </p>
 <br><br><br><br>
 
-<h2 align="center">🗄 Projetos Destacados</h2>
+<h2 align="center">🗄 Alguns Projetos</h2>
 <img align="right" src="./bugs.gif" height="551px" alt="bugs gif">
 <ul type="none">
   <li>
