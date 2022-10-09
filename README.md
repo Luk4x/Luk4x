@@ -1,7 +1,7 @@
 <img align="left" width="100%" alt="about" src="https://user-images.githubusercontent.com/86276393/182046261-ed19da90-748e-4e25-a8de-5163b1acd741.png"/>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-<img align="right" src="./analysis.gif" width="410px" alt="anime coding">
+<img align="right" src="./analysis.gif" width="400px" alt="anime coding">
 <table align="center">
   <tr>
     <td>
