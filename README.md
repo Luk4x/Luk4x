@@ -1,7 +1,7 @@
 <img align="left" width="100%" alt="about" src="https://user-images.githubusercontent.com/86276393/182046261-ed19da90-748e-4e25-a8de-5163b1acd741.png"/>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-<img align="right" src="./anime-coding.gif" width="410px" alt="anime coding">
+<img align="right" src="./analysis.gif" width="410px" alt="anime coding">
 <table align="center">
   <tr>
     <td>
@@ -15,10 +15,11 @@
   </tr>
 </table>
 <ul align="left">
-    <li>🤩️ Amo <strong>Programação</strong> e <i>Animes</i>.</li>
-    <li>📌 Já estudei em <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a> e <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.</li>
-    <li>💻 Atualmente estou estudando no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a> e na <a href="https://www.dio.me" target="_blank">Digital Innovation One Inc<a/>.</li>
-    <li>🔭 Sou um Desenvolvedor <strong>Front-End</strong>, constantemente adquirindo novas habilidades e <strong>desenvolvendo projetos</strong>.</li>
+    <li>🤩️ Apaixonado por Tecnologia, Animes e Lo-Fi.</li>
+    <li>💻 Estudo no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a> e na <a href="https://www.dio.me" target="_blank">DIO<a/>, mas já passei pela <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
+    <li>🔭 Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.</li>
+    <li>🔮 Estou me especializando em Front-end, mas tenho boas noções de Back-end, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
+    <li>🚀 Atualmente me aprofundando em: <b>ReactJS</b>, <b>Javascript</b> e <b>Bootstrap</b>.</li>
 </ul>
 <br>
 
