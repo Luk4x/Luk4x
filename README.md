@@ -1,8 +1,8 @@
-<img align="left" width="100%" alt="about" src="https://user-images.githubusercontent.com/86276393/182046261-ed19da90-748e-4e25-a8de-5163b1acd741.png"/>
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<img align="left" width="100%" alt="about" src="https://user-images.githubusercontent.com/86276393/194784110-3d4fa20d-b464-488d-86ca-f240c9596386.png"/>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <img align="right" src="./analysis.gif" width="380px" height="320px" alt="anime coding">
-<table align="left">
+<table align="center">
   <tr>
     <td>
       <b>
@@ -14,7 +14,6 @@
     </td>
   </tr>
 </table>
-<br><br><br>
 
 <ul align="left">
     <li>🤩️ Apaixonado por Tecnologia, Animes e Lo-Fi.</li>
