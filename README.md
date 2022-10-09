@@ -1,8 +1,8 @@
 <img align="left" width="100%" alt="about" src="https://user-images.githubusercontent.com/86276393/182046261-ed19da90-748e-4e25-a8de-5163b1acd741.png"/>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-<img align="right" src="./analysis.gif" width="400px" alt="anime coding">
-<table align="center">
+<img align="right" src="./analysis.gif" width="380px" height="320px" alt="anime coding">
+<table align="left">
   <tr>
     <td>
       <b>
@@ -14,6 +14,8 @@
     </td>
   </tr>
 </table>
+<br><br><br>
+
 <ul align="left">
     <li>🤩️ Apaixonado por Tecnologia, Animes e Lo-Fi.</li>
     <li>💻 Estudo no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a> e na <a href="https://www.dio.me" target="_blank">DIO<a/>, mas já passei pela <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
