@@ -190,7 +190,7 @@
 <br><br><br>
 
 <h2 align="center">🗃️ &ensp; 𝓐𝓵𝓰𝓾𝓷𝓼 𝓟𝓻𝓸𝓳𝓮𝓽𝓸𝓼</h2>
-<img align="right" src="./bugs.gif" height="551px" alt="bugs gif">
+<img align="right" src="./bugs.gif" height="529px" alt="bugs gif">
 <ul type="none">
   <li>
     <a href="https://github.com/Luk4x/iManager" target="_blank">
@@ -213,8 +213,8 @@
     </a>
   </li>
 </ul>
-
 <br>
+
 <h2 align="center">
 <details>
 <summary>📈 &ensp; 𝓐𝓽𝓲𝓿𝓲𝓭𝓪𝓭𝓮</summary>
