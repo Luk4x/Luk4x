@@ -27,7 +27,7 @@
 
 <h2 align="right">🛠️ &ensp; 𝓕𝓮𝓻𝓻𝓪𝓶𝓮𝓷𝓽𝓪𝓼 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</h2>
 <img align="left" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
-<table align="right" height="359px">
+<table align="right" height="279px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="bash icon"/><br>
@@ -96,7 +96,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="65px" alt="styled-components icon"/><br>
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="styled-components icon"/><br>
       <sub>
         <b>
           <pre>Styled<br>Components</pre>
@@ -173,7 +173,7 @@
     </td>
   </tr>
 </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📩 &ensp; 𝓒𝓸𝓷𝓽𝓪𝓽𝓸</h2>
 <img align="left" width="180px" src="./oh-ok.gif" alt="anime coding">
