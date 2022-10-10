@@ -1,7 +1,7 @@
 <img align="left" width="100%" alt="about" src="https://user-images.githubusercontent.com/86276393/194784110-3d4fa20d-b464-488d-86ca-f240c9596386.png"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h2 align="center">🪪 &ensp; 𝓢𝓸𝓫𝓻𝓮</h2>
+<h2 align="left">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 🪪 &ensp; 𝓢𝓸𝓫𝓻𝓮</h2>
 <img align="right" src="./analysis.gif" width="370px" alt="anime chilling">
 <table align="center">
   <tr>
@@ -25,8 +25,9 @@
 </ul>
 <br>
 
-<h2 align="center">🛠️ &ensp; 𝓕𝓮𝓻𝓻𝓪𝓶𝓮𝓷𝓽𝓪𝓼</h2>
-<table>
+<h2 align="right">🛠️ &ensp; 𝓕𝓮𝓻𝓻𝓪𝓶𝓮𝓷𝓽𝓪𝓼 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</h2>
+<img align="left" width="360px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
+<table height="359px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=linux" width="100px;" alt="bash icon"/><br>
@@ -37,7 +38,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" width="70px;" alt="bash icon"/><br>
+      <img src="https://skillicons.dev/icons?i=bash" width="100px;" alt="bash icon"/><br>
       <sub>
         <b>
           <pre>Terminal</pre>
@@ -68,6 +69,8 @@
         </b>
       </sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=javascript" width="65px;" alt="Javascript icon"/><br>
       <sub>
@@ -108,6 +111,8 @@
         </b>
       </sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=jquery" width="100px;" alt="JQuery icon"/><br>
       <sub>
@@ -148,6 +153,8 @@
         </b>
       </sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="100px;" alt="Insomnia icon"/><br>
       <sub>
