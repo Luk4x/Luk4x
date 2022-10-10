@@ -1,7 +1,8 @@
 <img align="left" width="100%" alt="about" src="https://user-images.githubusercontent.com/86276393/194784110-3d4fa20d-b464-488d-86ca-f240c9596386.png"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<img align="right" src="./analysis.gif" width="380px" alt="anime chilling">
+<h2 align="center">🪪 &ensp; 𝓢𝓸𝓫𝓻𝓮</h2>
+<img align="right" src="./analysis.gif" width="390px" alt="anime chilling">
 <table align="center">
   <tr>
     <td>
@@ -24,7 +25,7 @@
 </ul>
 <br>
 
-<h2 align="center">🛠️ Ferramentas</h2>
+<h2 align="center">🛠️ &ensp; 𝓕𝓮𝓻𝓻𝓪𝓶𝓮𝓷𝓽𝓪𝓼</h2>
 <table>
   <tr>
     <td align="center">
@@ -159,7 +160,7 @@
 </table>
 <br>
 
-<h2 align="center">📩 Contato</h2>
+<h2 align="center">📩 &ensp; 𝓒𝓸𝓷𝓽𝓪𝓽𝓸</h2>
 <img align="left" width="180px" src="./oh-ok.gif" alt="anime coding">
 <br><br>
 <p align="center">
@@ -188,7 +189,7 @@
 </p>
 <br><br><br><br>
 
-<h2 align="center">🗄 Alguns Projetos</h2>
+<h2 align="center">🗃️ &ensp; 𝓐𝓵𝓰𝓾𝓷𝓼 𝓟𝓻𝓸𝓳𝓮𝓽𝓸𝓼</h2>
 <img align="right" src="./bugs.gif" height="551px" alt="bugs gif">
 <ul type="none">
   <li>
@@ -216,7 +217,7 @@
 <br>
 <h2 align="center">
 <details>
-<summary>📈 Análises do Github</summary>
+<summary>📈 &ensp; 𝓐𝓷𝓪𝓵𝓲𝓼𝓮𝓼 𝓭𝓸 𝓖𝓲𝓽𝓱𝓾𝓫</summary>
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Luk4x&show_icons=true&custom_title=Luk4x's%20Github%20Stats&theme=tokyonight&hide_border=true">
@@ -236,4 +237,6 @@
 <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" alt="portfolio">
 </a>
+
+https://www.fancytextconverter.com/
 -->
