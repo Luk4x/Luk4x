@@ -1,8 +1,8 @@
 <img align="left" width="100%" alt="about" src="https://user-images.githubusercontent.com/86276393/194784110-3d4fa20d-b464-488d-86ca-f240c9596386.png"/>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">🪪 &ensp; 𝓢𝓸𝓫𝓻𝓮</h2>
-<img align="right" src="./analysis.gif" width="390px" alt="anime chilling">
+<img align="right" src="./analysis.gif" width="392px" alt="anime chilling">
 <table align="center">
   <tr>
     <td>
