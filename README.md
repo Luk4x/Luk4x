@@ -117,14 +117,6 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="100px;" alt="Insomnia icon"/><br>
-      <sub>
-        <b>
-          <pre>Insomnia</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs" width="100px;" alt="NodeJS icon"/><br>
       <sub>
         <b>
@@ -153,6 +145,22 @@
       <sub>
         <b>
           <pre>&ensp;Axios&ensp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="100px;" alt="Insomnia icon"/><br>
+      <sub>
+        <b>
+          <pre>Insomnia</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img width="70px;" src="https://skillicons.dev/icons?i=vite"/><br>
+      <sub>
+        <b>
+          <pre>ViteJS</pre>
         </b>
       </sub>
     </td>
