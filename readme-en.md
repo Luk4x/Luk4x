@@ -1,7 +1,8 @@
-<img align="left" width="100%" alt="about" src="https://user-images.githubusercontent.com/86276393/182046290-8252c455-26f3-4042-85d4-ec4f064a1c5c.png"/>
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<img align="left" width="100%" alt="about" src="https://user-images.githubusercontent.com/86276393/194786782-d9a3b849-d1f7-438d-b4b2-ba31641a2cbe.png"/>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<img align="right" src="./anime-coding.gif" width="450px" alt="anime coding">
+<h2 align="center">🪪 &ensp; 𝓐𝓫𝓸𝓾𝓽</h2>
+<img align="right" src="./analysis.gif" width="395px" alt="anime chilling">
 <table align="center">
   <tr>
     <td>
@@ -15,14 +16,15 @@
   </tr>
 </table>
 <ul align="left">
-    <li>🤩️ Love <b>Programming</b> and <i>Animes</i>.</li>
-    <li>📌 Already studied at <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a> and <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.</li>
-    <li>💻 I'm currently studying at <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a> and at <a href="https://www.dio.me/en" target="_blank">Digital Innovation One Inc</a>.</li>
-    <li>🔭 I'm a <strong>Front-End</strong> Developer, constantly acquiring new skills and <strong>developing projects</strong>.</li>
+    <li>🤩️ Passionate about Technology, Anime and Lo-Fi.</li>
+    <li>💻 I currently study at <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a> and at <a href="https://www.dio.me" target ="_blank">DIO<a/>, but I've been through <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href=" https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Video Course</a> and <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
+    <li>🔭 To further expand my Stack and portfolio, I am constantly acquiring new skills and developing projects.</li>
+    <li>🔮 I'm specializing in Front-end, but I have a good understanding of Back-end, as my long-term goal is to become Full-Stack.</li>
+    <li>🚀 Currently getting deeper into: <b>ReactJS</b> and <b>Javascript</b>.</li>
 </ul>
 <br>
 
-<h2 align="center">🛠️ Tools</h2>
+<h2 align="center">🛠️ &ensp; 𝓣𝓸𝓸𝓵𝓼</h2>
 <table>
   <tr>
     <td align="center">
@@ -157,7 +159,7 @@
 </table>
 <br>
 
-<h2 align="center">📩 Contact</h2>
+<h2 align="center">📩 &ensp; 𝓒𝓸𝓷𝓽𝓪𝓬𝓽</h2>
 <img align="left" width="240px" src="./oh-ok.gif" alt="anime coding">
 <br><br>
 <p align="center">
@@ -186,8 +188,8 @@
 </p>
 <br><br><br><br>
 
-<h2 align="center">🗄 Some Projects</h2>
-<img align="right" src="./bugs.gif" height="551px" alt="anime coding">
+<h2 align="center">🗃️ &ensp; 𝓢𝓸𝓶𝓮 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼</h2>
+<img align="right" src="./bugs.gif" height="529px" alt="anime coding">
 <ul type="none">
   <li>
     <a href="https://github.com/Luk4x/iManager" target="_blank">
@@ -210,15 +212,17 @@
     </a>
   </li>
 </ul>
-
 <br>
+
 <h2 align="center">
 <details>
-<summary>📈 Github Analytics</summary>
+<summary>📈 &ensp; 𝓪𝓬𝓽𝓲𝓿𝓲𝓽𝔂</summary>
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Luk4x&show_icons=true&custom_title=Luk4x's%20Github%20Stats&theme=tokyonight&hide_border=true">
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Luk4x&theme=tokyonight&hide_border=true">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Luk4x&theme=tokyo-night&hide_border=true">
 </details>
 
 <!--
