@@ -2,7 +2,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">🪪 &ensp; 𝓢𝓸𝓫𝓻𝓮</h2>
-<img align="right" src="./analysis.gif" width="378px" alt="anime chilling">
+<img align="right" src="./analysis.gif" width="370px" alt="anime chilling">
 <table align="center">
   <tr>
     <td>
