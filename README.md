@@ -173,7 +173,7 @@
     </td>
   </tr>
 </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📩 &ensp; 𝓒𝓸𝓷𝓽𝓪𝓽𝓸</h2>
 <img align="left" width="180px" src="./oh-ok.gif" alt="anime coding">
@@ -202,7 +202,7 @@
   </a>
   <img src="https://user-images.githubusercontent.com/86276393/177438405-e828976c-3773-4b4e-a3f3-dc888c759003.png" alt="discord">
 </p>
-<br><br>
+<br><br><br>
 
 <h2 align="center">🗃️ &ensp; 𝓐𝓵𝓰𝓾𝓷𝓼 𝓟𝓻𝓸𝓳𝓮𝓽𝓸𝓼</h2>
 <img align="right" src="./bugs-dark.gif" height="529px" alt="bugs gif">
