@@ -23,7 +23,6 @@
     <li>🔮 Estou me especializando em Front-end, mas tenho boas noções de Back-end, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
     <li>🚀 Atualmente me aprofundando em: <b>ReactJS</b> e <b>Javascript</b>.</li>
 </ul>
-<br>
 
 <h2 align="center">🛠️ &ensp; 𝓕𝓮𝓻𝓻𝓪𝓶𝓮𝓷𝓽𝓪𝓼</h2>
 <img align="left" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
@@ -173,7 +172,7 @@
     </td>
   </tr>
 </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📩 &ensp; 𝓒𝓸𝓷𝓽𝓪𝓽𝓸</h2>
 <img align="left" width="180px" src="./oh-ok.gif" alt="anime coding">
@@ -205,7 +204,7 @@
 <br><br><br>
 
 <h2 align="center">🗃️ &ensp; 𝓐𝓵𝓰𝓾𝓷𝓼 𝓟𝓻𝓸𝓳𝓮𝓽𝓸𝓼</h2>
-<img align="right" src="./bugs.gif" height="529px" alt="bugs gif">
+<img align="right" src="./bugs-dark.gif" height="529px" alt="bugs gif">
 <ul type="none">
   <li>
     <a href="https://github.com/Luk4x/iManager" target="_blank">
@@ -228,7 +227,6 @@
     </a>
   </li>
 </ul>
-<br>
 
 <h2 align="center">
 <details>
