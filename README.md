@@ -26,7 +26,7 @@
 <br>
 
 <h2 align="right">🛠️ &ensp; 𝓕𝓮𝓻𝓻𝓪𝓶𝓮𝓷𝓽𝓪𝓼 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</h2>
-<img align="left" width="300px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
+<img align="left" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
 <table align="right" height="359px">
   <tr>
     <td align="center">
