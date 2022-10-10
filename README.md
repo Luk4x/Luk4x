@@ -217,11 +217,13 @@
 <br>
 <h2 align="center">
 <details>
-<summary>📈 &ensp; 𝓐𝓷𝓪𝓵𝓲𝓼𝓮𝓼 𝓭𝓸 𝓖𝓲𝓽𝓱𝓾𝓫</summary>
+<summary>📈 &ensp; 𝓐𝓽𝓲𝓿𝓲𝓭𝓪𝓭𝓮</summary>
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Luk4x&show_icons=true&custom_title=Luk4x's%20Github%20Stats&theme=tokyonight&hide_border=true">
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Luk4x&theme=tokyonight&hide_border=true">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Luk4x&theme=tokyo-night&hide_border=true">
 </details>
 
 <!--
