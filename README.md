@@ -217,39 +217,89 @@
 
 <h2 align="center">🗃️ &ensp; 𝓐𝓵𝓰𝓾𝓷𝓼 𝓟𝓻𝓸𝓳𝓮𝓽𝓸𝓼</h2>
 <img align="right" src="./bugs-dark.gif" height="529px" alt="bugs gif">
-<ul type="none">
-  <li>
+<table height="529px">
+  <tr>
+    <td>
     <a href="https://github.com/Luk4x/iManager" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=iManager&theme=tokyonight&hide_border=true">
     </a>
-  </li>
-  <li>
+    </td>
+  </tr>
+  <tr>
+    <td>
     <a href="https://github.com/Luk4x/dev-burger-order-log-interface" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=dev-burger-order-log-interface&theme=tokyonight&hide_border=true">
   </a>
-  </li>
-  <li>
+    </td>
+  </tr>
+  <tr>
+    <td>
      <a href="https://github.com/Luk4x/viaCEP-API" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=viaCEP-API&theme=tokyonight&hide_border=true">
     </a>
-  </li>
-  <li>
+    </td>
+  </tr>
+  <tr>
+    <td>
     <a href="https://github.com/Luk4x/devClub-convert-money" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=devClub-convert-money&theme=tokyonight&hide_border=true">
     </a>
-  </li>
-</ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Luk4x/user-register-interface" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=user-register-interface&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Luk4x/playstation-store" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=playstation-store&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Luk4x/project-collor" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=project-collor&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Luk4x/dev-burger-order-log-API" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=dev-burger-order-log-API&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Luk4x/projeto-calculadora" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=projeto-calculadora&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Luk4x/user-register-API" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=user-register-API&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+</table>
 <br>
 
 <h2 align="center">
 <details>
 <summary>📈 &ensp; 𝓐𝓽𝓲𝓿𝓲𝓭𝓪𝓭𝓮</summary>
 <br>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Luk4x&theme=tokyo-night&hide_border=true">
+<br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Luk4x&show_icons=true&custom_title=Luk4x's%20Github%20Stats&theme=tokyonight&hide_border=true">
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Luk4x&theme=tokyonight&hide_border=true">
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Luk4x&theme=tokyo-night&hide_border=true">
 </details>
 
 <!--
