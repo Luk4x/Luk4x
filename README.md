@@ -27,7 +27,7 @@
 
 <h2 align="center">🛠️ &ensp; 𝓕𝓮𝓻𝓻𝓪𝓶𝓮𝓷𝓽𝓪𝓼</h2>
 <img align="left" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
-<table align="right" height="279px">
+<table align="right" height="279px" border="1">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="bash icon"/><br>
