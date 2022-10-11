@@ -1,4 +1,4 @@
-<img align="left" width="100%" alt="about" src="https://user-images.githubusercontent.com/86276393/194784110-3d4fa20d-b464-488d-86ca-f240c9596386.png"/>
+<img align="left" width="100%" alt="about" src="./background-pt.gif"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">🪪 &ensp; 𝓢𝓸𝓫𝓻𝓮</h2>
@@ -20,7 +20,7 @@
     <li>🤩️ Apaixonado por Tecnologia, Animes e Lo-Fi.</li>
     <li>💻 Estudo no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a> e na <a href="https://www.dio.me" target="_blank">DIO<a/>, mas já passei pela <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
     <li>🔭 Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.</li>
-    <li>🔮 Estou me especializando em Front-end, mas tenho boas noções&ensp; de Back-end, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
+    <li>🔮 Estou me especializando em Front-end, mas tenho boas noções de Back-end, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
     <li>🚀 Atualmente me aprofundando em: <b>ReactJS</b> e <b>Javascript</b>.</li>
 </ul>
 <br>
