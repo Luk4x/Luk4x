@@ -20,14 +20,14 @@
     <li>🤩️ Apaixonado por Tecnologia, Animes e Lo-Fi.</li>
     <li>💻 Estudo no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a> e na <a href="https://www.dio.me" target="_blank">DIO<a/>, mas já passei pela <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
     <li>🔭 Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.</li>
-    <li>🔮 Estou me especializando em Front-end, mas tenho boas noções de Back-end, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
+    <li>🔮 Estou me especializando em Front-end, mas tenho boas noções&ensp; de Back-end, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
     <li>🚀 Atualmente me aprofundando em: <b>ReactJS</b> e <b>Javascript</b>.</li>
 </ul>
 <br>
 
 <h2 align="center">🛠️ &ensp; 𝓕𝓮𝓻𝓻𝓪𝓶𝓮𝓷𝓽𝓪𝓼</h2>
 <img align="left" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
-<table align="right" height="279px" border="1">
+<table align="right" height="279px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="bash icon"/><br>
@@ -176,7 +176,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📩 &ensp; 𝓒𝓸𝓷𝓽𝓪𝓽𝓸</h2>
-<img align="left" width="180px" src="./oh-ok.gif" alt="anime coding">
+<img align="left" width="185px" src="./oh-ok.gif" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="https://export-download.canva.com/NskEY/DAFOAmNskEY/103/0-37189062837.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20221005%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221005T102753Z&X-Amz-Expires=26369&X-Amz-Signature=e9736a0c26ddc834157637bb3af1e3ffa4e1c9fc28f456d924dcc37c1843e300&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Lucas-Maciel-curr%25C3%25ADculo-frontend-v1.4.pdf&response-expires=Wed%2C%2005%20Oct%202022%2017%3A47%3A22%20GMT">
@@ -199,6 +199,9 @@
   </a>
   <a href="https://line.me/ti/p/9DbuEDA6O7" alt="line" target="_blank">
     <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="line">
+  </a>
+  <a href="https://stackoverflow.com/users/18881418/lucas-maciel" alt="stack overflow" target="_blank">
+    <img src="https://user-images.githubusercontent.com/86276393/194973392-6c133c92-13a3-4659-8fb1-08073cd1b417.png" alt="line">
   </a>
   <img src="https://user-images.githubusercontent.com/86276393/177438405-e828976c-3773-4b4e-a3f3-dc888c759003.png" alt="discord">
 </p>
