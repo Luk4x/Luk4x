@@ -1,7 +1,7 @@
-<img align="left" width="100%" alt="about" src="./background-pt.gif"/>
+<img align="left" width="100%" alt="about" src="./headerBackground-pt.gif"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h2 align="center">🪪 &ensp; 𝓢𝓸𝓫𝓻𝓮</h2>
+<h2 align="center">📇 &ensp; 𝓢𝓸𝓫𝓻𝓮</h2>
 <img align="right" src="./analysis.gif" width="370px" alt="anime chilling">
 <table align="center">
   <tr>
@@ -30,14 +30,6 @@
 <table align="right" height="279px">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="bash icon"/><br>
-      <sub>
-        <b>
-          <pre>Linux</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br>
       <sub>
         <b>
@@ -46,18 +38,10 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
+      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
       <sub>
         <b>
-          <pre>VSCode</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
-      <sub>
-        <b>
-          <pre>HTML5</pre>
+          <pre>Javascript</pre>
         </b>
       </sub>
     </td>
@@ -69,13 +53,11 @@
         </b>
       </sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
+        <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
       <sub>
         <b>
-          <pre>Javascript</pre>
+          <pre>HTML5</pre>
         </b>
       </sub>
     </td>
@@ -87,6 +69,8 @@
         </b>
       </sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
       <sub>
@@ -104,24 +88,6 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br>
-      <sub>
-        <b>
-          <pre>Bootstrap</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="JQuery icon"/><br>
-      <sub>
-        <b>
-          <pre>JQuery</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
       <sub>
         <b>
@@ -130,10 +96,28 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177162603-b078ec0b-5097-4067-9e04-f2e260e298a8.png" width="65px" alt="Yarn/npm icon"/><br>
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br>
       <sub>
         <b>
-          <pre>Yarn/npm</pre>
+          <pre>Bootstrap</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="JQuery icon"/><br>
+      <sub>
+        <b>
+          <pre>JQuery</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vitejs icon"/><br>
+      <sub>
+        <b>
+          <pre>ViteJS</pre>
         </b>
       </sub>
     </td>
@@ -146,6 +130,14 @@
       </sub>
     </td>
     <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/177162603-b078ec0b-5097-4067-9e04-f2e260e298a8.png" width="65px" alt="Yarn/npm icon"/><br>
+      <sub>
+        <b>
+          <pre>Yarn/npm</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="65px" alt="Axios icon"/><br>
       <sub>
         <b>
@@ -153,8 +145,6 @@
         </b>
       </sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br>
       <sub>
@@ -163,11 +153,29 @@
         </b>
       </sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vitejs icon"/><br>
+      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
       <sub>
         <b>
-          <pre>ViteJS</pre>
+          <pre>VSCode</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="linux icon"/><br>
+      <sub>
+        <b>
+          <pre>Linux</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/195136732-47fe1df9-2591-445a-bfac-fe540315f2a5.svg" width="65px" alt="windows icon"/><br>
+      <sub>
+        <b>
+          <pre>Windows</pre>
         </b>
       </sub>
     </td>
