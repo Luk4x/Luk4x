@@ -216,7 +216,7 @@
 <br><br><br>
 
 <h2 align="center">🗃️ &ensp; 𝓐𝓵𝓰𝓾𝓷𝓼 𝓟𝓻𝓸𝓳𝓮𝓽𝓸𝓼</h2>
-<img align="right" src="./bugs-dark.gif" height="529px" alt="bugs gif">
+<img align="right" src="./houtarou-studying.gif" height="529px" alt="bugs gif">
 <table height="529px">
   <tr>
     <td>
