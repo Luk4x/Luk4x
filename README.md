@@ -1,7 +1,7 @@
 <img align="left" width="100%" alt="about" src="./headerBackground-pt.gif"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h2 align="center">📇 &ensp; 𝓢𝓸𝓫𝓻𝓮</h2>
+<h2 align="center">📇 &ensp; <i>Sobre</i></h2>
 <img align="right" src="./analysis.gif" width="370px" alt="anime chilling">
 <table align="center">
   <tr>
@@ -25,7 +25,7 @@
 </ul>
 <br>
 
-<h2 align="center">🛠️ &ensp; 𝓕𝓮𝓻𝓻𝓪𝓶𝓮𝓷𝓽𝓪𝓼</h2>
+<h2 align="center">🛠️ &ensp; <i>Tecnologias</i></h2>
 <img align="left" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
 <table align="right" height="279px">
   <tr>
@@ -183,7 +183,7 @@
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h2 align="center">📩 &ensp; 𝓒𝓸𝓷𝓽𝓪𝓽𝓸</h2>
+<h2 align="center">📩 &ensp; <i>Contato</i></h2>
 <img align="left" width="185px" src="./oh-ok.gif" alt="anime coding">
 <br><br>
 <p align="center">
@@ -215,7 +215,7 @@
 </p>
 <br><br><br>
 
-<h2 align="center">🗃️ &ensp; 𝓐𝓵𝓰𝓾𝓷𝓼 𝓟𝓻𝓸𝓳𝓮𝓽𝓸𝓼</h2>
+<h2 align="center">🗃️ &ensp; <i>Alguns Projetos</i></h2>
 <img align="right" src="./houtarou-studying.gif" height="529px" alt="bugs gif">
 <table height="529px">
   <tr>
@@ -293,7 +293,7 @@
 
 <h2 align="center">
 <details>
-<summary>📈 &ensp; 𝓐𝓽𝓲𝓿𝓲𝓭𝓪𝓭𝓮</summary>
+<summary>📈 &ensp; <i>Atividade</i></summary>
 <br>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Luk4x&theme=tokyo-night&hide_border=true">
 <br><br>
