@@ -216,8 +216,8 @@
 <br><br><br>
 
 <h2 align="center">🗃️ &ensp; <i>Alguns Projetos</i></h2>
-<img align="right" src="./houtarou-studying.gif" height="529px" alt="bugs gif">
-<table height="529px">
+<img align="right" src="./projects-wallpaper.jpg" alt="projects image">
+<table height="548px">
   <tr>
     <td>
     <a href="https://github.com/Luk4x/iManager" target="_blank">
