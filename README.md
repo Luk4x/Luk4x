@@ -1,7 +1,7 @@
 <img align="left" width="100%" alt="about" src="./headerBackground-pt.gif"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h1 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h1>
+<h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
 <img align="right" src="./analysis.gif" width="370px" alt="anime chilling">
 <table align="center">
   <tr>
