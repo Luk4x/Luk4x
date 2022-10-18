@@ -216,7 +216,7 @@
 <br><br><br>
 
 <h2 align="center">🗃️ &ensp; <i>Alguns Projetos</i></h2>
-<img align="right" src="./projects-wallpaper.jpg" height="530px" alt="projects image">
+<img align="right" src="./projects-wallpaper.gif" height="531px" alt="projects image">
 <table height="530px">
   <tr>
     <td>
