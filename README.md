@@ -25,7 +25,7 @@
 </ul>
 <br>
 
-<h2 align="center">🛠️ &ensp; <i>Tecnologias</i></h2>
+<h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
 <img align="left" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
 <table align="right" height="279px">
   <tr>
@@ -183,7 +183,7 @@
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h2 align="center">📩 &ensp; <i>Contato</i></h2>
+<h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
 <img align="left" width="185px" src="./oh-ok.gif" alt="anime coding">
 <br><br>
 <p align="center">
@@ -215,7 +215,7 @@
 </p>
 <br><br><br>
 
-<h2 align="center">🗃️ &ensp; <i>Alguns Projetos</i></h2>
+<h2 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h2>
 <img align="right" src="./projects-wallpaper.gif" height="496px" alt="projects image">
 <table height="495px">
   <tr>
@@ -291,7 +291,7 @@
 </table>
 <br>
 
-<h2 align="center">📈 &ensp; <i>Atividade</i></h2>
+<h2 align="center">📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></h2>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Luk4x&theme=tokyo-night&hide_border=true">
 <br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true">
