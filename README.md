@@ -327,4 +327,7 @@
 </a>
 
 https://www.fancytextconverter.com/
+
+- use SVGs in a next big update.
+
 -->
