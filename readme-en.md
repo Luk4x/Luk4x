@@ -16,8 +16,8 @@
   </tr>
 </table>
 <ul align="left">
-    <li>🤩️ Passionate about Technology, Anime and Lo-Fi.</li>
-    <li>💻 I currently study at <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a> and at <a href="https://www.dio.me" target ="_blank">DIO<a/>, but I've been through <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href=" https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Video Course</a> and <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
+    <li>🤩️ Passionate about Technology, Animes and Lo-Fi.</li>
+    <li>💻 I currently study at <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a> and at <a href="https://www.dio.me" target ="_blank">DIO<a/>, but I've been through <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Video Course</a> and <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
     <li>🔭 To further expand my Stack and portfolio, I am constantly acquiring new skills and developing projects.</li>
     <li>🔮 I'm specializing in Front-end, but I have a good understanding of Back-end, as my long-term goal is to become Full-Stack.</li>
     <li>🚀 Currently getting deeper into: <b>ReactJS</b> and <b>Javascript</b>.</li>
