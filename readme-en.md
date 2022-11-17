@@ -1,4 +1,6 @@
-<img align="left" width="100%" alt="about" src="./headerBackground-en.gif"/>
+<a href="https://github.com/Luk4x/github-profile-background-photo" alt="luk4x gif repository">
+  <img align="left" width="100%" alt="about" src="./headerBackground-en.gif"/>
+</a>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📇 &ensp; <i>Ａｂｏｕｔ</i></h2>
@@ -376,7 +378,7 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/86276393/202559929-a3048637-3de9-4b82-a61e-537a32de50fe.jpg" alt="waifu" height="40px" />
-<img src="https://img.shields.io/github/license/Luk4x/Luk4x?style=for-the-badge&logo=unlicense&logoColor=lightgrey&color=lightgrey" alt="luk4x repo license" height="40px" />
+<img src="https://img.shields.io/github/license/Luk4x/Luk4x?style=for-the-badge&logo=unlicense&logoColor=lightgrey&color=70A5FD" alt="luk4x repo license" height="40px" />
 
 <!--
 - 🔭 I’m currently working on ...
