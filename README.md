@@ -374,6 +374,9 @@
 <img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=Luk4x&theme=tokyonight&hide_border=true">
 </div>
 </details>
+<br>
+
+![luk4x-repo-license](https://img.shields.io/github/license/Luk4x/Luk4x?style=for-the-badge&logo=unlicense&logoColor=lightgrey&color=lightgrey)
 
 <!--
 - 🔭 I’m currently working on ...
@@ -388,9 +391,5 @@
 <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" alt="portfolio">
 </a>
-
-https://www.fancytextconverter.com/
-
-- use SVGs in a next big update.
 
 -->
