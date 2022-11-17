@@ -373,7 +373,10 @@
 <img height="240px" src="https://github-readme-streak-stats.herokuapp.com/?user=Luk4x&theme=tokyonight&hide_border=true">
 </div>
 </details>
+<br>
 
+![luk4x-repo-license](https://img.shields.io/github/license/Luk4x/Luk4x?style=for-the-badge&logo=unlicense&logoColor=lightgrey&color=lightgrey)
+  
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
