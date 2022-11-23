@@ -240,6 +240,13 @@
   </tr>
   <tr>
     <td>
+    <a href="https://github.com/Luk4x/gencard" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=gencard&theme=tokyonight&hide_border=true">
+  </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
     <a href="https://github.com/Luk4x/dev-burger-order-log-interface" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=dev-burger-order-log-interface&theme=tokyonight&hide_border=true">
   </a>
