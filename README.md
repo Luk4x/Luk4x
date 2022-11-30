@@ -1,10 +1,10 @@
 <a href="https://github.com/Luk4x/github-profile-background-photo" alt="luk4x gif repository">
-  <img align="left" width="100%" alt="about" src="./headerBackground-pt.gif"/>
+  <img align="left" width="100%" alt="about" src="./images/headerBackground-pt.gif"/>
 </a>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
-<img align="right" src="./analysis.gif" width="370px" alt="anime chilling">
+<img align="right" src="./images/analysis.gif" width="370px" alt="anime chilling">
 <table align="center">
   <tr>
     <td>
@@ -194,7 +194,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
-<img align="left" width="185px" src="./oh-ok.gif" alt="anime coding">
+<img align="left" width="185px" src="./images/oh-ok.gif" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="https://export-download.canva.com/NskEY/DAFOAmNskEY/103/0-37189062837.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20221005%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221005T102753Z&X-Amz-Expires=26369&X-Amz-Signature=e9736a0c26ddc834157637bb3af1e3ffa4e1c9fc28f456d924dcc37c1843e300&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Lucas-Maciel-curr%25C3%25ADculo-frontend-v1.4.pdf&response-expires=Wed%2C%2005%20Oct%202022%2017%3A47%3A22%20GMT" target="_blank">
@@ -229,7 +229,7 @@
 <br><br><br>
 
 <h2 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h2>
-<img align="right" src="./projects-wallpaper.gif" height="496px" alt="projects image">
+<img align="right" src="./images/projects-wallpaper.gif" height="496px" alt="projects image">
 <table height="495px">
   <tr>
     <td>
