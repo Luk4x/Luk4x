@@ -73,15 +73,91 @@
       </sub>
     </td>
   </tr>
-  <tr>
+    <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br>
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="Styled Components icon"/><br>
       <sub>
         <b>
-          <pre>Terminal</pre>
+          <pre>Styled<br>Components</pre>
         </b>
       </sub>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br>
+      <sub>
+        <b>
+          <pre>Typescript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br>
+      <sub>
+        <b>
+          <pre>Sass</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="65px" alt="Axios icon"/><br>
+      <sub>
+        <b>
+          <pre>&ensp;Axios&ensp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
+      <sub>
+        <b>
+          <pre>NodeJS</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express icon"/><br>
+      <sub>
+        <b>
+          <pre>Express</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=regex" width="65px" alt="Regex icon"/><br>
+      <sub>
+        <b>
+          <pre>Regex</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/196552659-0e3000fc-aa8c-4d49-b14f-1d233f1d2b5e.png" width="65px" alt="Create React App icon"/><br>
+      <sub>
+        <b>
+          <pre>&ensp;CRA&ensp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br>
+      <sub>
+        <b>
+          <pre>React Native</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="JQuery icon"/><br>
+      <sub>
+        <b>
+          <pre>JQuery</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br>
       <sub>
@@ -114,45 +190,11 @@
         </b>
       </sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vitejs icon"/><br>
+      <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br>
       <sub>
         <b>
-          <pre>ViteJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/196552659-0e3000fc-aa8c-4d49-b14f-1d233f1d2b5e.png" width="65px" alt="Create React App icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;CRA&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" width="65px" alt="ExpressJS icon"/><br>
-      <sub>
-        <b>
-          <pre>ExpressJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177162603-b078ec0b-5097-4067-9e04-f2e260e298a8.png" width="65px" alt="Yarn/npm icon"/><br>
-      <sub>
-        <b>
-          <pre>Yarn/npm</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="65px" alt="Axios icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;Axios&ensp;</pre>
+          <pre>Terminal</pre>
         </b>
       </sub>
     </td>
@@ -175,86 +217,10 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="linux icon"/><br>
+      <img src="https://user-images.githubusercontent.com/86276393/205502680-8c4634eb-5032-446c-a5ff-d669a0fa787c.png" width="100px" alt="Linux and Windows icon"/><br>
       <sub>
         <b>
-          <pre>Linux</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/195136732-47fe1df9-2591-445a-bfac-fe540315f2a5.svg" width="65px" alt="windows icon"/><br>
-      <sub>
-        <b>
-          <pre>Windows</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="JQuery icon"/><br>
-      <sub>
-        <b>
-          <pre>JQuery</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="styled-components icon"/><br>
-      <sub>
-        <b>
-          <pre>Styled<br>Components</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
-      <sub>
-        <b>
-          <pre>NodeJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br>
-      <sub>
-        <b>
-          <pre>Typescript</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/205498377-46def560-af08-457a-b5ef-55387909a97e.png" width="65px" alt="React Native icon"/><br>
-      <sub>
-        <b>
-          <pre>React Native</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br>
-      <sub>
-        <b>
-          <pre>Sass</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nativebase" width="65px" alt="NativeBase icon"/><br>
-      <sub>
-        <b>
-          <pre>NativeBase</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=regex" width="65px" alt="Regex icon"/><br>
-      <sub>
-        <b>
-          <pre>Regex</pre>
+          <pre>Linux/Windows</pre>
         </b>
       </sub>
     </td>
