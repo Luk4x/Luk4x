@@ -29,8 +29,8 @@
 <br>
 
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
-<img align="left" width="261px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
-<table align="right" height="260px">
+<img align="left" width="271px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
+<table align="right" height="270px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br>
@@ -136,7 +136,7 @@
       <img src="https://user-images.githubusercontent.com/86276393/196552659-0e3000fc-aa8c-4d49-b14f-1d233f1d2b5e.png" width="65px" alt="Create React App icon"/><br>
       <sub>
         <b>
-          <pre>&ensp;CRA&ensp;</pre>
+          <pre>CRA</pre>
         </b>
       </sub>
     </td>
@@ -170,7 +170,7 @@
       <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
       <sub>
         <b>
-          <pre>&ensp;CSS3&ensp;</pre>
+          <pre>CSS3</pre>
         </b>
       </sub>
     </td>
@@ -186,7 +186,7 @@
       <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;Git&emsp;</pre>
+          <pre>Git</pre>
         </b>
       </sub>
     </td>
