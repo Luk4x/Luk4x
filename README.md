@@ -217,10 +217,10 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/205502680-8c4634eb-5032-446c-a5ff-d669a0fa787c.png" width="100px" alt="Linux and Windows icon"/><br>
+      <img src="https://user-images.githubusercontent.com/86276393/205502680-8c4634eb-5032-446c-a5ff-d669a0fa787c.png" width="80px" alt="Linux and Windows icon"/><br>
       <sub>
         <b>
-          <pre>Linux/Windows</pre>
+          <pre>Linux /<br>Windows</pre>
         </b>
       </sub>
     </td>
