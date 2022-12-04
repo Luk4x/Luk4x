@@ -18,11 +18,11 @@
   </tr>
 </table>
 <ul align="left">
-    <li>🤩️ Passionate about Technology, Animes and Lo-Fi.</li>
-    <li>💻 I currently study at <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a> and at <a href="https://www.dio.me" target ="_blank">DIO<a/>, but I've been through <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Video Course</a> and <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
-    <li>🔭 To further expand my Stack and portfolio, I am constantly acquiring new skills and developing projects.</li>
-    <li>🔮 I'm specializing in Front-end, but I have a good understanding of Back-end, as my long-term goal is to become Full-Stack.</li>
-    <li>🚀 Currently getting deeper into: <b>ReactJS</b> and <b>Javascript</b>.</li>
+    <li>🤩️ I love Technology, Psychology, Anime, Lo-Fi, Chess and Parkour.</li>
+    <li>💻 I currently study at <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, but I've been through <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target ="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Video Course</a>, <a href="https://www.dio.me" target ="_blank">DIO<a/> and <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
+    <li>🔭 With more than 1 year of <b>experience</b>, I have autonomy in several of the most relevant Front-end technologies on the market.</li>
+    <li>🔮 I'm specializing in Front-end, but I have good notions of Back-end and Mobile, as my long-term goal is to become Full-Stack.</li>
+    <li>🚀 Evolving exponentially in <strong>ReactJS</strong> and its ecosystem.</li>
 </ul>
 <br>
 
