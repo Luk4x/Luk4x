@@ -4,7 +4,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📇 &ensp; <i>Ａｂｏｕｔ</i></h2>
-<img align="right" src="./images/analysis.gif" width="395px" alt="anime chilling">
+<img align="right" src="./images/analysis.gif" width="395px" height="310px" alt="anime chilling">
 <table align="center">
   <tr>
     <td>
@@ -23,6 +23,7 @@
     <li>🔭 With more than 1 year of <b>experience</b>, I have autonomy in several of the most relevant Front-end technologies on the market.</li>
     <li>🔮 I'm specializing in Front-end, but I have good notions of Back-end and Mobile, as my long-term goal is to become Full-Stack.</li>
     <li>🚀 Evolving exponentially in <strong>ReactJS</strong> and its ecosystem.</li>
+    <li>⚡ Fun fact: I structure my routine in Javascript.</li>
 </ul>
 <br>
 
