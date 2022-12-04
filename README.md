@@ -23,7 +23,7 @@
     <li>💻 Estudo no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, mas já passei pela <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>, <a href="https://www.dio.me" target="_blank">DIO<a/> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
     <li>🔭 Com mais de 1 ano de <b>experiência</b>, tenho autonomia em diversas das tecnologias Front-end mais relevantes do mercado.</li>
     <li>🔮 Estou me especializando em Front-end, mas tenho boas noções de Back-end e Mobile, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
-    <li>🚀 Evoluindo exponencialmente em <b>ReactJS</b> e em seu ecossistema.</li>
+    <li>🚀 Evoluindo exponencialmente em <strong>ReactJS</strong> e em seu ecossistema.</li>
     <li>⚡ Fun fact: Eu estruturo minha rotina em Javascript.</li>
 </ul>
 <br>
@@ -31,6 +31,48 @@
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
 <img align="left" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
 <table align="right" height="279px">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br>
+      <sub>
+        <b>
+          <pre>ReactJS</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="NextJS icon"/><br>
+      <sub>
+        <b>
+          <pre>NextJS</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="Vite icon"/><br>
+      <sub>
+        <b>
+          <pre>ViteJS</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind icon"/><br>
+      <sub>
+        <b>
+          <pre>Tailwind</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br>
+      <sub>
+        <b>
+          <pre>Bootstrap</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br>
@@ -41,7 +83,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
+      <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br>
       <sub>
         <b>
           <pre>Javascript</pre>
@@ -69,48 +111,6 @@
       <sub>
         <b>
           <pre>&emsp;Git&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
-      <sub>
-        <b>
-          <pre>ReactJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="styled-components icon"/><br>
-      <sub>
-        <b>
-          <pre>Styled<br>Components</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
-      <sub>
-        <b>
-          <pre>NodeJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br>
-      <sub>
-        <b>
-          <pre>Bootstrap</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="JQuery icon"/><br>
-      <sub>
-        <b>
-          <pre>JQuery</pre>
         </b>
       </sub>
     </td>
@@ -187,6 +187,74 @@
       <sub>
         <b>
           <pre>Windows</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="JQuery icon"/><br>
+      <sub>
+        <b>
+          <pre>JQuery</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="styled-components icon"/><br>
+      <sub>
+        <b>
+          <pre>Styled<br>Components</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
+      <sub>
+        <b>
+          <pre>NodeJS</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br>
+      <sub>
+        <b>
+          <pre>Typescript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/205498377-46def560-af08-457a-b5ef-55387909a97e.png" width="65px" alt="React Native icon"/><br>
+      <sub>
+        <b>
+          <pre>React Native</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br>
+      <sub>
+        <b>
+          <pre>Sass</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nativebase" width="65px" alt="NativeBase icon"/><br>
+      <sub>
+        <b>
+          <pre>NativeBase</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=regex" width="65px" alt="Regex icon"/><br>
+      <sub>
+        <b>
+          <pre>Regex</pre>
         </b>
       </sub>
     </td>
