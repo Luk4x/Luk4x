@@ -259,6 +259,13 @@
 <table height="650px">
   <tr>
     <td>
+    <a href="https://github.com/Luk4x/apple-store" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=apple-store&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
     <a href="https://github.com/Luk4x/iManager" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=iManager&theme=tokyonight&hide_border=true">
     </a>
@@ -268,6 +275,13 @@
     <td>
     <a href="https://github.com/Luk4x/gencard" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=gencard&theme=tokyonight&hide_border=true">
+  </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Luk4x/login-flux" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=login-flux&theme=tokyonight&hide_border=true">
   </a>
     </td>
   </tr>
