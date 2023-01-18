@@ -416,17 +416,19 @@
 <br>
 
 <h2 align="center">
-<details open>
-<summary>📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></summary>
-<br>
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Luk4x&theme=tokyo-night&hide_border=true">
-<br><br>
-<img align="left" height="415px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true">
-<div align="right">
-<img height="203px" src="https://luk4x-github-readme-stats.vercel.app/api?username=Luk4x&show_icons=true&custom_title=Luk4x's%20Github%20Stats&theme=tokyonight&hide_border=true">
-<img height="203px" src="https://streak-stats.demolab.com?user=Luk4x&theme=tokyonight&hide_border=true">
-</div>
-</details>
+  <details open>
+    <summary>📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></summary>
+    <br/>
+    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Luk4x&theme=tokyo-night&hide_border=true&cache_seconds=7200" />
+    <br/><br/>
+    <img align="left" height="415px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=7200" />
+    <div align="right">
+      <img height="203px" src="https://luk4x-github-readme-stats.vercel.app/api?username=Luk4x&show_icons=true&custom_title=Luk4x's%20Github%20Stats&theme=tokyonight&hide_border=true&cache_seconds=7200" />
+      <img height="203px" src="https://streak-stats.demolab.com?user=Luk4x&theme=tokyonight&hide_border=true&cache_seconds=7200" />
+    </div>
+    <br/>
+    <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=7200" />
+  </details>
 <br>
 
 <img src="https://user-images.githubusercontent.com/86276393/202559929-a3048637-3de9-4b82-a61e-537a32de50fe.jpg" alt="waifu" height="40px" />
