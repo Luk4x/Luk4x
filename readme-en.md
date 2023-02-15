@@ -418,15 +418,15 @@
   <details open>
     <summary>📈 &ensp; Ａｃｔｉｖｉｔｙ</summary>
     <br/>
-    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Luk4x&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Luk4x%20Contribution%20Graph&cache_seconds=7200" />
+    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Luk4x&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Luk4x%20Contribution%20Graph" />
     <br/><br/>
-    <img align="left" height="490px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Luk4x%20Top%20Langs&cache_seconds=7200" />
+    <img align="left" height="490px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Luk4x%20Top%20Langs" />
     <div align="right">
-      <img height="240px" src="https://luk4x-github-readme-stats.vercel.app/api?username=Luk4x&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Luk4x%20Github%20Stats&cache_seconds=7200" />
-      <img height="240px" src="https://streak-stats.demolab.com?user=Luk4x&theme=tokyonight&hide_border=true&cache_seconds=7200" />
+      <img height="240px" src="https://luk4x-github-readme-stats.vercel.app/api?username=Luk4x&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Luk4x%20Github%20Stats" />
+      <img height="240px" src="https://streak-stats.demolab.com?user=Luk4x&theme=tokyonight&hide_border=true" />
     </div>
     <br/>
-    <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=7200&custom_title=Luk4x%20Coding%20Time&range=all_time" />
+    <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Luk4x%20Coding%20Time&range=all_time" />
   </details>
 <br>
 
