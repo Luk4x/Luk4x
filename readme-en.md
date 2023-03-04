@@ -418,20 +418,19 @@
   <details open>
     <summary>📈 &ensp; Ａｃｔｉｖｉｔｙ</summary>
     <br/>
-    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Luk4x&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Luk4x%20Contribution%20Graph" />
+    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Luk4x&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
     <br/><br/>
-    <img align="left" height="490px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Luk4x%20Top%20Langs&cache_seconds=14400" />
+    <img align="left" height="490px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400" />
     <div align="right">
-      <img height="240px" src="https://luk4x-github-readme-stats.vercel.app/api?username=Luk4x&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Luk4x%20Github%20Stats&cache_seconds=14400" />
+      <img height="240px" src="https://luk4x-github-readme-stats.vercel.app/api?username=Luk4x&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats&cache_seconds=14400" />
       <img height="240px" src="https://streak-stats.demolab.com?user=Luk4x&theme=tokyonight&hide_border=true&cache_seconds=14400" />
     </div>
     <br/>
-    <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Luk4x%20Coding%20Time&range=all_time&cache_seconds=14400" />
+    <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Coding%20Time&range=all_time&cache_seconds=14400" />
   </details>
 <br>
 
-<img src="https://user-images.githubusercontent.com/86276393/202559929-a3048637-3de9-4b82-a61e-537a32de50fe.jpg" alt="waifu" height="40px" />
-<img src="https://img.shields.io/github/license/Luk4x/Luk4x?style=for-the-badge&logo=unlicense&logoColor=BF91F3&color=70A5FD" alt="luk4x repo license" height="40px" />
+<img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=luk4x&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&logoColor=BF91F3&color=70A5FD" alt="luk4x profile visitors" height="40px" />
 
 <!--
 - 🔭 I’m currently working on ...
