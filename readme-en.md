@@ -19,7 +19,7 @@
 </table>
 <ul align="left">
     <li>🤩️ I love Technology, Psychology, Anime, Lo-Fi, Chess and Parkour.</li>
-    <li>💻 I currently study at <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, but I've been through <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target ="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Video Course</a>, <a href="https://www.dio.me" target ="_blank">DIO<a/> and <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
+    <li>💻 I work at <a href="https://github.com/delta-code-ltda" target="_blank">Delta Code</a> and I've studied at <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target ="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Video Course</a>, <a href="https://www.dio.me" target ="_blank">DIO<a/> and <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
     <li>🔭 With more than 1 year of <b>experience</b>, I have autonomy in several of the most relevant Front-end technologies on the market.</li>
     <li>🔮 I'm specializing in Front-end, but I have good notions of Back-end and Mobile, as my long-term goal is to become Full-Stack.</li>
     <li>🚀 Evolving exponentially in <strong>ReactJS</strong> and its ecosystem.</li>
