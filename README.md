@@ -28,6 +28,13 @@
 </ul>
 <br>
 
+<div align="center">
+  <a href="https://open.spotify.com/user/317pewkddeii2h3hfvslij6zwwdy" target="_blank">
+    <img src="https://luk4x-spotify-readme.vercel.app/api?theme=dark" alt="Luk4x Current Spotify Song Playing" />
+  </a>
+</div>
+<br>
+
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
 <img align="left" width="268px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
 <table align="right" height="267px">
