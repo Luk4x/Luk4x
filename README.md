@@ -33,7 +33,6 @@
     <img src="https://luk4x-spotify-readme.vercel.app/api?theme=dark" alt="Luk4x Current Spotify Song Playing" />
   </a>
 </div>
-<br>
 
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
 <img align="left" width="268px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
