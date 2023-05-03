@@ -437,7 +437,7 @@
   </details>
 <br>
 
-<img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=luk4x&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&logoColor=BF91F3&color=70A5FD" alt="luk4x profile visitors" height="40px" />
+<img src="https://visitor-badge.feriirawann.repl.co/?username=luk4x&repo=luk4x&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=70A5FD&contentType=svg" alt="Luk4x Profile Visitors" height="40px" />
   
 <!--
 - 🔭 I’m currently working on ...
