@@ -434,9 +434,7 @@
     <br/>
     <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Coding%20Time&range=all_time&cache_seconds=14400" />
   </details>
-<br>
-
-<img src="https://visitor-badge.feriirawann.repl.co/?username=luk4x&repo=luk4x&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=70A5FD&contentType=svg" alt="Luk4x Profile Visitors" height="40px" />
+</h2>
 
 <!--
 - 🔭 I’m currently working on ...
