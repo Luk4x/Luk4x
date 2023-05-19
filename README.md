@@ -435,11 +435,14 @@
     <br/>
     <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />
   </details>
-<br>
 
-<img src="https://visitor-badge.feriirawann.repl.co/?username=luk4x&repo=luk4x&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=70A5FD&contentType=svg" alt="Luk4x Profile Visitors" height="40px" />
-  
+<hr/>
+
+<a href="https://github.com/delta-code-ltda" target="_blank">
+  <img src="https://github.com/Luk4x/Luk4x/assets/86276393/a8aacd9e-ea05-4f30-a2f2-9c4d55232ba4" alt="Lucas Delta Code Signature" width="300px" />
+</a>
 <!--
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
