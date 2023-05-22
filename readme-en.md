@@ -25,17 +25,11 @@
     <li>🚀 Evolving exponentially in <strong>ReactJS</strong> and its ecosystem.</li>
     <li>⚡ Fun fact: I structure my routine in Javascript.</li>
 </ul>
-<br>
-      
-<div align="center">
-  <a href="https://open.spotify.com/user/317pewkddeii2h3hfvslij6zwwdy" target="_blank">
-    <img src="https://luk4x-spotify-readme.vercel.app/api?theme=dark" alt="Luk4x Current Spotify Song Playing" />
-  </a>
-</div>
+<br/><br/>
 
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｈｎｏｌｏｇｉｅｓ</i></h2>
-<img align="left" width="410px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
-<table align="right" height="410px">
+<img align="left" width="400px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
+<table align="right" height="400px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br>
