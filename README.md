@@ -1,12 +1,9 @@
 <a href="https://github.com/Luk4x/github-profile-background-photo" alt="luk4x gif repository">
   <img align="left" width="100%" alt="about" src="./images/headerBackground-pt.gif"/>
 </a>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<hr/>
-
-<img align="center" width="100%" alt="about" src="https://github.com/Luk4x/Luk4x/assets/86276393/ab89258b-09a0-45ac-9e94-47a99d1b5aaf" />
-<br/><br/>
+<h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
 <img align="right" src="./images/analysis.gif" width="370px" height="300px" alt="anime chilling" />
 <table align="center">
   <tr>
@@ -29,8 +26,7 @@
     <li>🚀 Evoluindo exponencialmente em <strong>ReactJS</strong> e em seu ecossistema.</li>
     <li>⚡ Fun fact: Eu estruturo minha rotina em Javascript.</li>
 </ul>
-      
-<hr>
+<br/>
 
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
 <img align="left" width="268px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
