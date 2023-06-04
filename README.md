@@ -33,28 +33,34 @@
 <table align="right" height="267px">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br>
-      <sub>
-        <b>
-          <pre>ReactJS</pre>
-        </b>
-      </sub>
+      <a href="https://pt-br.reactjs.org/">
+        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br>
+        <sub>
+          <b>
+            <pre>ReactJS</pre>
+          </b>
+        </sub>
+      </a>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="NextJS icon"/><br>
-      <sub>
-        <b>
-          <pre>NextJS</pre>
-        </b>
-      </sub>
+      <a href="https://nextjs.org/">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="NextJS icon"/><br>
+        <sub>
+          <b>
+            <pre>NextJS</pre>
+          </b>
+        </sub>
+      </a>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="Vite icon"/><br>
-      <sub>
-        <b>
-          <pre>ViteJS</pre>
-        </b>
-      </sub>
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br>
+        <sub>
+          <b>
+            <pre>Typescript</pre>
+          </b>
+        </sub>
+      </a>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind icon"/><br>
@@ -65,28 +71,32 @@
       </sub>
     </td>
     <td align="center">
+      <a href="https://redux.js.org/">
+        <img src="https://skillicons.dev/icons?i=redux" width="65px" alt="Redux icon"/><br>
+        <sub>
+          <b>
+            <pre>Redux<br/>Toolkit</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <a href="https://getbootstrap.com/">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br>
       <sub>
         <b>
           <pre>Bootstrap</pre>
         </b>
       </sub>
+      </a>
     </td>
-  </tr>
-    <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="Styled Components icon"/><br>
       <sub>
         <b>
           <pre>Styled<br>Components</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br>
-      <sub>
-        <b>
-          <pre>Typescript</pre>
         </b>
       </sub>
     </td>
