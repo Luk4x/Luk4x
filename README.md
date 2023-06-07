@@ -1,7 +1,7 @@
 <a href="https://github.com/Luk4x/github-profile-background-photo" alt="luk4x gif repository">
   <img align="left" width="100%" alt="about" src="./images/headerBackground-pt.gif" />
 </a>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
 <img align="right" src="./images/analysis.gif" width="370px" height="300px" alt="anime chilling" />
@@ -334,7 +334,7 @@
     </td>
   </tr>
 </table>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
 <img align="left" width="185px" src="./images/oh-ok.gif" alt="anime coding">
