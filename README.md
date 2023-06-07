@@ -23,7 +23,7 @@
     <li>💻 <b>Trabalho</b> na <a href="https://github.com/delta-code-ltda" target="_blank">Delta Code</a> e já estudei no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>, <a href="https://www.dio.me" target="_blank">DIO<a/> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
     <li>🔭 Com mais de 1 ano de <b>experiência</b>, tenho autonomia em diversas das tecnologias Front-end mais relevantes do mercado.</li>
     <li>🔮 Estou me especializando em Front-end, mas tenho boas noções de Back-end e Mobile, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
-    <li>🚀 Evoluindo exponencialmente em <strong>ReactJS</strong> e em seu ecossistema.</li>
+    <li>🚀 Evoluindo exponencialmente em <strong>React.js</strong> e em seu ecossistema.</li>
     <li>⚡ Fun fact: Eu estruturo minha rotina em Javascript.</li>
 </ul>
 <br/>
@@ -186,23 +186,27 @@
       </sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <a href="https://axios-http.com/docs/intro">
-      <img src="https://i.ibb.co/305Zbht/axios.png" width="65px" alt="Axios icon"/><br>
-      <sub>
-        <b>
-          <pre>Axios &<br/>FetchAPI</pre>
-        </b>
-      </sub>
+      <a href="https://www.sanity.io/">
+        <img src="https://user-images.githubusercontent.com/86276393/212923447-c70352c9-540b-4063-8279-880ad2c164e2.png" height="65px" alt="Sanity icon"/><br>
+        <sub>
+          <b>
+            <pre>Sanity.io</pre>
+          </b>
+        </sub>
       </a>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
-      <sub>
-        <b>
-          <pre>NodeJS</pre>
-        </b>
-      </sub>
+      <a href="https://stripe.com/en-br/">
+        <img src="https://user-images.githubusercontent.com/86276393/212921259-b6b0f80e-d9ed-4b0e-b17a-34733b507cec.png" width="65px" alt="Stripe icon"/><br>
+        <sub>
+          <b>
+            <pre>Stripe</pre>
+          </b>
+        </sub>
+      </a>
     </td>
     <td align="center">
       <a href="https://redux.js.org/">
@@ -215,76 +219,122 @@
       </a>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express icon"/><br>
-      <sub>
-        <b>
-          <pre>Express</pre>
-        </b>
-      </sub>
+      <a href="https://expressjs.com/">
+        <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express.js icon"/><br>
+        <sub>
+          <b>
+            <pre>Express.js</pre>
+          </b>
+        </sub>
+      </a>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br>
-      <sub>
-        <b>
-          <pre>React<br>Native</pre>
-        </b>
-      </sub>
+      <a href="https://reactnative.dev/">
+        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br>
+        <sub>
+          <b>
+            <pre>React<br>Native</pre>
+          </b>
+        </sub>
+     </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br>
-      <sub>
-        <b>
-          <pre>Javascript</pre>
-        </b>
-      </sub>
+      <a href="https://nativebase.io/">
+        <img src="https://nativebase.io/img/nativebase-logo.svg" width="65px" alt="NativeBase icon"/><br>
+        <sub>
+          <b>
+            <pre>NativeBase</pre>
+          </b>
+        </sub>
+     </a>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
+      <a href="https://axios-http.com/docs/intro">
+      <img src="https://i.ibb.co/305Zbht/axios.png" width="65px" alt="Axios icon"/><br>
       <sub>
         <b>
-          <pre>CSS3</pre>
+          <pre>Axios &<br/>FetchAPI</pre>
         </b>
       </sub>
-    </td>
-        <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
-      <sub>
-        <b>
-          <pre>HTML5</pre>
-        </b>
-      </sub>
+      </a>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br>
-      <sub>
-        <b>
-          <pre>Terminal</pre>
-        </b>
-      </sub>
+      <a href="https://nodejs.org/en">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
+        <sub>
+          <b>
+            <pre>Node.js</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
+        <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br>
+        <sub>
+          <b>
+            <pre>Javascript</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
+        <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
+        <sub>
+          <b>
+            <pre>CSS3</pre>
+          </b>
+        </sub>
+      </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
-      <sub>
-        <b>
-          <pre>VSCode</pre>
-        </b>
-      </sub>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
+        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
+        <sub>
+          <b>
+            <pre>HTML5</pre>
+          </b>
+        </sub>
+      </a>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/205502680-8c4634eb-5032-446c-a5ff-d669a0fa787c.png" width="80px" alt="Linux and Windows icon"/><br>
-      <sub>
-        <b>
-          <pre>Linux /<br>Windows</pre>
-        </b>
-      </sub>
+      <a href="https://ohmyz.sh/">
+        <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br>
+        <sub>
+          <b>
+            <pre>Terminal</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://code.visualstudio.com/">
+        <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
+        <sub>
+          <b>
+            <pre>VSCode</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pop.system76.com/">
+        <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="Linux icon"/><br>
+        <sub>
+          <b>
+            <pre>Linux &<br>Windows</pre>
+          </b>
+        </sub>
+      </a>
     </td>
   </tr>
 </table>
-<br>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <h2 align="center">
   <details open>
