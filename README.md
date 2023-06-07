@@ -29,8 +29,8 @@
 <br/>
 
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
-<img align="left" width="258px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
-<table align="right" height="259px">
+<img align="left" width="254px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
+<table align="right" height="255px">
   <tr>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">
