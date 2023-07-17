@@ -55,7 +55,7 @@
 <hr/>
 
 <img align="center" src="./components/titles/pt/stack.png" width="100%" alt="Título da seção Minha Stack" />
-<img align="left" width="254px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
+<img align="left" width="254px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
 <table align="right" height="255px">
   <tr>
     <td align="center">
@@ -360,7 +360,7 @@
     </td>
   </tr>
 </table>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr/>
 
 <h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
