@@ -1,47 +1,47 @@
 <a href="https://github.com/delta-code-ltda" target="_blank">
-  <img src="https://github.com/Luk4x/Luk4x/assets/86276393/a8aacd9e-ea05-4f30-a2f2-9c4d55232ba4" alt="Assinatura de Lucas da Delta Code" height="89px" />
+  <img src="https://github.com/Luk4x/Luk4x/assets/86276393/a8aacd9e-ea05-4f30-a2f2-9c4d55232ba4" alt="Delta Code, Lucas Signature" height="89px" />
 </a>
 <table align="right">
   <tr>
     <td height="43px">
-      <b>
-        <a href="README.md">Português 🇧🇷</a>
-      </b>
+      <a href="README.md">Português 🇧🇷</a>
     </td>
   </tr>
   <tr>
     <td height="43px">
-      <a href="readme-en.md">English 🇺🇸</a>
+      <b>
+        <a href="readme-en.md">English 🇺🇸</a>
+      </b>
     </td>
   </tr>
 </table>
 <hr/>
 
-<a href="https://github.com/Luk4x/github-profile-background-photo" alt="Repositório do Banner Animado de Luk4x">
-  <img align="center" width="100%" alt="Banner Animado do Github do Luk4x" src="./images/wallpaper-pt.apng" />
+<a href="https://github.com/Luk4x/github-profile-background-photo" alt="Luk4x Animated Banner Repository">
+  <img align="center" width="100%" alt="Luk4x Github Animated Banner" src="./images/wallpaper-en.apng" />
 </a>
 <br/><br/>
 <div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=luk4x&repo=luk4x&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=6ca0f7&contentType=svg" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=luk4x&repo=luk4x&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=6ca0f7&contentType=svg" alt="Luk4x Github Profile Visitors Counter" height="40px" />
 </div>
 <hr/>
 
-<img align="center" src="./components/titles/pt/about.png" width="100%" alt="Título da seção Sobre Mim" />
-<img align="right" src="./images/analysis.gif" border="2" width="372px" height="278px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
+<img align="center" src="./components/titles/en/about.png" width="100%" alt="About Me Section Title" />
+<img align="right" src="./images/analysis.gif" border="2" width="380px" height="294px" alt="Boy sitting in front of a monitor in a dark room" />
 <ul>
-  <li>🤩️ Apaixonado por Programação, Animes e Música.</li>
-  <li>💻 <b>Trabalho</b> na <a href="https://github.com/delta-code-ltda" target="_blank">Delta Code</a> e já estudei no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>, <a href="https://www.dio.me" target="_blank">DIO<a/> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
-  <li>🔭 Com mais de 2 anos de <b>experiência</b>, tenho autonomia em diversas das tecnologias Front-end mais relevantes do mercado.</li>
-  <li>🔮 Estou me especializando em Front-end, mas tenho noções de Back-end e Mobile, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
-  <li>🚀 Evoluindo continuamente em <strong>React.js</strong> e em seu ecossistema.</li>
-  <li>🇺🇸 Tenho inglês intermediário.</li>
-  <li>🎮 Curto jogar <a href="https://namemc.com/profile/Kiy0u.1" target="_blank">PotPvP</a>, <a href="https://tracker.gg/valorant/profile/riot/Luk4x%23Luk4x/agents?playlist=unrated&season=all" target="_blank">Valorant</a> e <a href="https://www.chess.com/member/kiy0u" target="_blank">Xadrez</a>.</li>
+  <li>🤩️ Passionate about Programming, Anime and Music.</li>
+  <li>💻 I <strong>work</strong> at <a href="https://github.com/delta-code-ltda" target="_blank">Delta Code</a> and I've studied at <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target ="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Video Course</a>, <a href="https://www.dio.me" target ="_blank">DIO<a/> and <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
+  <li>🔭 With more than 2 years of <strong>experience</strong>, I have autonomy in several of the most relevant front-end technologies on the market.</li>
+  <li>🔮 I'm specializing in Front-end, but I have notions of Back-end and Mobile, as my long-term goal is to become Full-Stack.</li>
+  <li>🚀 Continuously evolving <strong>React.js</strong> and its ecosystem.</li>
+  <li>🇺🇸 I have intermediate English.</li>
+  <li>🎮 I usually like to play <a href="https://namemc.com/profile/Kiy0u.1" target="_blank">PotPvP</a>, <a href="https://tracker.gg/valorant/profile/riot/Luk4x%23Luk4x/agents?playlist=unrated&season=all" target="_blank">Valorant</a> and <a href="https://www.chess.com/member/kiy0u" target="_blank">Chess</a>.</li>
   <li>
     <details>
-      <summary>👽 Curiosidades:</summary>
+      <summary>👽 Curiosities:</summary>
       <ul>
-        <li>🤖 Estruturo minha rotina em Javascript.</li>  
-        <li>⛩️ Já assisti mais de 450 animes.</li>
+        <li>🤖 I structure my routine in Javascript.</li>  
+        <li>⛩️ I've watched over 450 animes.</li>
       </ul>
     </details>
   </li>
@@ -368,7 +368,7 @@
 <br/><br/>
 <p align="center">
   <a href="https://www.canva.com/design/DAFSw49nC14/CDdcLsJ4a-uwMAWG_cq4zQ/view?utm_content=DAFSw49nC14&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
-    <img src="./components/icons/pt/cv.png" alt="Curriculum badge" height="30px" />
+    <img src="./components/icons/en/cv.png" alt="Curriculum badge" height="30px" />
     &nbsp;
   </a>
   <a href="mailto:luk4xm4ci3l@gmail.com" target="_blank">
@@ -401,12 +401,12 @@
   </a>
   <img src="./components/icons/discord.png" alt="Discord badge" height="30px" />
 </p>
-<br/><br/>
+<br/>
 <hr/>
 
-<img align="center" src="./components/titles/en/project.png" width="100%" alt="Projects Section Title" />
-<img align="left" src="./images/projects-wallpaper.gif" height="495px" alt="Boy programming, working in personal projects" />
-<table height="495px" align="right">
+<img align="center" src="./components/titles/en/projects.png" width="100%" alt="Projects Section Title" />
+<img align="left" src="./images/projects-wallpaper.gif" height="650px" alt="Boy programming, working in personal projects" />
+<table height="650px" align="right">
   <tr>
     <td>
     <a href="https://github.com/Luk4x/apple-store" target="_blank">
@@ -562,7 +562,7 @@
     </td>
   </tr>
 </table>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr/>
 
 <img align="center" src="./components/titles/en/activity.png" width="100%" alt="Activity Section Title" />
