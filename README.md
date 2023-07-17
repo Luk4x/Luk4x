@@ -1,22 +1,34 @@
-<a href="https://github.com/Luk4x/github-profile-background-photo" alt="luk4x gif repository">
-  <img align="left" width="100%" alt="about" src="./images/headerBackground-pt.gif" />
+<a href="https://github.com/delta-code-ltda" target="_blank">
+  <img src="https://github.com/Luk4x/Luk4x/assets/86276393/a8aacd9e-ea05-4f30-a2f2-9c4d55232ba4" alt="Assinatura de Lucas da Delta Code" height="89px" />
 </a>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-<h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
-<img align="right" src="./images/analysis.gif" width="370px" height="300px" alt="anime chilling" />
-<table align="center">
+<table align="right">
   <tr>
-    <td>
+    <td height="44px">
       <b>
-        <a href="README.md">🇧🇷 Português</a>
+        <a href="README.md">Português 🇧🇷</a>
       </b>
     </td>
-    <td>
-      <a href="readme-en.md">🇺🇸 English</a>
+  </tr>
+  <tr>
+    <td height="44px">
+      <a href="readme-en.md">English 🇺🇸</a>
     </td>
   </tr>
 </table>
+<hr/>
+
+<a href="https://github.com/Luk4x/github-profile-background-photo" alt="Repositório do Banner Animado de Luk4x">
+  <img align="center" width="100%" alt="Banner Animado do Github de Luk4x" src="./images/wallpaper-pt.apng" />
+</a>
+<br/><br/>
+<div align="center">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=luk4x&repo=luk4x&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=6ca0f7&contentType=svg" alt="Contador de Visitas do Perfil no Github de Luk4x" height="40px" />
+</div>
+<hr/>
+
+<h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
+<img align="right" src="./images/analysis.gif" width="370px" height="300px" alt="anime chilling" />
+
 
 <ul align="left">
     <li>🤩️ Amo Tecnologia, Animes, Phonk, Psicologia, Xadrez e Parkour.</li>
@@ -548,11 +560,9 @@
 
 <hr/>
 
-<a href="https://github.com/delta-code-ltda" target="_blank">
-  <img src="https://github.com/Luk4x/Luk4x/assets/86276393/a8aacd9e-ea05-4f30-a2f2-9c4d55232ba4" alt="Lucas Delta Code Signature" width="350px" align="right" />
-</a>
+
 <br/>
-<img src="https://visitor-badge.feriirawann.repl.co/?username=luk4x&repo=luk4x&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=6ca0f7&contentType=svg" alt="luk4x profile visitors count" height="40px" align="left" />
+
 <br/><br/><br/>
 <!--
 
