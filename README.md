@@ -387,7 +387,7 @@
     <img src="./components/icons/telegram.png" alt="Etiqueta do Telegram" height="30px" />
     &nbsp;
   </a>
-  <a href="https://wa.me/5522996112570?text=Yo,%20Luk4x!%20Vim%20pelo%20seu%Github!" target="_blank">
+  <a href="https://wa.me/5522996112570?text=Yo,%20Luk4x!%20Vim%20pelo%20seu%20Github!" target="_blank">
     <img src="./components/icons/whatsapp.png" alt="Etiqueta do Whatsapp" height="30px" />
     &nbsp;
   </a>
@@ -401,7 +401,7 @@
   </a>
   <img src="./components/icons/discord.png" alt="Etiqueta do Discord" height="30px" />
 </p>
-<br/><br/><br/>
+<br/><br/>
 <hr/>
 
 <h2 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h2>
