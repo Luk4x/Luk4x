@@ -27,7 +27,7 @@
 <hr/>
 
 <img align="center" src="./components/titles/pt/about.png" width="100%" alt="Título da seção Sobre Mim" />
-<img align="right" src="./images/analysis.gif" border="2" width="372px" height="300px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
+<img align="right" src="./images/analysis.gif" border="2" width="372px" height="292px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
 <ul>
   <li>🤩️ Apaixonado por Programação, Animes e Música.</li>
   <li>💻 <b>Trabalho</b> na <a href="https://github.com/delta-code-ltda" target="_blank">Delta Code</a> e já estudei no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>, <a href="https://www.dio.me" target="_blank">DIO<a/> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
@@ -35,7 +35,15 @@
   <li>🔮 Estou me especializando em Front-end, mas tenho noções de Back-end e Mobile, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
   <li>🚀 Evoluindo continuamente em <strong>React.js</strong> e em seu ecossistema.</li>
   <li>🎮 Curto jogar <a href="https://namemc.com/profile/Kiy0u.1" target="_blank">PotPvP</a>, <a href="https://tracker.gg/valorant/profile/riot/Luk4x%23Luk4x/agents?playlist=unrated&season=all" target="_blank">Valorant</a> e <a href="https://www.chess.com/member/kiy0u" target="_blank">Xadrez</a>.</li>
-  <li>👽 Curiosidades: Eu estruturo minha rotina em Javascript e já assisti +450 animes.</li>
+  <li>
+    <details>
+      <summary>👽 Curiosidades:</summary>
+      <ul>
+        <li>🤖 Estruturo minha rotina em Javascript.</li>  
+        <li>⛩️ Já assisti mais de 450 animes.</li>
+      </ul>
+    </details>
+  </li>
 </ul>
 <br/>
 <div align="center">
