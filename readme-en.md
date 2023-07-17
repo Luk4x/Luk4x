@@ -1,34 +1,61 @@
-<a href="https://github.com/Luk4x/github-profile-background-photo" alt="luk4x gif repository">
-  <img align="left" width="100%" alt="about" src="./images/headerBackground-en.gif"/>
+<a href="https://github.com/delta-code-ltda" target="_blank">
+  <img src="https://github.com/Luk4x/Luk4x/assets/86276393/a8aacd9e-ea05-4f30-a2f2-9c4d55232ba4" alt="Assinatura de Lucas da Delta Code" height="89px" />
 </a>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-<h2 align="center">📇 &ensp; <i>Ａｂｏｕｔ</i></h2>
-<img align="right" src="./images/analysis.gif" width="395px" height="310px" alt="anime chilling">
-<table align="center">
+<table align="right">
   <tr>
-    <td>
-      <a href="README.md">🇧🇷 Português</a>
-    </td>
-    <td>
+    <td height="43px">
       <b>
-        <a href="readme-en.md">🇺🇸 English</a>
+        <a href="README.md">Português 🇧🇷</a>
       </b>
     </td>
   </tr>
+  <tr>
+    <td height="43px">
+      <a href="readme-en.md">English 🇺🇸</a>
+    </td>
+  </tr>
 </table>
-<ul align="left">
-    <li>🤩️ I love Technology, Anime, Phonk, Psychology, Chess and Parkour.</li>
-    <li>💻 I work at <a href="https://github.com/delta-code-ltda" target="_blank">Delta Code</a> and I've studied at <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target ="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Video Course</a>, <a href="https://www.dio.me" target ="_blank">DIO<a/> and <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
-    <li>🔭 With more than 1 year of <b>experience</b>, I have autonomy in several of the most relevant Front-end technologies on the market.</li>
-    <li>🔮 I'm specializing in Front-end, but I have good notions of Back-end and Mobile, as my long-term goal is to become Full-Stack.</li>
-    <li>🚀 Evolving exponentially in <strong>React.js</strong> and its ecosystem.</li>
-    <li>⚡ Fun fact: I structure my routine in Javascript.</li>
-</ul>
-<br/><br/>
+<hr/>
 
-<h2 align="center">🛠️ &ensp; <i>Ｔｅｃｈｎｏｌｏｇｉｅｓ</i></h2>
-<img align="left" width="380px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
+<a href="https://github.com/Luk4x/github-profile-background-photo" alt="Repositório do Banner Animado de Luk4x">
+  <img align="center" width="100%" alt="Banner Animado do Github do Luk4x" src="./images/wallpaper-pt.apng" />
+</a>
+<br/><br/>
+<div align="center">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=luk4x&repo=luk4x&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=6ca0f7&contentType=svg" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
+</div>
+<hr/>
+
+<img align="center" src="./components/titles/pt/about.png" width="100%" alt="Título da seção Sobre Mim" />
+<img align="right" src="./images/analysis.gif" border="2" width="372px" height="278px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
+<ul>
+  <li>🤩️ Apaixonado por Programação, Animes e Música.</li>
+  <li>💻 <b>Trabalho</b> na <a href="https://github.com/delta-code-ltda" target="_blank">Delta Code</a> e já estudei no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>, <a href="https://www.dio.me" target="_blank">DIO<a/> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
+  <li>🔭 Com mais de 2 anos de <b>experiência</b>, tenho autonomia em diversas das tecnologias Front-end mais relevantes do mercado.</li>
+  <li>🔮 Estou me especializando em Front-end, mas tenho noções de Back-end e Mobile, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
+  <li>🚀 Evoluindo continuamente em <strong>React.js</strong> e em seu ecossistema.</li>
+  <li>🇺🇸 Tenho inglês intermediário.</li>
+  <li>🎮 Curto jogar <a href="https://namemc.com/profile/Kiy0u.1" target="_blank">PotPvP</a>, <a href="https://tracker.gg/valorant/profile/riot/Luk4x%23Luk4x/agents?playlist=unrated&season=all" target="_blank">Valorant</a> e <a href="https://www.chess.com/member/kiy0u" target="_blank">Xadrez</a>.</li>
+  <li>
+    <details>
+      <summary>👽 Curiosidades:</summary>
+      <ul>
+        <li>🤖 Estruturo minha rotina em Javascript.</li>  
+        <li>⛩️ Já assisti mais de 450 animes.</li>
+      </ul>
+    </details>
+  </li>
+</ul>
+<br/>
+<div align="center">
+  <a href="https://open.spotify.com/user/317pewkddeii2h3hfvslij6zwwdy" target="_blank">
+    <img src="https://luk4x-spotify-readme.vercel.app/api?theme=dark&scan=true" alt="Current music playing on Luk4x Spotify" />
+  </a>
+</div>
+<hr/>
+
+<img align="center" src="./components/titles/en/stack.png" width="100%" alt="My Stack Section Title" />
+<img align="left" height="380px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
 <table align="right" height="380px">
   <tr>
     <td align="center">
@@ -333,78 +360,85 @@
     </td>
   </tr>
 </table>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<hr/>
 
-<h2 align="center">📩 &ensp; Ｃｏｎｔａｃｔ</h2>
-<img align="left" width="260px" src="./images/oh-ok.gif" alt="anime coding">
-<br><br><br>
+<img align="center" src="./components/titles/en/contact.png" width="100%" alt="Contact Section Title" />
+<img align="right" width="185px" src="./images/oh-ok.gif" alt="Girl working with programming"/>
+<br/><br/>
 <p align="center">
   <a href="https://www.canva.com/design/DAFSw49nC14/CDdcLsJ4a-uwMAWG_cq4zQ/view?utm_content=DAFSw49nC14&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
-    <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="Resume badge">
+    <img src="./components/icons/pt/cv.png" alt="Curriculum badge" height="30px" />
+    &nbsp;
   </a>
   <a href="mailto:luk4xm4ci3l@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge">
+    <img src="./components/icons/gmail.png" alt="Gmail badge" height="30px" />
+    &nbsp;
   </a>
   <a href="https://www.linkedin.com/in/lucasmacielf/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge">
+    <img src="./components/icons/linkedin.png" alt="LinkedIn badge" height="30px" />
+    &nbsp;
   </a>
   <a href="https://cursos.alura.com.br/vitrinedev/lucasmacielf" target="_blank">
-    <img src="https://user-images.githubusercontent.com/86276393/202913530-1e20fe60-6731-4597-ad15-6b60af96a7df.png" alt="Vitrine.Dev badge">
+    <img src="./components/icons/vitrine-dev.png" alt="Vitrine.Dev badge" height="30px" />
+    &nbsp;
   </a>
   <a href="https://t.me/lu_k4x" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram badge">
+    <img src="./components/icons/telegram.png" alt="Telegram badge" height="30px" />
+    &nbsp;
   </a>
-  <a href="https://wa.me/5522996112570?text=Yo,%20sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp badge">
+  <a href="https://wa.me/5522996112570?text=Yo,%20Luk4x!%20Vim%20pelo%20seu%20Github!" target="_blank">
+    <img src="./components/icons/whatsapp.png" alt="Whatsapp badge" height="30px" />
+    &nbsp;
   </a>
   <a href="https://www.instagram.com/lu_k4x/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge">
-  </a>
-  <a href="https://line.me/ti/p/9DbuEDA6O7" target="_blank">
-    <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="Line badge">
+    <img src="./components/icons/instagram.png" alt="Instagram badge" height="30px" />
+    &nbsp;
   </a>
   <a href="https://stackoverflow.com/users/18881418/lucas-maciel" target="_blank">
-    <img src="https://user-images.githubusercontent.com/86276393/194973392-6c133c92-13a3-4659-8fb1-08073cd1b417.png" alt="Stack Overflow badge">
+    <img src="./components/icons/stack-overflow.png" alt="Stack Overflow badge" height="30px" />
+    &nbsp;
   </a>
-  <img src="https://user-images.githubusercontent.com/86276393/177438405-e828976c-3773-4b4e-a3f3-dc888c759003.png" alt="Discord badge">
+  <img src="./components/icons/discord.png" alt="Discord badge" height="30px" />
 </p>
-<br/><br/><br/><br/>
+<br/><br/>
+<hr/>
 
-<h2 align="center">🗃️ &ensp; Ｐｒｏｊｅｃｔｓ</h2>
-<img align="right" src="./images/projects-wallpaper.gif" height="651px" alt="projects image">
-<table height="650px">
-<tr>
+<img align="center" src="./components/titles/en/project.png" width="100%" alt="Projects Section Title" />
+<img align="left" src="./images/projects-wallpaper.gif" height="495px" alt="Boy programming, working in personal projects" />
+<table height="495px" align="right">
+  <tr>
     <td>
     <a href="https://github.com/Luk4x/apple-store" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=apple-store&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=apple-store&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/Luk4x/iManager" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=iManager&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=iManager&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/Luk4x/gencard" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=gencard&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=gencard&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
   </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/Luk4x/login-flux" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=login-flux&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=login-flux&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
   </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/Luk4x/dev-burger-order-log-interface" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=dev-burger-order-log-interface&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=dev-burger-order-log-interface&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
   </a>
     </td>
   </tr>
@@ -418,153 +452,145 @@
   <tr>
     <td>
     <a href="https://github.com/Luk4x/copa-mobile" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=copa-mobile&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=copa-mobile&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/Luk4x/devClub-convert-money" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=devClub-convert-money&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=devClub-convert-money&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/Luk4x/user-register-interface" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=user-register-interface&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=user-register-interface&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/Luk4x/playstation-store" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=playstation-store&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=playstation-store&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/Luk4x/project-collor" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=project-collor&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=project-collor&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/Luk4x/copa-web" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=copa-web&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=copa-web&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/Luk4x/dev-burger-order-log-API" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=dev-burger-order-log-API&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=dev-burger-order-log-API&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/Luk4x/projeto-calculadora" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=projeto-calculadora&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=projeto-calculadora&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/Luk4x/user-register-API" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=user-register-API&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=user-register-API&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/Luk4x/MissProg5d" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=MissProg5d&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=MissProg5d&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/Luk4x/copa-server" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=copa-server&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=copa-server&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/Luk4x/netflix-start-page-clone" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=netflix-start-page-clone&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=netflix-start-page-clone&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/Luk4x/nlw-Heat-Origin-" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=nlw-Heat-Origin-&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=nlw-Heat-Origin-&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/Luk4x/projeto-formulario-de-contato" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=projeto-formulario-de-contato&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=projeto-formulario-de-contato&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/Luk4x/projeto-mobile-template-login-singup" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=projeto-mobile-template-login-singup&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=projeto-mobile-template-login-singup&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
   </tr>
   <tr>
     <td>
     <a href="https://github.com/Luk4x/DevClub-project-YogaApp" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=DevClub-project-YogaApp&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=DevClub-project-YogaApp&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
   </tr>
 </table>
-<br>
-
-<h2 align="center">
-  <details open>
-    <summary>📈 &ensp; Ａｃｔｉｖｉｔｙ</summary>
-    <br/>
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Luk4x&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
-    <br/><br/>
-    <img align="left" height="490px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400" />
-    <div align="right">
-      <img height="240px" src="https://luk4x-github-readme-stats.vercel.app/api?username=Luk4x&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats&cache_seconds=14400" />
-      <img height="240px" src="https://streak-stats.demolab.com?user=Luk4x&theme=tokyonight&hide_border=true&cache_seconds=14400" />
-    </div>
-    <br/>
-    <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Coding%20Time&range=all_time&cache_seconds=14400" />
-  </details>
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr/>
 
-<a href="https://github.com/delta-code-ltda" target="_blank">
-  <img src="https://github.com/Luk4x/Luk4x/assets/86276393/a8aacd9e-ea05-4f30-a2f2-9c4d55232ba4" alt="Lucas Delta Code Signature" width="350px" align="right" />
-</a>
+<img align="center" src="./components/titles/en/activity.png" width="100%" alt="Activity Section Title" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Luk4x&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
+<img align="left" height="415px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400" />
+<div align="right">
+  <img height="203px" src="https://luk4x-github-readme-stats.vercel.app/api?username=Luk4x&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats&cache_seconds=14400" />
+  <img height="203px" src="https://streak-stats.demolab.com?user=Luk4x&theme=tokyonight&hide_border=true" />
+</div>
 <br/>
-<img src="https://visitor-badge.feriirawann.repl.co/?username=luk4x&repo=luk4x&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=6ca0f7&contentType=svg" alt="luk4x profile visitors count" height="38px" align="left" />
-<br/><br/><br/>
+<div align="center">
+  <img src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Coding%20Time&range=all_time&cache_seconds=14400" />
+</div>
+<img align="center" src="./images/animated-waves.svg" width="100%" alt="Footer Animated Waves" />
 
 <!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" alt="portfolio">
-</a>
+- To implement the functionality to switch languages, just create another readme at the root of the repository and link it here;
+- To make the Banner animated, you can use my repository here: https://github.com/Luk4x/github-profile-background-photo;
+- The counter I use is this: https://github.com/feri-irawan/visitor-badge;
+- You can add your Spotify in your readme by following these steps: https://github.com/tthn0/Spotify-Readme;
+- To add the phrase generator, follow these steps: https://github.com/PiyushSuthar/github-readme-quotes;
+- To create a scoll in markdown, it's simple. If it consists of a table with a height setting that is less than its aspect ratio;
+- Most of the technology icons I used were from this project: https://github.com/tandpfun/skill-icons;
+- Regarding cards with information about my profile, you can find them at:
+   - https://github.com/anuraghazra/github-readme-stats;
+   - https://github.com/Ashutosh00710/github-readme-activity-graph;
+   - https://github.com/DenverCoder1/github-readme-streak-stats;
+- To create the wave animation I used at the end of the readme: https://svgwave.in;
+
 -->
