@@ -18,11 +18,11 @@
 <hr/>
 
 <a href="https://github.com/Luk4x/github-profile-background-photo" alt="Repositório do Banner Animado de Luk4x">
-  <img align="center" width="100%" alt="Banner Animado do Github de Luk4x" src="./images/wallpaper-pt.apng" />
+  <img align="center" width="100%" alt="Banner Animado do Github do Luk4x" src="./images/wallpaper-pt.apng" />
 </a>
 <br/><br/>
 <div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=luk4x&repo=luk4x&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=6ca0f7&contentType=svg" alt="Contador de Visitas do Perfil no Github de Luk4x" height="40px" />
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=luk4x&repo=luk4x&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=6ca0f7&contentType=svg" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
 </div>
 <hr/>
 
@@ -49,7 +49,7 @@
 <br/>
 <div align="center">
   <a href="https://open.spotify.com/user/317pewkddeii2h3hfvslij6zwwdy" target="_blank">
-    <img src="https://luk4x-spotify-readme.vercel.app/api?theme=dark&scan=tre" alt="Música que está tocando no Spotify do Luk4x no momento" />
+    <img src="https://luk4x-spotify-readme.vercel.app/api?theme=dark&scan=true" alt="Música que está tocando no Spotify do Luk4x no momento" />
   </a>
 </div>
 <hr/>
@@ -580,4 +580,16 @@
 
 <!--
 
+- Para implementar a funcionalidade de trocar de idioma, basta criar outro readme na raíz do repositório e linkar ele aqui;
+- Para fazer o Banner animado, pode pegar como base esse meu repositório aqui: https://github.com/Luk4x/github-profile-background-photo;
+- O Contador de visitas que uso é esse: https://github.com/feri-irawan/visitor-badge;
+- Você pode adicionar seu Spotify no seu readme seguindo esses passos: https://github.com/tthn0/Spotify-Readme;
+- Para adicionar o gerador de frases, siga esses passos: https://github.com/PiyushSuthar/github-readme-quotes;
+- Para criar um scoll em markdown, é simples. Se consiste numa tabela com uma definição de height que seja menor que sua proporção;
+- A maioria dos ícones de tecnologias que utilizei, foi dessa projeto: https://github.com/tandpfun/skill-icons;
+- Em relação aos cards com informações sobre o meu perfil, você pode encontrá-los em:
+  - https://github.com/anuraghazra/github-readme-stats;
+  - https://github.com/Ashutosh00710/github-readme-activity-graph;
+  - https://github.com/DenverCoder1/github-readme-streak-stats;
+- Para criar a animação de ondas que utilizei no final do readme: https://svgwave.in;
 -->
