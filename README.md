@@ -54,7 +54,7 @@
 </div>
 <hr/>
 
-<h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
+<img align="center" src="./components/titles/pt/stack.png" width="100%" alt="Título da seção Minha Stack" />
 <img align="left" width="254px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
 <table align="right" height="255px">
   <tr>
