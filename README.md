@@ -360,7 +360,8 @@
     </td>
   </tr>
 </table>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<hr/>
 
 <h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
 <img align="left" width="185px" src="./images/oh-ok.gif" alt="anime coding">
