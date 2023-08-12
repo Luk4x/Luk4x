@@ -35,7 +35,7 @@
   <li>🔮 I'm specializing in Front-end, but I have notions of Back-end and Mobile, as my long-term goal is to become Full-Stack.</li>
   <li>🚀 Continuously evolving <strong>React.js</strong> and its ecosystem.</li>
   <li>🇺🇸 I have intermediate English.</li>
-  <li>🎮 I usually like to play <a href="https://namemc.com/profile/Kiy0u.1" target="_blank">HG/PotPvP</a>, <a href="https://tracker.gg/valorant/profile/riot/Luk4x%23Luk4x/agents?playlist=unrated&season=all" target="_blank">Valorant</a> and <a href="https://www.chess.com/member/kiy0u" target="_blank">Chess</a>.</li>
+  <li>🎮 I usually like to play <a href="https://namemc.com/profile/Kiy0u.1" target="_blank">HG/PotPvP</a>, <a href="https://tracker.gg/valorant/profile/riot/Luk4x%23null/overview?playlist=unrated&season=all" target="_blank">Valorant</a> and <a href="https://www.chess.com/member/kiy0u" target="_blank">Chess</a>.</li>
   <li>
     <details>
       <summary>👽 Curiosities:</summary>
