@@ -35,7 +35,7 @@
   <li>🔮 Estou me especializando em Front-end, mas tenho noções de Back-end e Mobile, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
   <li>🚀 Evoluindo continuamente em <strong>React.js</strong> e em seu ecossistema.</li>
   <li>🇺🇸 Tenho inglês intermediário.</li>
-  <li>🎮 Curto jogar <a href="https://namemc.com/profile/Kiy0u.1" target="_blank">HG/PotPvP</a>, <a href="https://tracker.gg/valorant/profile/riot/Luk4x%23Luk4x/agents?playlist=unrated&season=all" target="_blank">Valorant</a> e <a href="https://www.chess.com/member/kiy0u" target="_blank">Xadrez</a>.</li>
+  <li>🎮 Curto jogar <a href="https://namemc.com/profile/Kiy0u.1" target="_blank">HG/PotPvP</a>, <a href="https://tracker.gg/valorant/profile/riot/Luk4x%23null/overview?playlist=unrated&season=all" target="_blank">Valorant</a> e <a href="https://www.chess.com/member/kiy0u" target="_blank">Xadrez</a>.</li>
   <li>
     <details>
       <summary>👽 Curiosidades:</summary>
