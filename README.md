@@ -367,10 +367,12 @@
 <img align="right" width="185px" src="./images/oh-ok.gif" alt="Garota trabalhando com programação"/>
 <br/><br/>
 <p align="center">
+  <!--
   <a href="https://www.canva.com/design/DAFSw49nC14/CDdcLsJ4a-uwMAWG_cq4zQ/view?utm_content=DAFSw49nC14&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
     <img src="./components/icons/pt/cv.png" alt="Etiqueta de Currículo" height="30px" />
     &nbsp;
   </a>
+  -->
   <a href="mailto:luk4xm4ci3l@gmail.com" target="_blank">
     <img src="./components/icons/gmail.png" alt="Etiqueta do Gmail" height="30px" />
     &nbsp;
