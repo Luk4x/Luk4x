@@ -22,7 +22,7 @@
 </a>
 <br/><br/>
 <div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=luk4x&repo=luk4x&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=Luk4x&labelColor=%23333333&countColor=%23527bbf&labelStyle=upper" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
 </div>
 <hr/>
 
