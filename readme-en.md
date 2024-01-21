@@ -30,9 +30,9 @@
 <img align="right" src="./images/analysis.gif" border="2" width="380px" height="294px" alt="Boy sitting in front of a monitor in a dark room" />
 <ul>
   <li>🤩️ Passionate about Programming, Anime and Music.</li>
-  <li>💻 I <strong>work</strong> at <a href="https://www.delta-code.online/" target="_blank">Delta Code</a> and I've studied at <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target ="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Video Course</a>, <a href="https://www.dio.me" target ="_blank">DIO<a/> and <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
-  <li>🔭 With more than 2 years of <strong>experience</strong>, I have autonomy in several of the most relevant front-end technologies on the market.</li>
-  <li>🔮 I'm specializing in Front-end, but I have notions of Back-end and Mobile, as my long-term goal is to become Full-Stack.</li>
+  <li>💻 I <strong>work</strong> at <a href="https://www.delta-code.online/" target="_blank">Delta Code</a> and I've studied at <a href="https://www.origamid.com/" target="_blank">Origamid</a>, <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target ="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a>, <a href="https://www.dio.me" target ="_blank">DIO<a/> and <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
+  <li>🔭 With more than 2 years of <strong>experience</strong>, I have autonomy in several of the most relevant Front-end technologies on the market.</li>
+  <li>🔮 I'm specializing in Front-end, but I have notions of Back-end and Mobile.</li>
   <li>🚀 Continuously evolving <strong>React.js</strong> and its ecosystem.</li>
   <li>🇺🇸 I have intermediate English.</li>
   <li>🎮 I usually like to play <a href="https://tracker.gg/valorant/profile/riot/Luk4x%23null/overview?playlist=unrated&season=all" target="_blank">Valorant</a>, <a href="https://osu.ppy.sh/users/13780075" target="_blank">Osu</a>, <a href="https://namemc.com/profile/Kiy0u.1" target="_blank">HG/PotPvP</a>, and <a href="https://www.chess.com/member/kiy0u" target="_blank">Chess</a>.</li>
