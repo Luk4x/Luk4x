@@ -22,7 +22,7 @@
 </a>
 <br/><br/>
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=Luk4x&labelColor=%23333333&countColor=%23527bbf&labelStyle=upper" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=Luk4x&labelColor=%23333333&countColor=%23527bbf&labelStyle=upper&label=Visitantes" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
 </div>
 <hr/>
 
@@ -121,18 +121,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://next-auth.js.org/">
-        <img src="https://user-images.githubusercontent.com/86276393/212922355-e38adb95-9e96-4970-b934-e8ac6c9bd3c9.png" width="60px" alt="NextAuth icon"/><br/>
-        <sub>
-          <b>
-            <pre>NextAuth</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://react-hook-form.com/">
-        <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" width="65px" alt="React Hook Form icon"/><br/>
+        <img src="https://github.com/Luk4x/Luk4x/assets/86276393/f9481945-1000-4624-8097-ac7da93ea0c5" width="65px" alt="React Hook Form icon"/><br/>
         <sub>
           <b>
             <pre>React Hook<br/>Form</pre>
@@ -152,7 +142,7 @@
     </td>
     <td align="center">
       <a href="https://www.radix-ui.com/">
-        <img src="https://i.ibb.co/dBn3tGF/radix.png" width="65px" alt="Radix icon"/><br/>
+        <img src="https://github.com/Luk4x/Luk4x/assets/86276393/6016769a-9c0f-45b8-9246-26fc9d7846a2" width="65px" alt="Radix icon"/><br/>
         <sub>
           <b>
             <pre>Radix UI</pre>
@@ -160,8 +150,6 @@
         </sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://getbootstrap.com/">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br/>
@@ -172,9 +160,11 @@
       </sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://headlessui.com/">
-        <img src="https://user-images.githubusercontent.com/86276393/212924197-eb12c9c9-3803-4470-897a-bdf8f9976f97.png" height="65px" alt="HeadlessUI icon"/><br/>
+        <img src="https://github.com/Luk4x/Luk4x/assets/86276393/63e73369-c2a1-407e-8c31-3a85372c11ec" height="65px" alt="HeadlessUI icon"/><br/>
         <sub>
           <b>
             <pre>HeadlessUI</pre>
@@ -204,7 +194,7 @@
     </td>
     <td align="center">
       <a href="https://zod.dev/">
-      <img src="https://gyazo.com/46cf504b2ae0287f3023c2cf64bc0e9a/max_size/400" width="65px" alt="Zod icon"/><br/>
+      <img src="https://github.com/Luk4x/Luk4x/assets/86276393/64010013-d6d1-48a5-a042-c122147cf83c" width="65px" alt="Zod icon"/><br/>
       <sub>
         <b>
           <pre>Zod &<br/>Yup</pre>
@@ -212,11 +202,9 @@
       </sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.sanity.io/">
-        <img src="https://user-images.githubusercontent.com/86276393/212923447-c70352c9-540b-4063-8279-880ad2c164e2.png" height="65px" alt="Sanity icon"/><br/>
+        <img src="https://github.com/Luk4x/Luk4x/assets/86276393/b67a8a2e-8a6f-4536-86a9-cbbca999c6bc" height="65px" alt="Sanity icon"/><br/>
         <sub>
           <b>
             <pre>Sanity.io</pre>
@@ -224,9 +212,11 @@
         </sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://stripe.com/en-br/">
-        <img src="https://user-images.githubusercontent.com/86276393/212921259-b6b0f80e-d9ed-4b0e-b17a-34733b507cec.png" width="65px" alt="Stripe icon"/><br/>
+        <img src="https://github.com/Luk4x/Luk4x/assets/86276393/368e62fc-6dfd-4f28-a325-ddc8d3dad403" width="65px" alt="Stripe icon"/><br/>
         <sub>
           <b>
             <pre>Stripe</pre>
@@ -264,8 +254,6 @@
         </sub>
      </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://nativebase.io/">
         <img src="https://nativebase.io/img/nativebase-logo.svg" width="65px" alt="NativeBase icon"/><br/>
@@ -276,9 +264,11 @@
         </sub>
      </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://axios-http.com/docs/intro">
-      <img src="https://i.ibb.co/305Zbht/axios.png" width="65px" alt="Axios icon"/><br/>
+      <img src="https://github.com/Luk4x/Luk4x/assets/86276393/71a02aa6-3809-4a9b-8190-80732381c873" width="65px" alt="Axios icon"/><br/>
       <sub>
         <b>
           <pre>Axios &<br/>FetchAPI</pre>
@@ -316,8 +306,6 @@
         </sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
         <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
@@ -328,6 +316,8 @@
         </sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://ohmyz.sh/">
         <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br/>
