@@ -407,7 +407,7 @@
 <hr/>
 
 <img align="center" src="./components/titles/pt/project.png" width="100%" alt="Título da seção Projetos" />
-<img align="left" src="./images/projects-wallpaper.png" height="495px" alt="Garoto programando, trabalhando em seus projetos pessoais" />
+<img align="left" src="./images/projects-wallpaper.gif" height="495px" alt="Garoto programando, trabalhando em seus projetos pessoais" />
 <table height="495px" align="right">
   <tr>
     <td>
