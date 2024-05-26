@@ -583,4 +583,23 @@
   - https://github.com/Ashutosh00710/github-readme-activity-graph;
   - https://github.com/DenverCoder1/github-readme-streak-stats;
 - Para criar a animação de ondas que utilizei no final do readme: https://svgwave.in;
+
+<ul>
+  <li>🤩️ Apaixonado por programação, animes e música.</li>
+  <li>🔭 Com mais de <b>2 anos de experiência</b>, tenho autonomia em diversas das tecnologias Front-end mais relevantes do mercado, e boas noções de Back-end e Mobile.</li>
+  <li>💻 Trabalho como <b>Desenvolvedor Front-end</b> na <a href="https://wefit.com.br/" target="_blank">WeFit</a>.</li>
+  <li>📚 <b>Cursando Engenharia de Software</b> na <a href="https://www.unicesumar.edu.br/" target="_blank">Unicesumar</a>, e utilizando de fontes diversas para me manter atualizado, dentre elas: <a href="https://www.origamid.com/" target="_blank">Origamid</a>, <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a>, <a href="https://www.dio.me" target="_blank">DIO<a/>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a> e mais algumas por aí...</li>
+  <li>🇺🇸 Tenho inglês intermediário.</li>
+  <li>🎮 Curto jogar <a href="https://tracker.gg/valorant/profile/riot/luuk4x%23null/overview" target="_blank">Valorant</a>, <a href="https://osu.ppy.sh/users/13780075" target="_blank">Osu</a>, <a href="https://namemc.com/profile/lu_k4x.1" target="_blank">HG/PotPvP</a>, e <a href="https://www.chess.com/member/lu_k4x" target="_blank">Xadrez</a>.</li>
+  <li>
+    <details>
+      <summary>👽 Curiosidades:</summary>
+      <ul>
+        <li>🤖 Estruturo minha rotina em Javascript.</li>
+        <li>👨‍💻 Desenvolvi um extenso script de automação para o Windows quando tinha 14 anos.</li>  
+        <li>⛩️ Já assisti mais de 500 animes.</li>
+      </ul>
+    </details>
+  </li>
+</ul>
 -->
