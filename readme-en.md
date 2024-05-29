@@ -46,12 +46,6 @@
     </details>
   </li>
 </ul>
-<br/>
-<div align="center">
-  <a href="https://open.spotify.com/user/317pewkddeii2h3hfvslij6zwwdy" target="_blank">
-    <img src="https://luk4x-spotify-readme.vercel.app/api?theme=dark&scan=true" alt="Current music playing on Luk4x Spotify" />
-  </a>
-</div>
 <hr/>
 
 <img align="center" src="./components/titles/en/stack.png" width="100%" alt="My Stack Section Title" />
