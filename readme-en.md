@@ -15,6 +15,7 @@
     </td>
   </tr>
 </table>
+<br/>
 <hr/>
 
 <a href="https://github.com/Luk4x/github-profile-background-photo" alt="Luk4x Animated Banner Repository">
