@@ -15,7 +15,6 @@
     </td>
   </tr>
 </table>
-<br/>
 <hr/>
 
 <a href="https://github.com/Luk4x/github-profile-background-photo" alt="Luk4x Animated Banner Repository">
@@ -47,6 +46,7 @@
     </details>
   </li>
 </ul>
+<br/>
 <hr/>
 
 <img align="center" src="./components/titles/en/stack.png" width="100%" alt="My Stack Section Title" />
