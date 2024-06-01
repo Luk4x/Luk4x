@@ -1,6 +1,7 @@
-<a href="https://www.delta-code.online/" target="_blank">
-  <img src="https://github.com/Luk4x/Luk4x/assets/86276393/a8aacd9e-ea05-4f30-a2f2-9c4d55232ba4" alt="Delta Code, Lucas Signature" height="89px" />
+<a href="https://wefit.com.br/" target="_blank">
+  <img src="https://github.com/Luk4x/Luk4x/assets/86276393/6d7290ef-a632-4e1d-9d3d-ae566f2457b7" alt="WeFit slogan" height="90px" />
 </a>
+
 <table align="right">
   <tr>
     <td height="43px">
@@ -29,18 +30,18 @@
 <img align="center" src="./components/titles/en/about.png" width="100%" alt="About Me Section Title" />
 <img align="right" src="./images/analysis.gif" border="2" width="380px" height="294px" alt="Boy sitting in front of a monitor in a dark room" />
 <ul>
-  <li>🤩️ Passionate about Programming, Anime and Music.</li>
-  <li>💻 I <strong>work</strong> at <a href="https://www.delta-code.online/" target="_blank">Delta Code</a> and I've studied at <a href="https://www.origamid.com/" target="_blank">Origamid</a>, <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target ="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a>, <a href="https://www.dio.me" target ="_blank">DIO<a/> and <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
-  <li>🔭 With more than 2 years of <strong>experience</strong>, I have autonomy in several of the most relevant Front-end technologies on the market.</li>
-  <li>🔮 I'm specializing in Front-end, but I have notions of Back-end and Mobile.</li>
-  <li>🚀 Continuously evolving <strong>React.js</strong> and its ecosystem.</li>
+  <li>🤩️ Passionate about programming, anime and music.</li>
+  <li>🔭 With more than <b>2 years of experience</b>, I have autonomy in several of the most relevant Front-end technologies on the market, and good knowledge of Back-end and Mobile.</li>
+  <li>💻 I work as a <b>Frontend Developer</b> at <a href="https://wefit.com.br/" target="_blank">WeFit</a>.</li>
+  <li>📚 <b>Studying Software Engineering</b> at <a href="https://www.unicesumar.edu.br/" target="_blank">Unicesumar</a>, and using different sources to keep me up to date, including: <a href="https://www.origamid.com/" target="_blank">Origamid</a>, <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a>, <a href="https://www.dio.me" target="_blank">DIO<a/>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a> and a few more out there...</li>
   <li>🇺🇸 I have intermediate English.</li>
-  <li>🎮 I usually like to play <a href="https://tracker.gg/valorant/profile/riot/Luk4x%23null/overview?playlist=unrated&season=all" target="_blank">Valorant</a>, <a href="https://osu.ppy.sh/users/13780075" target="_blank">Osu</a>, <a href="https://namemc.com/profile/Kiy0u.1" target="_blank">HG/PotPvP</a>, and <a href="https://www.chess.com/member/kiy0u" target="_blank">Chess</a>.</li>
+  <li>🎮 I usually like to play <a href="https://tracker.gg/valorant/profile/riot/luuk4x%23null/overview" target="_blank">Valorant</a>, <a href="https://osu.ppy.sh/users/13780075" target="_blank">Osu</a>, <a href="https://namemc.com/profile/lu_k4x.1" target="_blank">HG/PotPvP</a>, and <a href="https://www.chess.com/member/lu_k4x" target="_blank">Chess</a>.</li>
   <li>
     <details>
       <summary>👽 Curiosities:</summary>
       <ul>
-        <li>🤖 I structure my routine in Javascript.</li>  
+        <li>🤖 I structure my routine in Javascript.</li>
+        <li>👨‍💻 I developed an extensive automation script for Windows when I was 14 years old.</li>
         <li>⛩️ I've watched over 450 animes.</li>
       </ul>
     </details>
@@ -352,12 +353,6 @@
 <img align="right" width="185px" src="./images/oh-ok.gif" alt="Girl working with programming"/>
 <br/><br/>
 <p align="center">
-  <!--
-  <a href="https://www.canva.com/design/DAFSw49nC14/CDdcLsJ4a-uwMAWG_cq4zQ/view?utm_content=DAFSw49nC14&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
-    <img src="./components/icons/en/cv.png" alt="Curriculum badge" height="30px" />
-    &nbsp;
-  </a>
-  -->
   <a href="mailto:luk4xm4ci3l@gmail.com" target="_blank">
     <img src="./components/icons/gmail.png" alt="Gmail badge" height="30px" />
     &nbsp;
@@ -366,24 +361,16 @@
     <img src="./components/icons/linkedin.png" alt="LinkedIn badge" height="30px" />
     &nbsp;
   </a>
-  <a href="https://cursos.alura.com.br/vitrinedev/lucasmacielf" target="_blank">
-    <img src="./components/icons/vitrine-dev.png" alt="Vitrine.Dev badge" height="30px" />
-    &nbsp;
-  </a>
   <a href="https://t.me/lu_k4x" target="_blank">
     <img src="./components/icons/telegram.png" alt="Telegram badge" height="30px" />
     &nbsp;
   </a>
-  <a href="https://wa.me/5522996112570?text=Yo,%20Luk4x!%20Vim%20pelo%20seu%20Github!" target="_blank">
+  <a href="https://wa.me/5522997055150?text=Yo%20Luk4x,%20I%20came%20from%20your%20Github!" target="_blank">
     <img src="./components/icons/whatsapp.png" alt="Whatsapp badge" height="30px" />
     &nbsp;
   </a>
   <a href="https://www.instagram.com/lu_k4x/" target="_blank">
     <img src="./components/icons/instagram.png" alt="Instagram badge" height="30px" />
-    &nbsp;
-  </a>
-  <a href="https://stackoverflow.com/users/18881418/lucas-maciel" target="_blank">
-    <img src="./components/icons/stack-overflow.png" alt="Stack Overflow badge" height="30px" />
     &nbsp;
   </a>
   <img src="./components/icons/discord.png" alt="Discord badge" height="30px" />
