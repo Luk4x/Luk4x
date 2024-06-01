@@ -51,8 +51,8 @@
 <hr/>
 
 <img align="center" src="./components/titles/pt/stack.png" width="100%" alt="Título da seção Minha Stack" />
-<img align="left" width="254px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
-<table align="right" height="255px">
+<img align="left" width="251px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
+<table align="right" height="251px">
   <tr>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">
@@ -351,7 +351,7 @@
 
 <img align="center" src="./components/titles/pt/contact.png" width="100%" alt="Título da seção Contato" />
 <img align="right" width="185px" src="./images/oh-ok.gif" alt="Garota trabalhando com programação"/>
-<br/><br/>
+<br/><br/><br/>
 <p align="center">
   <a href="mailto:luk4xm4ci3l@gmail.com" target="_blank">
     <img src="./components/icons/gmail.png" alt="Etiqueta do Gmail" height="30px" />
@@ -379,8 +379,8 @@
 <hr/>
 
 <img align="center" src="./components/titles/pt/project.png" width="100%" alt="Título da seção Projetos" />
-<img align="left" src="./images/projects-wallpaper.gif" height="495px" alt="Garoto programando, trabalhando em seus projetos pessoais" />
-<table height="495px" align="right">
+<img align="left" src="./images/projects-wallpaper.gif" height="491px" alt="Garoto programando, trabalhando em seus projetos pessoais" />
+<table height="491px" align="right">
   <tr>
     <td>
     <a href="https://github.com/Luk4x/apple-store" target="_blank">
