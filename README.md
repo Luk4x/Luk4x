@@ -1,6 +1,7 @@
-<a href="https://www.delta-code.online/" target="_blank">
-  <img src="https://github.com/Luk4x/Luk4x/assets/86276393/a8aacd9e-ea05-4f30-a2f2-9c4d55232ba4" alt="Assinatura de Lucas da Delta Code" height="89px" />
+<a href="https://wefit.com.br/" target="_blank">
+  <img src="https://github.com/Luk4x/Luk4x/assets/86276393/6d7290ef-a632-4e1d-9d3d-ae566f2457b7" alt="Slogan da WeFit" height="90px" />
 </a>
+
 <table align="right">
   <tr>
     <td height="43px">
@@ -29,18 +30,18 @@
 <img align="center" src="./components/titles/pt/about.png" width="100%" alt="Título da seção Sobre Mim" />
 <img align="right" src="./images/analysis.gif" border="2" width="372px" height="278px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
 <ul>
-  <li>🤩️ Apaixonado por Programação, Animes e Música.</li>
-  <li>💻 <b>Trabalho</b> na <a href="https://www.delta-code.online/" target="_blank">Delta Code</a> e já estudei na <a href="https://www.origamid.com/" target="_blank">Origamid</a>, <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a>, <a href="https://www.dio.me" target="_blank">DIO<a/> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
-  <li>🔭 Com mais de 2 anos de <b>experiência</b>, tenho autonomia em diversas das tecnologias Front-end mais relevantes do mercado.</li>
-  <li>🔮 Estou me especializando em Front-end, mas tenho noções de Back-end e Mobile.</li>
-  <li>🚀 Evoluindo continuamente em <strong>React.js</strong> e em seu ecossistema.</li>
+  <li>🤩️ Apaixonado por programação, animes e música.</li>
+  <li>🔭 Com mais de <b>2 anos de experiência</b>, tenho autonomia em diversas das tecnologias Front-end mais relevantes do mercado, e boas noções de Back-end e Mobile.</li>
+  <li>💻 Trabalho como <b>Desenvolvedor Front-end</b> na <a href="https://wefit.com.br/" target="_blank">WeFit</a>.</li>
+  <li>📚 <b>Cursando Engenharia de Software</b> na <a href="https://www.unicesumar.edu.br/" target="_blank">Unicesumar</a>, e utilizando de fontes diversas para me manter atualizado, dentre elas: <a href="https://www.origamid.com/" target="_blank">Origamid</a>, <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a>, <a href="https://www.dio.me" target="_blank">DIO<a/>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a> e mais algumas por aí...</li>
   <li>🇺🇸 Tenho inglês intermediário.</li>
-  <li>🎮 Curto jogar <a href="https://tracker.gg/valorant/profile/riot/Luk4x%23null/overview?playlist=unrated&season=all" target="_blank">Valorant</a>, <a href="https://osu.ppy.sh/users/13780075" target="_blank">Osu</a>, <a href="https://namemc.com/profile/Kiy0u.1" target="_blank">HG/PotPvP</a>, e <a href="https://www.chess.com/member/kiy0u" target="_blank">Xadrez</a>.</li>
+  <li>🎮 Curto jogar <a href="https://tracker.gg/valorant/profile/riot/luuk4x%23null/overview" target="_blank">Valorant</a>, <a href="https://osu.ppy.sh/users/13780075" target="_blank">Osu</a>, <a href="https://namemc.com/profile/lu_k4x.1" target="_blank">HG/PotPvP</a>, e <a href="https://www.chess.com/member/lu_k4x" target="_blank">Xadrez</a>.</li>
   <li>
     <details>
       <summary>👽 Curiosidades:</summary>
       <ul>
-        <li>🤖 Estruturo minha rotina em Javascript.</li>  
+        <li>🤖 Estruturo minha rotina em Javascript.</li>
+        <li>👨‍💻 Desenvolvi um extenso script de automação para o Windows quando tinha 14 anos.</li>  
         <li>⛩️ Já assisti mais de 450 animes.</li>
       </ul>
     </details>
@@ -352,12 +353,6 @@
 <img align="right" width="185px" src="./images/oh-ok.gif" alt="Garota trabalhando com programação"/>
 <br/><br/>
 <p align="center">
-  <!--
-  <a href="https://www.canva.com/design/DAFSw49nC14/CDdcLsJ4a-uwMAWG_cq4zQ/view?utm_content=DAFSw49nC14&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
-    <img src="./components/icons/pt/cv.png" alt="Etiqueta de Currículo" height="30px" />
-    &nbsp;
-  </a>
-  -->
   <a href="mailto:luk4xm4ci3l@gmail.com" target="_blank">
     <img src="./components/icons/gmail.png" alt="Etiqueta do Gmail" height="30px" />
     &nbsp;
@@ -366,24 +361,16 @@
     <img src="./components/icons/linkedin.png" alt="Etiqueta do Linkedin" height="30px" />
     &nbsp;
   </a>
-  <a href="https://cursos.alura.com.br/vitrinedev/lucasmacielf" target="_blank">
-    <img src="./components/icons/vitrine-dev.png" alt="Etiqueta da Vitrine.Dev" height="30px" />
-    &nbsp;
-  </a>
   <a href="https://t.me/lu_k4x" target="_blank">
     <img src="./components/icons/telegram.png" alt="Etiqueta do Telegram" height="30px" />
     &nbsp;
   </a>
-  <a href="https://wa.me/5522996112570?text=Yo,%20Luk4x!%20Vim%20pelo%20seu%20Github!" target="_blank">
+  <a href="https://wa.me/5522997055150?text=Yo%20Luk4x,%20vim%20pelo%20seu%20Github!" target="_blank">
     <img src="./components/icons/whatsapp.png" alt="Etiqueta do Whatsapp" height="30px" />
     &nbsp;
   </a>
   <a href="https://www.instagram.com/lu_k4x/" target="_blank">
     <img src="./components/icons/instagram.png" alt="Etiqueta do Instagram" height="30px" />
-    &nbsp;
-  </a>
-  <a href="https://stackoverflow.com/users/18881418/lucas-maciel" target="_blank">
-    <img src="./components/icons/stack-overflow.png" alt="Etiqueta do Stack Overflow" height="30px" />
     &nbsp;
   </a>
   <img src="./components/icons/discord.png" alt="Etiqueta do Discord" height="30px" />
@@ -579,22 +566,4 @@
   - https://github.com/DenverCoder1/github-readme-streak-stats;
 - Para criar a animação de ondas que utilizei no final do readme: https://svgwave.in;
 
-<ul>
-  <li>🤩️ Apaixonado por programação, animes e música.</li>
-  <li>🔭 Com mais de <b>2 anos de experiência</b>, tenho autonomia em diversas das tecnologias Front-end mais relevantes do mercado, e boas noções de Back-end e Mobile.</li>
-  <li>💻 Trabalho como <b>Desenvolvedor Front-end</b> na <a href="https://wefit.com.br/" target="_blank">WeFit</a>.</li>
-  <li>📚 <b>Cursando Engenharia de Software</b> na <a href="https://www.unicesumar.edu.br/" target="_blank">Unicesumar</a>, e utilizando de fontes diversas para me manter atualizado, dentre elas: <a href="https://www.origamid.com/" target="_blank">Origamid</a>, <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a>, <a href="https://www.dio.me" target="_blank">DIO<a/>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a> e mais algumas por aí...</li>
-  <li>🇺🇸 Tenho inglês intermediário.</li>
-  <li>🎮 Curto jogar <a href="https://tracker.gg/valorant/profile/riot/luuk4x%23null/overview" target="_blank">Valorant</a>, <a href="https://osu.ppy.sh/users/13780075" target="_blank">Osu</a>, <a href="https://namemc.com/profile/lu_k4x.1" target="_blank">HG/PotPvP</a>, e <a href="https://www.chess.com/member/lu_k4x" target="_blank">Xadrez</a>.</li>
-  <li>
-    <details>
-      <summary>👽 Curiosidades:</summary>
-      <ul>
-        <li>🤖 Estruturo minha rotina em Javascript.</li>
-        <li>👨‍💻 Desenvolvi um extenso script de automação para o Windows quando tinha 14 anos.</li>  
-        <li>⛩️ Já assisti mais de 500 animes.</li>
-      </ul>
-    </details>
-  </li>
-</ul>
 -->
