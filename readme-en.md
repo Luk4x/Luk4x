@@ -51,8 +51,8 @@
 <hr/>
 
 <img align="center" src="./components/titles/en/stack.png" width="100%" alt="My Stack Section Title" />
-<img align="left" height="380px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
-<table align="right" height="380px">
+<img align="left" height="378px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
+<table align="right" height="378px">
   <tr>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">
@@ -351,7 +351,7 @@
 
 <img align="center" src="./components/titles/en/contact.png" width="100%" alt="Contact Section Title" />
 <img align="right" width="185px" src="./images/oh-ok.gif" alt="Girl working with programming"/>
-<br/><br/>
+<br/><br/><br/>
 <p align="center">
   <a href="mailto:luk4xm4ci3l@gmail.com" target="_blank">
     <img src="./components/icons/gmail.png" alt="Gmail badge" height="30px" />
@@ -375,7 +375,7 @@
   </a>
   <img src="./components/icons/discord.png" alt="Discord badge" height="30px" />
 </p>
-<br/>
+<br/><br/>
 <hr/>
 
 <img align="center" src="./components/titles/en/projects.png" width="100%" alt="Projects Section Title" />
