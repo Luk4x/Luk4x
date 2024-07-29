@@ -1,7 +1,3 @@
-<a href="https://wefit.com.br/" target="_blank">
-  <img src="https://github.com/Luk4x/Luk4x/assets/86276393/6d7290ef-a632-4e1d-9d3d-ae566f2457b7" alt="WeFit slogan" height="90px" />
-</a>
-
 <table align="right">
   <tr>
     <td height="43px">
@@ -16,6 +12,9 @@
     </td>
   </tr>
 </table>
+<a href="https://wefit.com.br/" target="_blank">
+  <img src="https://github.com/Luk4x/Luk4x/assets/86276393/6d7290ef-a632-4e1d-9d3d-ae566f2457b7" alt="WeFit slogan" height="90px" />
+</a>
 <hr/>
 
 <a href="https://github.com/Luk4x/github-profile-background-photo" alt="Luk4x Animated Banner Repository">
