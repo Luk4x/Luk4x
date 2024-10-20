@@ -41,7 +41,7 @@
       <ul>
         <li>🤖 I structure my routine in Javascript.</li>
         <li>👨‍💻 I developed an extensive automation script for Windows when I was 14 years old.</li>
-        <li>⛩️ I've watched over 450 animes.</li>
+        <li>⛩️ I've watched over 500 animes.</li>
       </ul>
     </details>
   </li>
