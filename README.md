@@ -42,6 +42,7 @@
         <li>🤖 Estruturo minha rotina em Javascript.</li>
         <li>👨‍💻 Desenvolvi um extenso script de automação para o Windows quando tinha 14 anos.</li>  
         <li>⛩️ Já assisti mais de 500 animes.</li>
+        <li>✒️ Meu VSCode é monocromático.</li>
       </ul>
     </details>
   </li>
