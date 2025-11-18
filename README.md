@@ -361,19 +361,10 @@
     <img src="./components/icons/linkedin.png" alt="Etiqueta do Linkedin" height="30px" />
     &nbsp;
   </a>
-  <a href="https://t.me/lu_k4x" target="_blank">
-    <img src="./components/icons/telegram.png" alt="Etiqueta do Telegram" height="30px" />
-    &nbsp;
-  </a>
-  <a href="https://wa.me/5522997055150?text=Yo%20Luk4x,%20vim%20pelo%20seu%20Github!" target="_blank">
+  <a href="https://wa.me/5522997055150?text=Hey%20Lucas,%20vim%20pelo%20seu%20Github..." target="_blank">
     <img src="./components/icons/whatsapp.png" alt="Etiqueta do Whatsapp" height="30px" />
     &nbsp;
   </a>
-  <a href="https://www.instagram.com/lu_k4x/" target="_blank">
-    <img src="./components/icons/instagram.png" alt="Etiqueta do Instagram" height="30px" />
-    &nbsp;
-  </a>
-  <img src="./components/icons/discord.png" alt="Etiqueta do Discord" height="30px" />
 </p>
 <br/><br/>
 <hr/>
