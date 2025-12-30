@@ -57,7 +57,7 @@
 
 <hr/>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Luk4x&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
-<img align="left" height="473px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=Luk4x&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400&layout=pie" />
+<img align="left" width="316px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=Luk4x&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400&layout=pie" />
 <div align="right">
   <img width="505px" src="https://luk4x-github-readme-stats.vercel.app/api?username=Luk4x&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400&hide=contribs&show=discussions_answered,prs_merged,prs_merged_percentage" />
   <img width="505px" src="https://streak-stats.demolab.com?user=Luk4x&theme=tokyonight&hide_border=true" />
