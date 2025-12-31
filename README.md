@@ -1,7 +1,7 @@
 <img align="center" width="100%" alt="Banner do Github de Luk4x" src="https://github.com/user-attachments/assets/c37cc7e8-0b32-4381-b368-30460487c4bb" />
 <br/><br/>
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=Luk4x&labelColor=%23636468&countColor=%2382a1aa&labelStyle=upper&label=Visitantes" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=Luk4x&labelColor=%2335363a&countColor=%2381a0af&labelStyle=upper&label=Visitantes" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
 </div>
 <hr/>
 
