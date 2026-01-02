@@ -10,20 +10,20 @@
   <img align="right" width="143px" height="84px" src="https://github.com/user-attachments/assets/569b78f7-4570-44b0-ac8d-3d210c6d125f" alt="Mudar perfil para a versão em Inglês" />
 </a>
 
-- Frontend Engineer focused on building scalable, high-impact web applications using the React ecosystem in real-world production environments
-- Strong emphasis on frontend architecture, performance optimization, and high-fidelity fluid interfaces, balancing technical quality with product needs
-- Experience designing, migrating, and evolving complex frontend systems, including Microfrontends, Module Federation, and Monorepos
-- Background in backend and mobile, enabling a holistic and product-oriented technical perspective
-- Technical reference within teams, contributing to architectural decisions, code reviews, and mentoring other developers
-- Deeply cares about code quality, maintainability, documentation, and long-term scalability of systems
+- Engenheiro Frontend focado na construção de aplicações web escaláveis ​​e de alto impacto, utilizando o ecossistema React em ambientes de produção reais.
+- Forte ênfase em arquitetura de frontend, otimização de desempenho e interfaces fluidas de alta fidelidade, equilibrando a qualidade técnica com as necessidades do produto.
+- Experiência em projetar, migrar e evoluir sistemas de frontend complexos, incluindo Microfrontends, Federação de Módulos e Monorepos.
+- Experiência em backend e desenvolvimento mobile, proporcionando uma perspectiva técnica holística e orientada a produto.
+- Referência técnica dentro das equipes, contribuindo para decisões arquitetônicas, revisões de código e mentoria de outros desenvolvedores.
+- Preocupação profunda com a qualidade do código, manutenibilidade, documentação e escalabilidade a longo prazo dos sistemas.
 
-### Main stack
+### Principais tecnologias
 
-- Core & Data: React.js, Next.js, Vite, TypeScript, JavaScript, React Native, React Router, TanStack Router, TanStack Query (React Query), Apollo GraphQL, Node.js
-- Architecture & Quality: Microfrontends, Module Federation, Monorepo (Turborepo), RESTful APIs, Clean Code, Atomic Design, Jest, Playwright
-- UI & Others: Tailwind CSS, Radix UI, Ariakit, Micro Animations (Framer Motion), React Hook Form, HTML5, CSS3, SEO, Analytics (Google Tag Manager), Git, GitFlow
+- Principais e Dados: React.js, Next.js, Vite, TypeScript, JavaScript, React Native, React Router, TanStack Router, TanStack Query (React Query), Apollo GraphQL, Node.js
+- Arquitetura e Qualidade: Microfrontends, Module Federation, Monorepo (Turborepo), RESTful APIs, Clean Code, Atomic Design, Jest, Playwright
+- UI e outros: Tailwind CSS, Radix UI, Ariakit, Micro animações (Framer Motion), React Hook Form, HTML5, CSS3, SEO, Analytics (Google Tag Manager), Git, GitFlow
 
-> Outside of work: Anime · Music · Chess
+> Fora do trabalho: Anime · Música · Xadrez
 
 <div align="center">
   <a href="mailto:luk4xm4ci3l@gmail.com" target="_blank">
