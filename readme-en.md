@@ -13,9 +13,9 @@
 - Frontend Engineer with over 4 years of experience, focused on building scalable, high-impact web applications using the React ecosystem in real-world production environments
 - Strong emphasis on frontend architecture, performance optimization, and high-fidelity fluid interfaces, balancing technical quality with product needs
 - Experience designing, migrating, and evolving complex frontend systems, including Microfrontends, Module Federation, and Monorepos
-- Background in backend and mobile, enabling a holistic and product-oriented technical perspective
+- Knowledge of backend and mobile development, enabling a holistic and product-oriented technical perspective
 - Technical reference within teams, contributing to architectural decisions, code reviews, and mentoring other developers
-- Deeply cares about code quality, maintainability, documentation, and long-term scalability of systems
+- Deeply cares about code quality, maintainability, documentation, DX, and long-term scalability of systems
 
 ### Main stack
 
