@@ -6,8 +6,9 @@
 
 <hr/>
 
+
 <a href="readme-en.md">
-  <img align="right" width="143px" height="84px" src="https://github.com/user-attachments/assets/569b78f7-4570-44b0-ac8d-3d210c6d125f" alt="Mudar perfil para a versão em Inglês" />
+  <img align="right" width="130px" height="32px" src="https://github.com/user-attachments/assets/f4ba6e5f-592b-4cd1-827d-61d8118bebce" alt="Mudar perfil para a versão em Inglês" />
 </a>
 
 - Engenheiro Frontend com mais de 4 anos de experiência, focado na construção de aplicações web escaláveis ​​e de alto impacto, utilizando o ecossistema React em ambientes de produção reais.
