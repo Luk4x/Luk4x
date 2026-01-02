@@ -20,7 +20,7 @@
 ### Principais tecnologias
 
 - Principais e Dados: React.js, Next.js, Vite, TypeScript, JavaScript, React Native, React Router, TanStack Router, TanStack Query (React Query), Apollo GraphQL, Node.js
-- Arquitetura e Qualidade: Microfrontends, Module Federation, Monorepo (Turborepo), RESTful APIs, Clean Code, Atomic Design, Jest, Playwright
+- Arquitetura e Qualidade: Microfrontends, Module Federation, Monorepo (Turborepo), RESTful APIs, Clean Code, Atomic Design, Jest, Playwright, MSW
 - UI e outros: Tailwind CSS, Radix UI, Ariakit, Micro animações (Framer Motion), React Hook Form, HTML5, CSS3, SEO, Analytics (Google Tag Manager), Git, GitFlow
 
 > Fora do trabalho: Anime · Música · Xadrez
