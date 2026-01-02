@@ -1,4 +1,4 @@
-w<img align="center" width="100%" alt="Banner do Github de Luk4x" src="https://github.com/user-attachments/assets/c37cc7e8-0b32-4381-b368-30460487c4bb" />
+<img align="center" width="100%" alt="Banner do Github de Luk4x" src="https://github.com/user-attachments/assets/c37cc7e8-0b32-4381-b368-30460487c4bb" />
 <br/><br/>
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=Luk4x&labelColor=%232d2f31&countColor=%2374818D&labelStyle=upper" alt="Luk4x Github Profile Visitors Counter" height="40px" />
