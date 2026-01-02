@@ -9,26 +9,21 @@
 <a href="readme-en.md">
   <img align="right" width="143px" height="84px" src="https://github.com/user-attachments/assets/569b78f7-4570-44b0-ac8d-3d210c6d125f" alt="Mudar perfil para a versão em Inglês" />
 </a>
-<ul>
-  <li>Apaixonado por programação, animes e música.</li>
-  <li>Desenvolvedor Frontend com mais de <b>4 anos de experiência</b>, atuando em projetos de alta complexidade tanto em startups quanto em grandes empresas.</li>
-  <li>Experiência sólida no Frontend, com foco no ecossistema React.</li>
-  <li>Conhecimento complementar em Backend e Mobile, permitindo uma visão mais integrada de produto.</li>
-  <li>Cursando <b>Engenharia de Software</b>, conciliando vivência prática de mercado com fundamentos teóricos sólidos, enquanto mantenho-me atualizado com as tecnologias e tendências relevantes do mercado.</li>
-  <li>Evoluindo continuamente e sempre explorando novas tecnologias, arquiteturas e padrões.</li>
-  <li>
-    <details>
-      <summary>Curiosidades:</summary>
-      <ul>
-        <li>Estruturo minha rotina em pseudocódigo.</li>
-        <li>Desenvolvi meu primeiro grande script aos 14 anos, modificando o funcionamento interno do Windows (TCP/IP, prioridades de processos, otimizações de I/O).</li>  
-        <li>Já assisti mais de 500 animes.</li>
-        <li>Meu VSCode é monocromático.</li>
-        <li>Tenho uma GenioDesk e uma esteira: a partir das 16h eu trabalho andando.</li>
-      </ul>
-    </details>
-  </li>
-</ul>
+
+- Frontend Engineer focused on building scalable, high-impact web applications using the React ecosystem in real-world production environments
+- Strong emphasis on frontend architecture, performance optimization, and high-fidelity fluid interfaces, balancing technical quality with product needs
+- Experience designing, migrating, and evolving complex frontend systems, including Microfrontends, Module Federation, and Monorepos
+- Background in backend and mobile, enabling a holistic and product-oriented technical perspective
+- Technical reference within teams, contributing to architectural decisions, code reviews, and mentoring other developers
+- Deeply cares about code quality, maintainability, documentation, and long-term scalability of systems
+
+### Main stack
+
+- Core & Data: React.js, Next.js, Vite, TypeScript, JavaScript, React Native, React Router, TanStack Router, TanStack Query (React Query), Apollo GraphQL, Node.js
+- Architecture & Quality: Microfrontends, Module Federation, Monorepo (Turborepo), RESTful APIs, Clean Code, Atomic Design, Jest, Playwright
+- UI & Others: Tailwind CSS, Radix UI, Ariakit, Micro Animations (Framer Motion), React Hook Form, HTML5, CSS3, SEO, Analytics (Google Tag Manager), Git, GitFlow
+
+> Outside of work: Anime · Music · Chess
 
 <div align="center">
   <a href="mailto:luk4xm4ci3l@gmail.com" target="_blank">
