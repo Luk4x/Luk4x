@@ -10,7 +10,7 @@
   <img align="right" width="143px" height="84px" src="https://github.com/user-attachments/assets/569b78f7-4570-44b0-ac8d-3d210c6d125f" alt="Mudar perfil para a versão em Inglês" />
 </a>
 
-- Engenheiro Frontend focado na construção de aplicações web escaláveis ​​e de alto impacto, utilizando o ecossistema React em ambientes de produção reais.
+- Engenheiro Frontend com mais de 4 anos de experiência, focado na construção de aplicações web escaláveis ​​e de alto impacto, utilizando o ecossistema React em ambientes de produção reais.
 - Forte ênfase em arquitetura de frontend, otimização de desempenho e interfaces fluidas de alta fidelidade, equilibrando a qualidade técnica com as necessidades do produto.
 - Experiência em projetar, migrar e evoluir sistemas de frontend complexos, incluindo Microfrontends, Federação de Módulos e Monorepos.
 - Experiência em backend e desenvolvimento mobile, proporcionando uma perspectiva técnica holística e orientada a produto.
@@ -19,9 +19,9 @@
 
 ### Principais tecnologias
 
-- Principais e Dados: React.js, Next.js, Vite, TypeScript, JavaScript, React Native, React Router, TanStack Router, TanStack Query (React Query), Apollo GraphQL, Node.js
-- Arquitetura e Qualidade: Microfrontends, Module Federation, Monorepo (Turborepo), RESTful APIs, Clean Code, Atomic Design, React Design Patterns, Jest/Vitest, Playwright, Storybook, MSW
-- UI e outros: Tailwind CSS, Radix UI, Ariakit, Micro animações (Framer Motion), React Hook Form, HTML5, CSS3, SEO, Analytics (Google Tag Manager), Git, GitFlow
+- **Principais e Dados:** React.js, Next.js, Vite, TypeScript, JavaScript, React Native, React Router, TanStack Router, TanStack Query (React Query), Apollo GraphQL, Node.js
+- **Arquitetura e Qualidade:** Microfrontends, Module Federation, Monorepo (Turborepo), RESTful APIs, Clean Code, Atomic Design, React Design Patterns, Jest/Vitest, Playwright, Storybook, MSW
+- **UI e outros:** Tailwind CSS, Radix UI, Ariakit, Micro animações (Framer Motion), React Hook Form, HTML5, CSS3, SEO, Analytics (Google Tag Manager), Git, GitFlow
 
 > Fora do trabalho: Anime · Música · Xadrez
 
