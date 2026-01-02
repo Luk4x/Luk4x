@@ -10,7 +10,7 @@
   <img align="right" width="160px" height="84px" src="https://github.com/user-attachments/assets/91347679-d312-4e97-9d8a-020a7961c1c7" alt="Change profile to portuguese version" />
 </a>
 
-- Frontend Engineer focused on building scalable, high-impact web applications using the React ecosystem in real-world production environments
+- Frontend Engineer with over 4 years of experience, focused on building scalable, high-impact web applications using the React ecosystem in real-world production environments
 - Strong emphasis on frontend architecture, performance optimization, and high-fidelity fluid interfaces, balancing technical quality with product needs
 - Experience designing, migrating, and evolving complex frontend systems, including Microfrontends, Module Federation, and Monorepos
 - Background in backend and mobile, enabling a holistic and product-oriented technical perspective
@@ -19,9 +19,9 @@
 
 ### Main stack
 
-- Core & Data: React.js, Next.js, Vite, TypeScript, JavaScript, React Native, React Router, TanStack Router, TanStack Query (React Query), Apollo GraphQL, Node.js
-- Architecture & Quality: Microfrontends, Module Federation, Monorepo (Turborepo), RESTful APIs, Clean Code, Atomic Design, React Design Patterns, Jest/Vitest, Playwright, Storybook, MSW
-- UI & Others: Tailwind CSS, Radix UI, Ariakit, Micro Animations (Framer Motion), React Hook Form, HTML5, CSS3, SEO, Analytics (Google Tag Manager), Git, GitFlow
+- **Core & Data:** React.js, Next.js, Vite, TypeScript, JavaScript, React Native, React Router, TanStack Router, TanStack Query (React Query), Apollo GraphQL, Node.js
+- **Architecture & Quality:** Microfrontends, Module Federation, Monorepo (Turborepo), RESTful APIs, Clean Code, Atomic Design, React Design Patterns, Jest/Vitest, Playwright, Storybook, MSW
+- **UI & Others:** Tailwind CSS, Radix UI, Ariakit, Micro Animations (Framer Motion), React Hook Form, HTML5, CSS3, SEO, Analytics (Google Tag Manager), Git, GitFlow
 
 > Outside of work: Anime · Music · Chess
 
