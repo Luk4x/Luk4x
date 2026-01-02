@@ -15,7 +15,7 @@
 - Experiência em projetar, migrar e evoluir sistemas de frontend complexos, incluindo Microfrontends, Federação de Módulos e Monorepos.
 - Conhecimentos de backend e mobile, proporcionando uma perspectiva técnica holística e orientada a produto.
 - Referência técnica dentro das equipes, contribuindo para decisões arquitetônicas, revisões de código e mentoria de outros desenvolvedores.
-- Preocupação profunda com a qualidade do código, manutenibilidade, documentação, DX, e escalabilidade a longo prazo dos sistemas.
+- Preocupação profunda com a qualidade do código, manutenibilidade, documentação, DX e escalabilidade a longo prazo dos sistemas.
 
 ### Principais tecnologias
 
