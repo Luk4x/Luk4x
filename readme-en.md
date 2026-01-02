@@ -1,4 +1,4 @@
-<img align="center" width="100%" alt="Banner do Github de Luk4x" src="https://github.com/user-attachments/assets/c37cc7e8-0b32-4381-b368-30460487c4bb" />
+w<img align="center" width="100%" alt="Banner do Github de Luk4x" src="https://github.com/user-attachments/assets/c37cc7e8-0b32-4381-b368-30460487c4bb" />
 <br/><br/>
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=Luk4x&labelColor=%232d2f31&countColor=%2374818D&labelStyle=upper" alt="Luk4x Github Profile Visitors Counter" height="40px" />
@@ -15,7 +15,7 @@
 - Experience designing, migrating, and evolving complex frontend systems, including Microfrontends, Module Federation, and Monorepos
 - Knowledge of backend and mobile development, enabling a holistic and product-oriented technical perspective
 - Technical reference within teams, contributing to architectural decisions, code reviews, and mentoring other developers
-- Deeply cares about code quality, maintainability, documentation, DX, and long-term scalability of systems
+- Deep concern about code quality, maintainability, documentation, DX and long-term scalability of systems
 
 ### Main stack
 
