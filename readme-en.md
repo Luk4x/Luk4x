@@ -7,7 +7,7 @@ w<img align="center" width="100%" alt="Banner do Github de Luk4x" src="https://g
 <hr/>
 
 <a href="README.md">
-  <img align="right" width="160px" height="84px" src="https://github.com/user-attachments/assets/91347679-d312-4e97-9d8a-020a7961c1c7" alt="Change profile to portuguese version" />
+  <img align="right" width="130px" height="32px" src="https://github.com/user-attachments/assets/c8b4f1c7-c7ed-4eee-b97a-68f8be8cb0fd" alt="Change profile to portuguese version" />
 </a>
 
 - Frontend Engineer with over 4 years of experience, focused on building scalable, high-impact web applications using the React ecosystem in real-world production environments
