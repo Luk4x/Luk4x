@@ -1,70 +1,56 @@
 <img align="center" width="100%" alt="Banner do Github de Luk4x" src="https://github.com/user-attachments/assets/c37cc7e8-0b32-4381-b368-30460487c4bb" />
 <br/><br/>
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=Luk4x&labelColor=%23636468&countColor=%2382a1aa&labelStyle=upper" alt="Luk4x Github Profile Visitors Counter" height="40px" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=Luk4x&labelColor=%232d2f31&countColor=%2374818D&labelStyle=upper" alt="Luk4x Github Profile Visitors Counter" height="40px" />
 </div>
+
 <hr/>
 
-<table align="right">
-  <tr>
-    <td height="43px">
-      <a href="README.md">Português 🇧🇷</a>
-    </td>
-  </tr>
-  <tr>
-    <td height="43px">
-      <b>
-        <a href="readme-en.md">English 🇺🇸</a>
-      </b>
-    </td>
-  </tr>
-</table>
+<a href="README.md">
+  <img align="right" width="160px" height="84px" src="https://github.com/user-attachments/assets/91347679-d312-4e97-9d8a-020a7961c1c7" alt="Change profile to portuguese version" />
+</a>
 <ul>
-  <li>🤩️ Passionate about programming, anime, and music.</li>
-  <li>🔭 Frontend developer with over <b>4 years of experience</b>, working on highly complex projects in both startups and large companies.</li>
-  <li>💻 Solid experience in Frontend development, with a focus on the React ecosystem.</li>
-  <li>🧠 Complementary knowledge in Backend and Mobile, allowing for a more integrated product view.</li>
-  <li>📚 Currently studying <b>Software Engineering</b>, combining practical market experience with solid theoretical foundations, while keeping up-to-date with relevant market technologies and trends.</li>
-  <li>🌱 Continuously evolving and always exploring new technologies, architectures, and standards.</li>
+  <li>Passionate about programming, anime, and music.</li>
+  <li>Frontend developer with over <b>4 years of experience</b>, working on highly complex projects in both startups and large companies.</li>
+  <li>Solid experience in Frontend development, with a focus on the React ecosystem.</li>
+  <li>Complementary knowledge in Backend and Mobile, allowing for a more integrated product view.</li>
+  <li>Currently studying <b>Software Engineering</b>, combining practical market experience with solid theoretical foundations, while keeping up-to-date with relevant market technologies and trends.</li>
+  <li>Continuously evolving and always exploring new technologies, architectures, and standards.</li>
   <li>
     <details>
-      <summary>🧩 Curiosities:</summary>
+      <summary>Curiosities:</summary>
       <ul>
-        <li>🤖 I structure my routine using pseudocode.</li>
-        <li>👨‍💻 I developed my first major script at age 14, modifying the inner workings of Windows (TCP/IP, process priorities, I/O optimizations).</li>  
-        <li>⛩️ I've watched over 500 anime.</li>
-        <li>✒️ My VSCode is monochromatic.</li>
-        <li>🫀 I have a GenioDesk and a treadmill: from 4 PM onwards I work walking.</li>
+        <li>I structure my routine using pseudocode.</li>
+        <li>I developed my first major script at age 14, modifying the inner workings of Windows (TCP/IP, process priorities, I/O optimizations).</li>  
+        <li>I've watched over 500 anime.</li>
+        <li>My VSCode is monochromatic.</li>
+        <li>I have a GenioDesk and a treadmill: from 4 PM onwards I work walking.</li>
       </ul>
     </details>
   </li>
 </ul>
 
-<table align="center">
-  <tr>
-    <td height="43px">
-      <a href="mailto:luk4xm4ci3l@gmail.com" target="_blank">
-        Email
-      </a>
-    </td>
-    <td height="43px">  
-      <a href="https://www.linkedin.com/in/lucasmacielf/" target="_blank">
-        LinkedIn
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="mailto:luk4xm4ci3l@gmail.com" target="_blank">
+   <img width="237px" height="40px" src="https://github.com/user-attachments/assets/8f17236d-a339-4195-a2e7-078584a3b082" alt="Email de Lucas Maciel Fracisco" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucasmacielf/" target="_blank">
+     <img width="186px" height="40px" src="https://github.com/user-attachments/assets/297600af-74d9-4c66-8f51-4b595083cfb8" alt="LinkedIn de Lucas Maciel Fracisco" />
+  </a>
+</div>
+
 
 <hr/>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Luk4x&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
-<img align="left" width="360px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=Luk4x&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400&layout=pie" />
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Luk4x&theme=github-dark-dimmed&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
+<img align="left" width="360px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=Luk4x&langs_count=12&theme=github_dark_dimmed&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400&layout=pie" />
 <div align="right">
-  <img width="575px" src="https://luk4x-github-readme-stats.vercel.app/api?username=Luk4x&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats&cache_seconds=14400&hide=contribs&show=discussions_answered,prs_merged,prs_merged_percentage" />
-  <img width="575px" src="https://streak-stats.demolab.com?user=Luk4x&theme=tokyonight&hide_border=true" />
+  <img width="575px" src="https://luk4x-github-readme-stats.vercel.app/api?username=Luk4x&theme=github_dark_dimmed&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats&cache_seconds=14400&hide=contribs&show=discussions_answered,prs_merged,prs_merged_percentage" />
+  <img width="575px" src="https://streak-stats.demolab.com?user=Luk4x&theme=github-dark-dimmed&hide_border=true" />
 </div>
 <br/>
 <div align="center">
-  <img width="570px" src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Coding%20Time&range=all_time&cache_seconds=14400" />
+  <img width="570px" src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=github_dark_dimmed&hide_border=true&custom_title=Coding%20Time&range=all_time&cache_seconds=14400" />
 </div>
 <!--
 
