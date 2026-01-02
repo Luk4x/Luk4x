@@ -20,7 +20,7 @@
 ### Main stack
 
 - Core & Data: React.js, Next.js, Vite, TypeScript, JavaScript, React Native, React Router, TanStack Router, TanStack Query (React Query), Apollo GraphQL, Node.js
-- Architecture & Quality: Microfrontends, Module Federation, Monorepo (Turborepo), RESTful APIs, Clean Code, Atomic Design, Jest, Playwright, MSW
+- Architecture & Quality: Microfrontends, Module Federation, Monorepo (Turborepo), RESTful APIs, Clean Code, Atomic Design, React Design Patterns, Jest/Vitest, Playwright, Storybook, MSW
 - UI & Others: Tailwind CSS, Radix UI, Ariakit, Micro Animations (Framer Motion), React Hook Form, HTML5, CSS3, SEO, Analytics (Google Tag Manager), Git, GitFlow
 
 > Outside of work: Anime · Music · Chess
