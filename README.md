@@ -13,7 +13,7 @@
 
 - Engenheiro Frontend com mais de 4 anos de experiência, focado na construção de aplicações web escaláveis ​​e de alto impacto, utilizando o ecossistema React em ambientes de produção reais.
 - Forte ênfase em arquitetura de frontend, otimização de desempenho e interfaces fluidas de alta fidelidade, equilibrando a qualidade técnica com as necessidades do produto.
-- Experiência em projetar, migrar e evoluir sistemas de frontend complexos, incluindo Microfrontends, Federação de Módulos e Monorepos.
+- Experiência em projetar, migrar e evoluir sistemas de frontend complexos, incluindo Microfrontends, Module Federation e Monorepos.
 - Conhecimentos de backend e mobile, proporcionando uma perspectiva técnica holística e orientada a produto.
 - Referência técnica dentro das equipes, contribuindo para decisões arquitetônicas, revisões de código e mentoria de outros desenvolvedores.
 - Preocupação profunda com a qualidade do código, manutenibilidade, documentação, DX e escalabilidade a longo prazo dos sistemas.
