@@ -24,7 +24,7 @@
 - **Arquitetura e Qualidade:** Microfrontends, Module Federation, Monorepo (Turborepo), RESTful APIs, Clean Code, Atomic Design, React Design Patterns, Jest/Vitest, Playwright, Storybook, MSW
 - **UI e outros:** Tailwind CSS, Radix UI, Ariakit, Micro animações (Framer Motion), React Hook Form, HTML5, CSS3, SEO, Analytics (Google Tag Manager), Git, GitFlow
 
-> Fora do trabalho: Anime · Música · Xadrez
+> Fora do trabalho: Anime · Música · FPS Games
 
 <div align="center">
   <a href="mailto:luk4xm4ci3l@gmail.com" target="_blank">
