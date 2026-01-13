@@ -27,15 +27,16 @@
 > Fora do trabalho: Anime · Música · FPS Games
 
 <div align="center">
-  <a href="mailto:luk4xm4ci3l@gmail.com" target="_blank">
-   <img width="237px" height="40px" src="https://github.com/user-attachments/assets/8f17236d-a339-4195-a2e7-078584a3b082" alt="Email de Lucas Maciel Fracisco" />
+  <a href="mailto:luk4x.dev@gmail.com" target="_blank">
+   <img width="220px" height="40px" src="https://github.com/user-attachments/assets/9e540c42-ddeb-48c1-a056-9f5117750000" alt="Email de Lucas Maciel Fracisco (luk4x)" />
   </a>
-  <a href="https://www.linkedin.com/in/lucasmacielf/" target="_blank">
-     <img width="186px" height="40px" src="https://github.com/user-attachments/assets/297600af-74d9-4c66-8f51-4b595083cfb8" alt="LinkedIn de Lucas Maciel Fracisco" />
+  <a href="https://www.linkedin.com/in/luk4x-dev" target="_blank">
+     <img width="161px" height="40px" src="https://github.com/user-attachments/assets/8d63047c-a8ba-411c-bc12-a9a3f96c787d" alt="LinkedIn de Lucas Maciel Fracisco (luk4x)" />
   </a>
 </div>
 
 <hr/>
+
 
 <img align="center" src="https://luk4x-github-readme-activity-graph.vercel.app/graph?username=Luk4x&theme=github-dark-dimmed&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 <img align="left" width="316px" src="https://luk4x-github-readme-status.vercel.app/api/top-langs?username=Luk4x&langs_count=12&theme=github_dark_dimmed&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400&layout=pie" />
