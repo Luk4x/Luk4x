@@ -26,11 +26,11 @@
 > Outside of work: Anime · Music · FPS Games
 
 <div align="center">
-  <a href="mailto:luk4xm4ci3l@gmail.com" target="_blank">
-   <img width="237px" height="40px" src="https://github.com/user-attachments/assets/8f17236d-a339-4195-a2e7-078584a3b082" alt="Email de Lucas Maciel Fracisco" />
+  <a href="mailto:luk4x.dev@gmail.com" target="_blank">
+   <img width="220px" height="40px" src="https://github.com/user-attachments/assets/9e540c42-ddeb-48c1-a056-9f5117750000" alt="Lucas Maciel Fracisco (luk4x) Email" />
   </a>
-  <a href="https://www.linkedin.com/in/lucasmacielf/" target="_blank">
-     <img width="186px" height="40px" src="https://github.com/user-attachments/assets/297600af-74d9-4c66-8f51-4b595083cfb8" alt="LinkedIn de Lucas Maciel Fracisco" />
+  <a href="https://www.linkedin.com/in/luk4x-dev" target="_blank">
+     <img width="161px" height="40px" src="https://github.com/user-attachments/assets/8d63047c-a8ba-411c-bc12-a9a3f96c787d" alt="Lucas Maciel Fracisco (luk4x) LinkedIn" />
   </a>
 </div>
 
